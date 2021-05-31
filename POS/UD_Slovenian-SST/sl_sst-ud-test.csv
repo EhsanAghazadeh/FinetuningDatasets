@@ -1,0 +1,1111 @@
+tokens,pos_tags
+"['hvala', 'vam', 'za', 'eee', 'vašo', 'pripombo']","[10, 2, 9, 15, 4, 10]"
+"['verjetno', 'je', 'tudi', 'v', 'teh', 'ugotovitvah', 'naše', 'poslušalke', 'kar', 'precej', 'soli', 'ne']","[5, 3, 0, 9, 4, 10, 4, 10, 5, 5, 10, 0]"
+['eee'],[15]
+"['glejte', 'zdaj', 'ne', 'vem', 'koliko', 'jih', 'v', '[gap]', 'jih', 'je', 'bilo', 'takrat', 'prisotnih', 'na', 'tem', 'eee', 'krpanju', 'ampak', 'skušamo', 'vse', 'zadevo']","[3, 5, 0, 3, 4, 2, 12, 8, 2, 6, 6, 5, 7, 9, 4, 15, 10, 11, 3, 4, 10]"
+"['na', 'generalno', 'gledati', 'na', 'racionalnost', 'eee', 'izkušnje', 'so', 'če', 'gledamo', 'kaj', 'delate', 'izvajalci', 'po', 'sloveniji', 'kar', 'eee', 'takšne', 'da', 'moramo', 'biti', 'zelo', 'previdni']","[9, 5, 3, 9, 10, 15, 10, 6, 1, 3, 2, 3, 10, 9, 13, 5, 15, 4, 1, 3, 6, 5, 7]"
+"['no', 'v', '[gap]', 'glejte', 'najlažje', 'je', 'reči', 'da', 'je', 'kaj', 'narobe', 'eee', 'eee', 'skušamo', 'eee', 'ta', 'vsa', 'dela', 'izvajati', 'zelo', 'racionalno']","[0, 12, 8, 3, 7, 6, 3, 1, 3, 2, 5, 15, 15, 3, 15, 4, 4, 10, 3, 5, 5]"
+"['eee', 'to', 'pomeni', 'z', 'tistim', 'minimalnim', 'še', 'potrebnim', 'eee', 'številom', 'ljudi', 'eee', 'z', '[gap]', 'tudi', 'zaradi', 'tega', 'da', 'so', 'te', 'eee', 'ti', 'stroški', 'čim', 'manjši']","[15, 4, 3, 9, 4, 7, 0, 7, 15, 10, 10, 15, 12, 8, 0, 9, 4, 1, 6, 4, 15, 4, 10, 5, 7]"
+"['mogoče', 'bi', 'še', 'dodal', 'prej', 'ko', 'nisem', 'dokončal']","[5, 6, 0, 3, 5, 1, 6, 3]"
+"['eee', 'izkušnja', 'v', 'letih', 'za', 'samo', 'vzdrževanje', 'eee', 'cest', 'eee', 'ta', 'nivo', 'vzdrževanja', 'tako', 'imenovani', 'standard', 'je', 'padel', 'po', 'v', 'letih', 'nazaj', 'pod', 'petdeset', 'procentov']","[15, 10, 9, 10, 9, 7, 10, 15, 10, 15, 4, 10, 10, 5, 7, 10, 6, 3, 9, 9, 10, 5, 9, 14, 10]"
+"['mi', 'smo', 'v', 'dogovoru', 'z', 'občino', 'ta', 'procent', 'eee', 'se', '[gap]', 'sedaj', 'smo', 'že', 'preko', 'šestdeset', 'procentov', 'to', 'pomeni', 'da', 'se', 'več', 'denarja', 'namenja']","[2, 3, 9, 10, 9, 10, 4, 10, 15, 12, 8, 5, 3, 0, 9, 14, 10, 4, 3, 1, 2, 4, 10, 3]"
+"['je', 'videl', 'kakšne', 'barve', 'mešajo']","[6, 3, 4, 10, 3]"
+"['in', 'to', 'so', 'mešali', 'kar', 'eno', 'olje', 'pa', 'ene', 'take', 'č', '[gap]', 'stare', 'barve']","[11, 4, 6, 3, 5, 14, 10, 11, 14, 4, 12, 8, 7, 10]"
+"['in', 'ni', 'dovolil', 'da', 'to', 'eee', 'mešajo', 'oziroma', 'sploh', 'ni', 'dovolil', 'da', 'eee', 'začnejo', 'barvati', 'fasado']","[11, 6, 3, 1, 4, 15, 3, 11, 0, 6, 3, 1, 15, 3, 3, 10]"
+"['v', 'velenju', 'naletimo', 'še', 'na', 'bolj', 'zapleteno', 'zgodbo']","[9, 13, 3, 0, 9, 5, 7, 10]"
+"['ampak', 'če', 'nimate', 'sline', 'je', 'to', 'malo', 'težje', 'ne']","[11, 1, 3, 10, 6, 4, 4, 7, 0]"
+"['in', 'tako', 'so', 'oni', 'nekako', 'izvabili', 'ven', 'resnico', 'oziroma', 'odkrili', 'laž']","[11, 5, 6, 2, 5, 3, 5, 10, 11, 3, 10]"
+"['noro', 'danes', 'v', 'glavnem', 'znanstveniki', 'odkrivajo', 'ter', 'preizkušajo', 'različne', 'metode', 'in', 'inštrumente']","[5, 5, 9, 7, 10, 3, 11, 3, 7, 10, 11, 10]"
+"['še', 'vedno', 'je', 'najbolj', 'razširjeno', 'učinkovito', 'preverjeno', 'in', 'uporabno', 'ugotavljanje', 'sprememb', 'v', 'telesnih', 'odzivih', 'ki', 'so', 'odvisni', 'od', 'eee', 'samodejnega', 'živčnega', 'sistema']","[0, 5, 6, 5, 7, 7, 7, 11, 7, 10, 10, 9, 7, 10, 1, 6, 7, 9, 15, 7, 7, 10]"
+"['pri', 'tem', 'uporabljamo', 'eee', 'poligrafski', 'instrument', 'oziroma', 'uporabljajo', 'policisti', 'in', 'kriminalisti', 'in', 'upoštevajo', 'eee', 'zahteve', 'različnih', 'metod', 'za', 'odkrivanje', 'zavajanja', 'oziroma', 'preverjanja', 'verodostojnih', 'izjav']","[9, 4, 3, 15, 7, 10, 11, 3, 10, 11, 10, 11, 3, 15, 10, 7, 10, 9, 10, 10, 11, 10, 7, 10]"
+"['predvsem', 'pa', 'opazujemo', 'in', 'opazujemo', 'in', 'opazujemo']","[0, 11, 3, 11, 3, 11, 3]"
+"['no', 'pri', 'opaz', '[gap]', 'pri', 'opazovanju', 'je', 'treba', 'zaznati', 'razbrati', 'poimenovati', 'in', 'interpretirati', 'znake', 'ki', 'jih', 'opazimo']","[0, 9, 12, 8, 9, 10, 3, 5, 3, 3, 3, 11, 3, 10, 1, 2, 3]"
+"['tako', 'torej', 'opazujte', 'in', 'eee', 'dajte', 'se', 'osredotočiti', 'na', 'tiste', 'za', 'katere', 'menite', 'da', 'lažejo', 'in', 'verjetno', 'boste', 'odkrili', 'kakšen', 'znak', 'ki', 'ga', 'drugače', 'pri', 'njemu', 'ni']","[5, 5, 3, 11, 15, 3, 2, 3, 9, 4, 9, 4, 3, 1, 3, 11, 5, 6, 3, 4, 10, 1, 2, 5, 9, 2, 3]"
+['[pause]'],[12]
+"['z', 'zmelkow', 'se', 'eee', 'bližamo', 'počasi', 'jubileju', 'radiomonade', 'devetinosemdeseti', 'del', 'je', 'pred', 'nami']","[9, 13, 2, 15, 3, 5, 10, 13, 7, 10, 6, 9, 2]"
+"['torej', 'bomo', 'naslednji', 'teden', 'doživeli', 'stotko', '?']","[11, 6, 7, 10, 3, 10, 8]"
+"['mislim', 'da', 'ne', 'še']","[3, 1, 0, 0]"
+"['devetinos', '[gap]', 'deves', '[gap]', '[:voice]', 'ne']","[12, 8, 12, 8, 8, 0]"
+"['bo', 'kar', 'še', 'n', '[gap]', 'nekaj', 'tednov', 'nekje', 'pred', 'iztekom', 'meseca', 'aprila', 'no', 'zagotovo', 'pa', 'ja']","[3, 5, 0, 12, 8, 4, 10, 5, 9, 10, 10, 10, 0, 5, 11, 0]"
+"['neverjetno', 'in', 'takrat', 'eee', 'bomo', 'verjetno', 'dobili', 'tudi', 'kakšen', 'ekskluziven', 'intervju', 'vsaj', 'upam']","[5, 11, 5, 15, 6, 5, 3, 0, 4, 7, 10, 0, 3]"
+"['bomo', 'odprli', 'en', 'otroški', 'šampanjec']","[6, 3, 14, 7, 10]"
+"['z', 'zvezdniki']","[9, 10]"
+"['ja', '…', '[:voice]', '…', 'tako']","[0, 8, 8, 8, 5]"
+"['tudi', 'to', 'lahko', 'naredimo', '…', '[:voice]']","[0, 4, 5, 3, 8, 8]"
+['radiomonada'],[13]
+['radiomonada'],[13]
+"['devetinosemdeseti', 'del', 'je', 'pred', 'nami']","[7, 10, 6, 9, 2]"
+['[pause]'],[12]
+"['zapleta', 'se', 'torej', 'inšpektor', 'pepe', 'je', 'dobil', 'policista', 'ga', 'ustavil', 'mu', 'preprečil', 'pot', 'in', 'eee', 'ne', 'vem']","[3, 2, 5, 10, 13, 6, 3, 10, 2, 3, 2, 3, 10, 11, 15, 0, 3]"
+"['ne', 'vem', 'ne', 'vem', 'glede', 'na', 'to', 'da', 'ima', 'vsa', 'pooblastila', 'da', 'ga', 'tudi', 'odpusti']","[0, 3, 0, 3, 5, 9, 4, 1, 3, 4, 10, 1, 2, 0, 3]"
+['ja'],[0]
+"['upajmo', 'da', 'se', 'kaj', 'takšnega', 'ne', 'bo', 'zgodilo', 'da', 'ne', 'bodo', 'zgubili', 'službe', 'kriza', 'je']","[3, 1, 2, 2, 4, 0, 6, 3, 1, 0, 6, 3, 10, 10, 6]"
+"['mislim', 'da', 'je', 'to', 'velik', 'problem']","[3, 1, 6, 4, 7, 10]"
+"['vi', 'gotovo', 'veste', 'zakaj', 'pravzaprav', 'teh', 'programov', 'v', 'celoti', 'ni', 'dobil', 'bom', 'rekla', 'onkološki', 'inštitut', 'z', 'denarjem', 'vred', 'ki', 'je', 'za', 'to', 'bil', 'ne']","[2, 5, 3, 5, 0, 4, 10, 9, 10, 6, 3, 6, 3, 7, 10, 9, 10, 5, 1, 6, 9, 4, 3, 0]"
+"['lansko', 'leto', 'oziroma', 'za', 'letošnje', 'leto', 'že', 'je', 'to', 'kar', 'nekaj', 'milijonov', 'evrov', 'za', 'oba', 'programa']","[7, 10, 11, 9, 7, 10, 0, 6, 4, 5, 4, 10, 10, 9, 4, 10]"
+"['eee', '…', 'pravzaprav', 'zgodovine', 'tega', 'ne', 'poznam', 'dobro', 'vendar', 'menim', 'da', 'že', 'to', 'kako', 'se', 'je', 'postavljala', 'zora', 's', 'kakšnimi', 'problemi', 'bi', 'nas', 'moralo', 'kaj', 'naučiti']","[15, 8, 0, 10, 4, 0, 3, 5, 11, 3, 1, 0, 4, 5, 2, 6, 3, 13, 9, 4, 10, 6, 2, 3, 2, 3]"
+['[pause]'],[12]
+['ja'],[0]
+"['eee', 'kako', 'ste', 'pa', 'vi', 'iskali', 'svojega', 'cimra', 'sostanovalca', 'cimra', '?']","[15, 5, 6, 11, 2, 3, 4, 10, 10, 10, 8]"
+['[pause]'],[12]
+"['[speaker:laughter]', 'dobro', 'jaz', 'se', 'nisem', 'eem']","[8, 5, 2, 2, 3, 15]"
+"['nisem', 'ga', 'iskala', 'ampak', 'sem', 'srečala', 'v', 'tečaj', 'slovenščine', 'na', 'začetku', 'eem', 'sem', 'srečala', 'moj', 'z', '[gap]', 'zdaj', '[gap]', 'eee', 'moj']","[6, 2, 3, 11, 6, 3, 9, 10, 10, 9, 10, 15, 6, 3, 4, 12, 8, 12, 8, 15, 4]"
+['[:voice]'],[12]
+"['mojo', 'cimro', 'mojega', 'cimra']","[4, 10, 4, 10]"
+"['ja', 'mojo', '[gap]', 'mojo', 'cimro']","[0, 4, 8, 4, 10]"
+"['cimer', 'moški']","[10, 10]"
+['a'],[15]
+"['mojega', 'cimra']","[4, 10]"
+"['[speaker:laughter]', 'eee', 'mojega', 'cimra']","[8, 15, 4, 10]"
+"['moški', 'spol']","[7, 10]"
+"['in', 'eem', 'sem', 'mislila', 'da', 'imam', 'dovolj', 'prostorja', 'eem', 'prostora', 'v', 'stanovanju', 'za', 'še', 'eno']","[11, 15, 6, 3, 1, 3, 4, 10, 15, 10, 9, 10, 9, 0, 14]"
+"['a', 'res', 'ali', 'kaj', '?']","[5, 5, 11, 2, 8]"
+"['[name:personal]', 'pa', 'ful', 'gleda', 'komu', 'si', 'to', 'rekel', '?', '[speaker:laughter]']","[13, 11, 5, 3, 2, 6, 4, 3, 8, 8]"
+"['[speaker:laughter]', '…', 'a', 'to', 'je', 'šefe', 'ne', 'šefe', '?']","[8, 8, 5, 4, 6, 10, 0, 10, 8]"
+"['ja', 'ja', '[gap]']","[0, 0, 8]"
+"['ha', '…', 'ja', 'ja', 'ja', 'ja', 'ja', '…', 'pekel', 'in', 'pripravljal', 'tam', 'sproti', '[gap]', 'mhm', 'ja']","[15, 8, 0, 0, 0, 0, 0, 8, 3, 11, 3, 5, 5, 8, 15, 0]"
+"['eee', 'varianta', 'je', 'da', 'se', 'usedete', 'v', 'čolne', 'ne', 'vem', 'a', 'la', 'na', 'otočcu', 'pa', 'pridete', 'v', 'dveh', 'urah', 'do', 'kostanjevice', 'in', 'pol', 'je', 'tam', 'naprej', 'p', '[gap]', 'piknik']","[15, 10, 6, 1, 2, 3, 9, 10, 0, 3, 5, 5, 9, 13, 11, 3, 9, 14, 10, 9, 13, 11, 5, 3, 5, 5, 12, 8, 10]"
+['aha'],[15]
+"['druga', 'varianta', 'je', 'ne', 'vem', 'da', 'greste', 'vi', '[:voice]', 'kaj', 'jaz', 'rečem', 'v', 'jamo', 'ali', 'v', 'kako', 'galerijo', 'in', 'pol', 'pridete', 'tam', 'se', 'usedete', 'v', 'čolne', 'in', 'pol', 'obkrožimo', 'kostanjevico', 'ker', 'otok', 'se', 'da', 'pač', 'lepo', 'krožno', 'okoli', 'in', 'pol', 'greste', 'na', 'piknik']","[7, 10, 6, 0, 3, 1, 3, 2, 8, 2, 2, 3, 9, 10, 11, 9, 4, 10, 11, 5, 3, 5, 2, 3, 9, 10, 11, 5, 3, 13, 1, 10, 2, 3, 0, 5, 5, 5, 11, 5, 3, 9, 10]"
+"['torej', 'za', 'istrabenzom', 'je', 'eno', 'eee', 'obdobje', 'rasti']","[11, 9, 13, 3, 14, 15, 10, 10]"
+"['obdobje', 'v', 'katerem', 'je', 'zrasel', 'kar', 'nekajkrat']","[10, 9, 4, 6, 3, 5, 5]"
+"['tudi', 'danes', 'ko', 'so', 'vse', 'borze', 'padle', 'je', 'približno', 'triinpolkrat', 'večji', 'kot', 'takrat', 'ko', 'sem', 'prišel']","[0, 5, 1, 6, 4, 10, 3, 6, 5, 5, 7, 1, 5, 1, 6, 3]"
+"['ampak', 'od', 'kod', 'ta', 'dolg', '?']","[11, 9, 5, 4, 10, 8]"
+"['ta', 'dolg', 'je', 'delno', 'posledica', 'tega', 'da', 'so', 'banke', 'eee', 'seveda', 'spremljale', 'ta', 'razvoj']","[4, 10, 6, 5, 10, 4, 1, 6, 10, 15, 0, 3, 4, 10]"
+"['in', 'da', 'je', 'eee', 'istrabenz', 'eee', 'črpal', 'po', 'eni', 'strani', 'iz', 'prodaje', 'nekaterih', 'drugih', 'naložb']","[11, 1, 6, 15, 13, 15, 3, 9, 14, 10, 9, 10, 4, 7, 10]"
+"['ministrstvo', 'sindikat', 'računsko', 'sodišče', 'ravnatelji', 'to', 'je', 'po', 'mnenju', 'učitelja', '[name:personal]', '[name:surname]', 'seznam', 'tistih', 'ki', 'bi', 'za', 'nezakonito', 'izplačane', 'plače', 'morali', 'prevzeti', 'odgovornost', 'pa', 'kot', 'pravi', 'niso']","[10, 10, 7, 10, 10, 4, 6, 9, 10, 10, 13, 13, 10, 4, 1, 6, 9, 5, 7, 10, 3, 3, 10, 11, 1, 3, 3]"
+"['[name:personal]', '[name:surname]']","[13, 13]"
+['[pause]'],[12]
+['ja'],[0]
+"['pa', 'a', 'je', 'bilo', 'to', 'regularno', '?']","[11, 5, 6, 6, 4, 7, 8]"
+"['š', '[gap]']","[12, 8]"
+['[pause]'],[12]
+"['je', 'že', 'moglo', 'biti']","[6, 0, 3, 3]"
+['[pause]'],[12]
+"['saj', 'smo', 'mulci', 'od', 'desetega', 'leta', 'naprej', 'pasli']","[11, 6, 10, 9, 7, 10, 5, 3]"
+['[pause]'],[12]
+"['sto', 'šestdeset', 'sto', 'sedemdeset', 'glav', 'živine']","[14, 14, 14, 14, 10, 10]"
+['[pause]'],[12]
+"['od', 'maja', 'meseca', 'pa', 'dokler', 'ni', 'bila', 'slana', 'smo', 'pasli', '[:voice]']","[9, 10, 10, 11, 1, 6, 6, 10, 6, 3, 8]"
+['[pause]'],[12]
+"['smo', 'prišli', 'popoldne', 's', 'šole', 'ob', 'dveh', 'ob', 'treh', 'smo', 'gnali', 'pasti']","[6, 3, 5, 9, 10, 9, 14, 9, 14, 6, 3, 3]"
+['[pause]'],[12]
+"['smo', 'bili', 'ob', 'desetih', 'zvečer', 'frej']","[6, 6, 9, 14, 5, 7]"
+['[pause]'],[12]
+"['ja', 'pa', 'so', 'vam', 'pol', 'tudi', 'gnoj', 'dali', 'za', 'te', 'njive', 'pa', '?']","[0, 11, 6, 2, 5, 0, 10, 3, 9, 4, 10, 11, 8]"
+"['napor', 'je']","[10, 6]"
+['ja'],[0]
+"['ko', 'ko', 'je', 'ko', 'si', 'v', 'milosti', 'ni', 'problema', 'ko', 'si', 'tako', 'v', 'ne', 'tolažbi', 'duhovni']","[1, 1, 3, 1, 3, 9, 10, 3, 10, 1, 3, 5, 9, 0, 10, 7]"
+"['ja', '…', 'čeprav', 'ne', 'prej', 'je', 'pa', 'bilo', 'ne', 'da', 'je', 'treba', 'prositi', 'za', 'ta', 'dar']","[0, 8, 1, 0, 5, 6, 11, 3, 0, 1, 3, 5, 3, 9, 4, 10]"
+"['to', 'bo']","[4, 3]"
+"['ja', 'prositi', 'za', 'tega', 'duha', 'slavljenja', 'ne']","[0, 3, 9, 4, 10, 10, 0]"
+['[pause]'],[12]
+"['neverjetno', 'ne']","[5, 0]"
+"['vaa', 'kako', 'dober', 'sok']","[15, 5, 7, 10]"
+['ja'],[0]
+"['ti', 'nalijem', 'še', 'zraven', '?']","[2, 3, 0, 5, 8]"
+"['ne', 'ne', 'bom', 'več', '[all:laughter]', 'ampak', 'ne', 'ful', 'mi', 'je', 'dober']","[0, 0, 3, 0, 8, 11, 0, 5, 2, 6, 7]"
+"['pa', 'pa', 'so', 'ga', 'ljudje', 'zajebavali', 'evo', 'pol', 'vam', 'je', 'pa', 'dal', 'kajlo']","[11, 11, 6, 2, 10, 3, 0, 5, 2, 6, 11, 3, 10]"
+"['veš', 'koliko', 'so', 'ga', 'p', '[gap]', 'je', 'bil', 'star', 'koliko', '[gap]', '…', 'štirideset', 'ja']","[3, 4, 3, 2, 12, 8, 6, 6, 7, 4, 8, 8, 14, 0]"
+"['je', 'ene', 'štir', '[gap]', 'ene', 'š', '[gap]', 'štirideset']","[15, 5, 12, 8, 5, 12, 8, 14]"
+['[gap]'],[12]
+"['tudi', 'ko', 'pri', 'štirje', 'revni', 'veš', 'špila', 'na', 'glavnik', 'pa', 'to']","[0, 1, 9, 14, 7, 3, 3, 9, 10, 11, 4]"
+"['na', 'glavnik', 'oni', 'špila', '[gap]', '[name:surname]', 'ja', 'tam', 'je', '[name:surname]']","[9, 10, 4, 3, 8, 13, 0, 5, 3, 13]"
+"['tam', 'kjer', 'špila', '[name:surname]', '…', '[name:personal]']","[5, 1, 3, 13, 8, 13]"
+"['to', 'je', '[name:surname]', '[name:personal]', '[name:surname]', 'ja']","[4, 6, 13, 13, 13, 0]"
+"['to', 'je', 'brat', 'od', 'tega', '[name:personal]', 'pa', 'od', 'teh']","[4, 6, 10, 9, 4, 13, 11, 9, 4]"
+"['ja', 'ja', 'ja', 'ja']","[0, 0, 0, 0]"
+"['[gap]', 'to', 'so', '[name:surname]']","[8, 4, 6, 13]"
+"['a', 'to', 'so', '[name:surname]', 'po', 'domače']","[5, 4, 6, 13, 9, 5]"
+"['[name:surname]', '[name:surname]', 'ja']","[13, 13, 0]"
+"['ja', 'se', '…', 'v', 'božjah', 'v', 'božjah']","[0, 2, 8, 9, 13, 9, 13]"
+"['samo', 'ti', 'pa', 'niso', 'v', 'oplotnici', 'doma', 'ti', 'so', 'jo', 'v', 'zrečah']","[0, 4, 11, 3, 9, 13, 5, 4, 3, 2, 9, 13]"
+"['[speaker:laughter]', '…', 'v', 'božjah', 'v', 'božjah', 'gor']","[8, 8, 9, 13, 9, 13, 5]"
+"['božje', 'nad', 'oplotnico', '…', 'oni', 'je', 'tu', 'oženjen', '[name:surname]', '?']","[13, 9, 13, 8, 4, 6, 5, 7, 13, 8]"
+"['aja', 'oni', 'je', 'bil', 'tu', 'v', 'zrečah', 'nekaj', 'pri', 'eni', 'teti', 'ali', 'kako']","[15, 4, 6, 3, 5, 9, 13, 4, 9, 14, 10, 11, 5]"
+"['ne', '[name:personal]', 'je', 'bil', 'to', 'pri', 'eni', 'teti']","[0, 13, 6, 3, 4, 9, 14, 10]"
+"['[name:personal]', 'je', 'doma']","[13, 3, 5]"
+['ne'],[0]
+['ja'],[0]
+"['[name:personal]', 'tisti', 'ki', 'je', 'malo', 'bolj', 'droben', 'pa', 'malo', 'bolj', 'velik', 'je', 'čelavi']","[13, 4, 1, 6, 4, 5, 7, 11, 4, 5, 7, 6, 7]"
+"['ja', '[name:personal]', '…', 'ja', '…', 'samo', 'tisti', 'ima', 'enega', 'otroka', 'nima', 'čisto', 'sina', 'ima', 'nekaj', 'malo', 'narobe']","[0, 13, 8, 0, 8, 0, 4, 3, 14, 10, 3, 5, 10, 3, 4, 4, 5]"
+"['[name:personal]', 'ja', '…', 'tisti', 'so', 't', '[gap]', 'pa', 'ti', 'so', 'tako', 'vsi', 'čisto', 'isti']","[13, 0, 8, 4, 6, 12, 8, 11, 4, 6, 5, 4, 5, 4]"
+"['tako', 'če', 'je', 'takole', 'turobno', 'je', 'tudi', 'manj', 'ljudi', 'manj', 'to', 'pa', 'smo', 'tudi', 'mi', 'bolj', 'žalostni']","[5, 1, 6, 5, 7, 3, 0, 4, 10, 4, 4, 11, 6, 0, 2, 5, 7]"
+"['prej', 'ste', 'se', 'opravičili', 'eee', '[name:personal]', 'kje', 'sedi', 'da', 'še', 'ni', 'prebral', 'eee', 'ronje']","[5, 6, 2, 3, 15, 13, 5, 3, 1, 0, 6, 3, 15, 13]"
+"['jaz', 'tudi', 'ne']","[2, 0, 0]"
+"['eee', 'do', 'petka', 'boš', 'lahko', 'prebral', 'do', 'petka', 'vsaj', '?']","[15, 9, 10, 6, 5, 3, 9, 10, 0, 8]"
+"['ne', 'ne', 'bom', 'mogel', 'učiteljica']","[0, 0, 6, 3, 10]"
+['eee'],[15]
+"['pa', 'imam', 'jaz', 'tudi', 'svoje', 'obveznosti']","[11, 3, 2, 0, 4, 10]"
+"['danes', 'recimo', 'nimam', 'niti', 'časa', 'ker', 'grem', 'po', 'špegle', 'in', 'grem', 'g', '[gap]', 'brata', 'na', 'trening', 'peljat', 'pa', 'vsega', 'tega']","[5, 3, 3, 0, 10, 1, 3, 9, 10, 11, 3, 12, 8, 10, 9, 10, 3, 11, 4, 4]"
+"['v', 'redu', 'potem', 'pa', 'jutri', 'prinesete', 's', 'seboj', 'delovne', 'zvezke', 'bomo', 's', 'premim', 'govorom', 'nadaljevali']","[9, 10, 5, 11, 5, 3, 9, 2, 7, 10, 6, 9, 7, 10, 3]"
+"['jutri', 'pa', 'v', 'petek', 'pa', 'naj', 'potem', 'učiteljica', 'z', 'vami', '[gap]']","[5, 11, 9, 10, 11, 0, 5, 10, 9, 2, 8]"
+['[pause]'],[12]
+['reci'],[3]
+"['jaz', 'sem', 'danes', 'pozabil', 'zvezke', 'doma', 'ker', 'sem', 'mislil', 'da', 'pišemo', 'to', 'o', 'ronji']","[2, 6, 5, 3, 10, 5, 1, 6, 3, 1, 3, 4, 9, 13]"
+"['organizator', 'absolutni', 'svetovni', 'prvak', 'predlani', 'v', 'las', 'vegasu', 'in', 'lani', 'v', 'bariju', 'pa', 'seveda', 'močno', 'pogreša', 'sponzorsko', 'in', 'medijsko', 'podporo', 'kakršne', 'je', 'svetovno', 'prvenstvo', 'deležno', 'na', 'zahodu']","[10, 7, 7, 10, 5, 9, 13, 13, 11, 5, 9, 13, 11, 0, 5, 3, 7, 11, 7, 10, 4, 6, 7, 10, 7, 9, 10]"
+"['ja', 'se', '[gap]', 'se', '[gap]']","[0, 12, 8, 12, 8]"
+['semenčice'],[10]
+"['semenčice', '[name:personal]', 'semenčice', 'kaj', 'pa', 'je', 'to', 'semenčice', '?']","[10, 13, 10, 2, 11, 6, 4, 10, 8]"
+"['moške', 'spolne', 'celice']","[7, 7, 10]"
+"['to', 'je', 'moška', 'spolna', 'celica', 'ja']","[4, 6, 7, 7, 10, 0]"
+"['no', 'tu', 'je', 'trizoba', 'kukavica']","[0, 5, 3, 7, 10]"
+"['poglejte', 'so', '[gap]', 'njeni', 'sorodniki', 'pa', 'so', 'navadna', 'kukavica', 'pegastoprsta', 'ku', '[gap]', 'kukavica', 'ste', 'videli', 'kdaj', 'tole', 'na', 'travnikih', '?']","[3, 12, 8, 4, 10, 11, 6, 7, 10, 7, 12, 8, 10, 6, 3, 5, 4, 9, 10, 8]"
+['ja'],[0]
+['[gap]'],[12]
+"['zelo', 'lepa']","[5, 7]"
+"['potem', 'je', 'pikastocvetna', 'kukavica']","[5, 3, 7, 10]"
+"['sem', 'tudi', 'videla']","[6, 0, 3]"
+"['tudi', 'to', 'je', 'po', '[gap]', 'kar', 'pogosta', 'rastlina', 'na', 'naših', 'travnikih', 'ne']","[0, 4, 6, 12, 8, 5, 7, 10, 9, 4, 10, 0]"
+"['no', 'naslednja', 'eee', 'družina', 'so', 'metuljnice']","[0, 7, 15, 10, 6, 10]"
+"['letos', 'smo', 'jih', 'že', 'omenjali']","[5, 6, 2, 0, 3]"
+"['s', 'katerimi', 'rastlinami', 'v', 'povezavi']","[9, 4, 10, 9, 10]"
+"['katere', 'vrste', 'rastlin', 'smo', 'omenjali', 'da', 'so', 'metuljnice', '[name:personal]']","[4, 10, 10, 6, 3, 1, 6, 10, 13]"
+['upora'],[10]
+"['to', 'sta', 'zadnja', 'dva', 'elementa', 'kondenzator', 'upor']","[4, 6, 7, 14, 10, 10, 10]"
+['[pause]'],[12]
+"['kako', 'frekvenčno', 'območje', 'pa', 'mi', 'slišimo', '?']","[4, 7, 10, 11, 2, 3, 8]"
+['[pause]'],[12]
+['dvajset'],[14]
+"['od', 'dvajset', 'herzov', 'do', 'dvajset', 'kiloherzov']","[9, 14, 10, 9, 14, 10]"
+"['dvajset', 'herzov', 'do', 'dvajset', 'kiloherzov', 'ne']","[14, 10, 9, 14, 10, 0]"
+"['to', 'je', 'zdaj', 'mi', 'jim', 'lahko', 'višino', 'tona', 's', 'tem', 'določamo', 'ne']","[4, 3, 5, 2, 2, 5, 10, 10, 9, 4, 3, 0]"
+"['[gap]', 'frekvenca', 'piskanja']","[8, 10, 10]"
+"['se', 'pravi', 'ta', 'logična', 'enka', 'na', 'tem', 'vhodu', 'ta', 'oscilator', 'zaoscilira', 's', 'to', 'frekvenco', 'ki', 'jo', 'določata', 'dva', 'moja', 'elementa', '[gap]', 'logična', 'ena']","[2, 3, 4, 7, 10, 9, 4, 10, 4, 10, 3, 9, 4, 10, 1, 2, 3, 14, 4, 10, 8, 7, 14]"
+"['kdaj', 'pa', 'pride', 'sem', 'logična', 'enka', 'če', 'sklenem', 'tole', 'stikalo', 'iz', 'zadnjega', 'izhoda', '?']","[5, 11, 3, 5, 7, 10, 1, 3, 4, 10, 9, 7, 10, 8]"
+"['oziroma', 'lahko', 'rečem', 'z', 'drugimi', 'besedami', 'od', 'nič', 'do', 'devetindevetdeset', 'kdaj', 'bo', 'ta', 'zvočnik', 'piskal', '?']","[11, 5, 3, 9, 7, 10, 9, 4, 9, 14, 5, 6, 4, 10, 3, 8]"
+"['ja', 'kakor', 'bomo', 'nastavili']","[0, 1, 6, 3]"
+"['ja', 'če', 'imamo', '[gap]', 'k', 'analizam']","[0, 1, 3, 8, 9, 10]"
+"['šestinsedemdesetletna', 'pevka', 'je', 'sinoči', 'kljub', 'slabemu', 'zdravju', 'želela', 'nastopiti', 'na', 'koncertu', 'ki', 'so', 'ga', 'pripravili', 'v', 'podporo', 'pisatelju', 'in', 'borcu', 'proti', 'mafiji', 'robertu', 'savianu', 'v', 'kraju', 'castel', 'volturno', 'znanem', 'oporišču', 'camorre']","[7, 10, 6, 5, 9, 7, 10, 3, 3, 9, 10, 1, 6, 2, 3, 9, 10, 10, 11, 10, 9, 10, 13, 13, 9, 10, 13, 13, 7, 10, 13]"
+"['ja', 'tu', 'meni', 'so', 'poslali', 'že', 'začetek', 'februarja', 'da', 'eee', 'naj', 'dam', 'na', 'kakšen', 'drugi', 'paket', 'ali', 'naj', 'ono', 'ma', 'pol', 'sem', 'eee', 'rajši', 'naredil', 'na', '[name:personal]', 'ne']","[0, 5, 2, 6, 3, 0, 10, 10, 1, 15, 0, 3, 9, 4, 7, 10, 11, 0, 4, 0, 5, 6, 15, 5, 3, 9, 13, 0]"
+"['ja', 'ja', 'ja', 'kaj', 'pa', '…', 'mislim', 'brez', 'veze', 'saj', 'saj']","[0, 0, 0, 2, 11, 8, 3, 9, 10, 11, 11]"
+"['ja', 'se', 'bolj', 'splača', 'zdaj', 'moram', 'zdaj', 'moram', 'še', 'ono', 'moram', 'še', 'internet', 'isto', 'ker', 'internet', 'mi', 'bo', 'pa', 'zdaj', 'pa', 'eee', 'konec', 'marca', 'pretekel', 'ne']","[0, 2, 5, 3, 5, 3, 5, 3, 0, 4, 3, 0, 10, 5, 1, 10, 2, 6, 11, 5, 11, 15, 9, 10, 3, 0]"
+"['eee', 'ja', 'nekateri', 'med', 'njimi', 'si', 'izbrali', 'tako', 'življenje', 'največ', 'jih', 'je', 'pa', 'verjetno', 'prisiljenih', 'v', 'to']","[15, 0, 4, 9, 2, 2, 3, 4, 10, 4, 2, 6, 11, 5, 7, 9, 4]"
+"['ni', 'jim', 'luštno', 'ne']","[3, 2, 5, 0]"
+"['seveda', 'kakšen', 'si', 'je', 'tudi', 'sam', 'kriv', 'velika', 'večina', 'je', 'verjetno', 'po', 'nekem', 'spletu', 'okoliščin', 'se', 'z', '[gap]', 'znašla', 'v', 'težavah', 'in', 'eee', 'potem', 'seveda', 'ne', 'z', '[gap]', 'ne', 'najdejo', 'izhoda']","[0, 4, 2, 6, 0, 7, 7, 7, 10, 6, 5, 9, 4, 10, 10, 2, 12, 8, 3, 9, 10, 11, 15, 5, 0, 0, 12, 8, 0, 3, 10]"
+"['kaj', 'naj', 'rečem', 'vesel', 'sem', 'da', 'nisem', 'med', 'njimi', 'ne', 'jim', 'pa', 'saj', 'pravim', 'nič', 'ne', 'zavidam']","[2, 0, 3, 7, 6, 1, 3, 9, 2, 0, 2, 11, 11, 7, 4, 0, 3]"
+"['razlogov', 'more', 'biti', 'zagotovo', 'veliko']","[10, 3, 3, 5, 4]"
+"['zdaj', 'jaz', 'verjamem', 'da', 'ima', 'vsak', 'svojo', 'zgodbo']","[5, 2, 3, 1, 3, 4, 4, 10]"
+"['ne', 'zdi', 'se', 'mi', 'smiselno', 'obsojati', 'ljudi', 'je', 'pa', 'res', 'da', 'je', 'toliko', 'pomoči', 'in', 'eee', 'toliko', 'ponudb', 'da', 'se', 'da', 'rešiti', 'to']","[0, 3, 2, 2, 5, 3, 10, 3, 11, 5, 1, 3, 4, 10, 11, 15, 4, 10, 1, 2, 3, 3, 4]"
+"['potem', 'bomo', 'kar', 'začeli', 'z', 'majskimi', 'igrami', 'ki', 'se', 'začnejo', 'četrtega', 'maja']","[5, 6, 5, 3, 9, 7, 10, 1, 2, 3, 7, 10]"
+"['povedali', 'kaj', 'točno', 'se', 'dogaja', 'letos', 'seveda', 'ne', 'bomo', 'pozabili', 'tudi', 'na', 'škisovo', 'tržnico']","[3, 2, 5, 2, 3, 5, 0, 0, 6, 3, 0, 9, 7, 10]"
+"['to', 'je', 'pa', 'res', 'fenomenalna', 'ne', 'samo', 'žurka', 'ampak', 'nasploh', 'spektakel']","[4, 6, 11, 5, 7, 0, 0, 10, 11, 5, 10]"
+"['preverjeno', '?']","[7, 8]"
+"['preverjeno', '[name:personal]', '?']","[7, 13, 8]"
+['dobro'],[5]
+"['preverjeno', 'tudi', 's', 'tvoje', 'strani', '?']","[7, 0, 9, 4, 10, 8]"
+"['ne', 'še', '?']","[0, 0, 8]"
+"['mh', 'ja', 'hm']","[15, 0, 15]"
+"['[name:personal]', 'ti', 'prideš', 'letos', '?']","[13, 2, 3, 5, 8]"
+['[:voice]'],[12]
+"['eem', 'jaz', 'se', 'bolj', 'osredotočam', 'na', 'tele', 'mariborske', 'žurke', 'ker', 'počasi', 'bo', 'cvičkarija', 'pa', 'lampijončki', 'se', 'tudi', 'bližajo']","[15, 2, 2, 5, 3, 9, 4, 7, 10, 1, 5, 3, 10, 11, 10, 2, 0, 3]"
+"['aja', '…', 'točno']","[15, 8, 5]"
+"['ja', 'ja', 'pa', 'moraš', 'malo', 'dohajati', 'a', 'ne', 'da', '[speaker:laughter]']","[0, 0, 11, 3, 4, 3, 5, 0, 1, 8]"
+"['kje', 'čutite', 'to', 'bistvo', 'pravljic', 'recimo', 'tudi', 'za', 'odraslega', '?']","[5, 3, 4, 10, 10, 3, 0, 9, 7, 8]"
+['[pause]'],[12]
+"['ja', 'zdaj', 'ste', 'se', 'dotaknili', 'ene', 'teme', 'ki', 'je', 'pravzaprav', 'z', '[gap]', 'letos', 'zame', 'postala', 'aktualna']","[0, 5, 6, 2, 3, 14, 10, 1, 6, 0, 12, 8, 5, 2, 3, 7]"
+"['letos', 'sem', 'jaz', 'prekinila', 'pisanje', 'pravljic', 'kjer', 'kjer', 'je', 'obvezen', 'srečen', 'konec']","[5, 6, 2, 3, 10, 10, 1, 1, 6, 7, 7, 10]"
+"['prvi', 'nastavek', 'novega', 'tipa', 'pravljic', 'ki', 'jih', 'zdaj', 'pišem', 'je', 'bil', 'že', 'v', 'davni', 'pekarni', 'miš', 'maš', 'kjer', 'srečnega', 'konca', 'ni', 'konec', 'je', 'odprt', 'ne', 'vemo', 'kam', 'je', 'miš', 'maš', 'odšel', 'vemo', 'samo', 'da', 'je', 'odšel']","[7, 10, 7, 10, 10, 1, 2, 5, 3, 6, 3, 0, 9, 7, 10, 13, 13, 1, 7, 10, 3, 10, 6, 7, 0, 3, 5, 6, 13, 13, 3, 3, 0, 1, 6, 3]"
+"['eee', 'zdaj', 'je', 'nastala', 'nova', 'knjiga', 'mi', 'kosovirji', 'to', 'je', 'tretji', 'del', 'kosovirjev']","[15, 5, 6, 3, 7, 10, 2, 10, 4, 6, 7, 10, 10]"
+"['eee', 'napisala', 'sem', 'pa', 'tudi', 'knjigo', 'oziroma', 'pravljico', 'mesečinska', 'struna']","[15, 3, 6, 11, 0, 10, 11, 10, 7, 10]"
+"['kjer', 'ne', 'nastopa', 'nobena', 'žival', 'nobena', 'muca', 'nobene', 'miške', 'nobeni', 'zajčki']","[1, 0, 3, 4, 10, 4, 10, 4, 10, 4, 10]"
+"['da', 'smo', 'mi', 'že', 'v', 'drugem', 'obdobju', 'ko', 'si', 'pa', 'on', 'že', 'zgradi', 'prvo', 'bivališče', 'iz', 'vej', 'slame', 'in', 'tako', 'naprej', 'se', 'pravi', 'kaj', 'je', 'bil', 'na', '[gap]', 'namen', 'uporabe', 'zatočišč', '?']","[1, 3, 2, 0, 9, 7, 10, 1, 2, 11, 2, 0, 3, 7, 10, 9, 10, 10, 11, 5, 5, 2, 3, 2, 6, 6, 12, 8, 10, 10, 10, 8]"
+"['ja', 'da', 'je', 'začasno', 'tam', 'ne']","[0, 1, 3, 5, 5, 0]"
+['[:voice]'],[12]
+"['[gap]', 'da', 'se', 'samo', 'tja', 'zateče']","[8, 1, 2, 0, 5, 3]"
+"['pa', 'da', 'so', 'se', 'skrili', 'pred', 'plenilci']","[11, 1, 6, 2, 3, 9, 10]"
+"['tako', 'je', 'varovanje', 'pred', 'vremenskimi', 'pojavi']","[5, 3, 10, 9, 7, 10]"
+"['zavaruje', 'se', 'pred', 'vremenskimi', 'pojavi']","[3, 2, 9, 7, 10]"
+['[pause]'],[12]
+"['zavaruje', 'se', 'pred', 'vremenskimi', 'pojavi', 'in', 'nevarnostmi']","[3, 2, 9, 7, 10, 11, 10]"
+['aja'],[15]
+['[pause]'],[12]
+"['bomo', 'tukaj', 'kaj', 'gradbeni', 'material', 'zapisali', '?']","[6, 5, 5, 7, 10, 3, 8]"
+"['ne', 'ker', 'on', 'tukaj', 'ni', 'uporabljal', 'gradbeni', 'material', 'on', 'si', 'tega', 'ni']","[0, 1, 2, 5, 6, 3, 7, 10, 2, 2, 4, 3]"
+"['on', 'je', 'samo', 'iskal']","[2, 6, 0, 3]"
+"['pr', '[gap]']","[12, 8]"
+"['tako', 'je', 'on', 'je', 'to', 'poiskal', 'zatočišče', 'in', 'se', 'tja', 'zatekel']","[5, 3, 2, 6, 4, 3, 10, 11, 2, 5, 3]"
+['dobro'],[5]
+"['potem', 'smo', 'pa', 'rekli', 'gradnja', 'prvih', 'bivališč']","[5, 6, 11, 3, 10, 7, 10]"
+"['in', 'si', 'zapišete', 'prva', 'bivališča', 'nekje', 'jih', 'beležimo', 'v', 'mlajši', 'kameni', 'dobi']","[11, 2, 3, 7, 10, 5, 2, 3, 9, 7, 7, 10]"
+"['meni', 'to', 'tule', 'ne', 'bo', 'prišlo', '…', 'kako', 'to', '?']","[2, 4, 5, 0, 6, 3, 8, 5, 4, 8]"
+['ja'],[0]
+"['zakaj', 'ne', '?']","[5, 0, 8]"
+"['sploh', 'če', 'je', 'ne', 'prebereš', 'mislim', 'tako', 'da', 'jo', 'prebereš']","[0, 1, 2, 0, 3, 3, 5, 1, 2, 3]"
+"['saj', 'najde', 'človek', 'kakor', 'še', 'v', 'knji', '[gap]', 'v', 'knjižnico', 'greš', 'pa', 'si', 'jo', 'lahko', 'sposodiš']","[11, 3, 10, 1, 0, 9, 12, 8, 9, 10, 3, 11, 2, 2, 5, 3]"
+"['tako', 'je']","[5, 3]"
+"['saj', 'je', 'eno', 'in', 'isto']","[11, 6, 14, 11, 4]"
+['ja'],[0]
+"['škoda', 'če', 'je', 'ra', '[gap]', 'rad', 'bereš', 'eno', 'knjigo', 'pa', 'jo', 'pol', 'mislim', 'tako', 'da', 'ti', 'je', 'ena', 'všeč', 'pol', 'jo', 'pa', 'kupiš', 'za', 'ne', 'vem', 'koliko', 'denarja']","[10, 1, 6, 12, 8, 5, 3, 14, 10, 11, 2, 5, 3, 5, 1, 2, 3, 14, 5, 5, 2, 11, 3, 9, 0, 3, 4, 10]"
+['aha'],[15]
+"['no', 'majčkeno', 's', '[gap]', 'še', 'potrpite', 'do', 'pete', 'pete', 'skupine', 'mi', 'smo', 'imeli', 'eno', 'drugo', 'ugotovitev', '[name:personal]', 'kaj', 'pravite', 'vi', '?']","[0, 5, 12, 8, 0, 3, 9, 7, 7, 10, 2, 6, 3, 14, 7, 10, 13, 2, 3, 2, 8]"
+"['eem', 'pri', 'nas', 'pa', 'po', 'potrebi', 'pa', 'za', 'šolo']","[15, 9, 2, 11, 9, 10, 11, 9, 10]"
+['mhm'],[15]
+"['pri', 'nas', 'tudi', 'samo', 'po', 'potrebi']","[9, 2, 0, 0, 9, 10]"
+"['[name:personal]', '[name:surname]', 'pozdravljena']","[13, 13, 7]"
+"['videli', 'smo', 'veliko', 'navdušenje', 'podpornikov', 'obame', 'ti', 'si', 'bila', 'pred', 'belo', 'hišo']","[3, 6, 4, 10, 10, 13, 2, 6, 3, 9, 7, 10]"
+"['polovico', 'več', 'ne', 'rabimo', 'da', 'vidimo', 'preskok']","[10, 4, 0, 3, 1, 3, 10]"
+"['se', 'vidi', 'preskok', '?']","[2, 3, 10, 8]"
+['ja'],[0]
+"['prej', 'je', 'bil', 'moder', 'polovica', 'je', 'še', 'vedno', 'moder', 'ostala', 'polovica', 'pa', 'je', 'že']","[5, 6, 6, 7, 10, 6, 0, 5, 7, 7, 10, 11, 3, 0]"
+['rdeča'],[7]
+['rdeča'],[7]
+"['in', 'zdaj', 'moramo', 'vpisati', 'preskok', 'v', 'kolono', 'naslednj', '[gap]', 'v', 'tretjo', 'kolono', 'kako', 'bomo', 'to', 'napisali', '[name:personal]']","[11, 5, 3, 3, 10, 9, 10, 12, 8, 9, 7, 10, 5, 6, 4, 3, 13]"
+"['ja', '…', 'iz', 'modre', 'v', 'rdečo']","[0, 8, 9, 7, 9, 7]"
+"['preskok', 'barve', '…', 'torej', 'moder', 'rdeč']","[10, 10, 8, 11, 7, 7]"
+['[pause]'],[12]
+"['tako', 'zdaj', 'bomo', 'pa', 'polovico', 'naše', 'vodne', 'raztopine', 'prelili', 'v', 'drugo', 'epruvetko']","[5, 5, 6, 11, 10, 4, 7, 10, 3, 9, 7, 10]"
+"['tako', 'boste', 'tudi', 'vi', 'počeli', 'potem', 'jaz', 'si', 'zdaj', 'pomagam', 'tukaj', 'z', 'lijem', 'vi', 'ne', 'boste', 'rabili', 'lija', 'ker', 'nimate', 'takšnih', 'jedkih', 'preiskovanih', 'snovi']","[5, 6, 0, 2, 3, 5, 2, 2, 5, 3, 5, 9, 10, 2, 0, 6, 3, 10, 1, 3, 4, 7, 7, 10]"
+"['kateri', 'morski', 'tok', '?']","[4, 7, 10, 8]"
+['[pause]'],[12]
+"['ne', 'ni', 'bengalski']","[0, 3, 7]"
+"['v', 'gvinejskem', 'zalivu', 'se', 'začne']","[9, 7, 10, 2, 3]"
+['[pause]'],[12]
+"['največji', 'morski', 'tok', 'na', 'svetu']","[7, 7, 10, 9, 10]"
+"['[gap]', 'kako', 'se', 'imenuje', 'ta', 'morski', 'tok', '?']","[8, 5, 2, 3, 4, 7, 10, 8]"
+['[pause]'],[12]
+"['ki', 'se', 'začne', 'v', 'gvinejskem', 'zalivu', 'se', 'imenuje', 'zalivski', 'zalivski', 'tok']","[1, 2, 3, 9, 7, 10, 2, 3, 7, 7, 10]"
+"['kakšen', 'je', 'ta', 'zalivski', 'tok', 'eee', 'topel', 'ali', 'hladen', '?']","[4, 6, 4, 7, 10, 15, 7, 11, 7, 8]"
+['topli'],[7]
+"['ja', 'topel', 'ker', 'se', 'začne', '[gap]', 'blizu', 'ekvatorja', 'in', 'potem', 'teče', 'v', 'višje', 'geografske', 'širine']","[0, 7, 1, 2, 3, 8, 9, 10, 11, 5, 3, 9, 7, 7, 10]"
+"['eee', 'ko', 'preide', 'v', 'karibsko', 'morje', 'ga', 'lahko', 'enostavno', 'imenujemo', 'tudi', 'kar', 'karibski', 'tok', 'ne', 'potem', 'ga', 'pa', 'zopet', 'preimenujemo', 'naprej', 'v', 'zalivski', 'tok']","[15, 1, 3, 9, 7, 10, 2, 5, 5, 3, 0, 5, 7, 10, 0, 5, 2, 11, 5, 3, 5, 9, 7, 10]"
+"['čeprav', 'saj', 'kaj', 'račun', 'plačaš', 'in', 'to', 'je', 'to']","[1, 11, 2, 10, 3, 11, 4, 6, 4]"
+"['a', 'ne', 'ne', 'ne', 'to', 'da', 'da', 'ti', 'prideš', 'tja', 'pa', 'zac', '[gap]', '[gap]', 'kompliciraš', 'tako', 'ja']","[15, 0, 0, 0, 4, 1, 1, 2, 3, 5, 11, 12, 8, 8, 12, 5, 0]"
+"['ja', 'saj', 'lahko', 'kompliciraš']","[0, 11, 5, 3]"
+"['a', 'veš', 'ti', 'rečeš', 'pa', 'jaz', 'v', 'bistvu', 'ne', 'vem', 'kdo', 'si', 'je', 'te', 'knjige', 'sposodil', 'a', 'veš', 'to', 'je', 'ja', '[speaker:laughter]']","[5, 3, 2, 3, 11, 2, 9, 10, 0, 3, 2, 2, 6, 4, 10, 3, 5, 3, 4, 3, 0, 8]"
+"['ja', '[gap]', 'ja', 'pa', 'to', 'jaz', 'nisem', '[gap]']","[0, 8, 0, 11, 4, 2, 3, 8]"
+"['[gap]', 'jaz', 'tudi', 'ne', 'vem', '[gap]', 'tako', 'ko', 'kompliciraš', 'pol', 'ure', '[speaker:laughter]']","[8, 2, 0, 0, 3, 8, 5, 1, 3, 4, 10, 8]"
+"['ne', 'meni', 'že', 'niste', '[gap]']","[0, 2, 0, 3, 8]"
+"['jaz', 'sem', 'imela', 'z', 'mature', 'pogovor', 'je', 'bil', '[gap]', 'res', 'smo', 'knjigo', 'izgubili', 'a', 'veš', '[gap]', '…', 'aja']","[2, 6, 3, 9, 10, 10, 6, 3, 8, 5, 6, 10, 3, 5, 3, 8, 8, 15]"
+"['najprej', '[gap]', 'ja', '[gap]']","[5, 8, 0, 8]"
+"['ne', 'ni', '[gap]']","[0, 3, 8]"
+"['ja', 'mislim', 'da', 'drugače']","[0, 3, 1, 5]"
+"['ja', 'zdaj', 'če', 'se', 'če', 'se', 'vam', 'zdi', 'frizer', 'če', 'ga', 'damo', 'med', 'nezasebne', 'super']","[0, 5, 1, 2, 1, 2, 2, 3, 10, 1, 2, 3, 9, 7, 5]"
+"['ja', 'samo', 'če', 'bo', 'ta', 'ne', '[gap]']","[0, 0, 1, 6, 4, 0, 8]"
+"['ja', 'veš', 'kaj', 'v', 'bistvu']","[0, 3, 2, 9, 10]"
+"['ja', 'če', 'se', 'vam', 'zdi', 'za', 'za', 'bolj', 'za', 'klasifikacijo', 'nezasebno', 'kot', 'zasebno', 'komot']","[0, 1, 2, 2, 3, 9, 9, 5, 9, 10, 7, 1, 7, 5]"
+['[pause]'],[12]
+"['mislim', 'razmišljam', 'o', 'tem', 'da', 'bi', 'pravzaprav', 'treba', 'imeti', 'nekoga', 'mislim', 'a', 'je', 't', '[gap]', 'kdo', 'od', 'teh', 'študentov', 'tak', 'verjetno', 'so', 'kakšni', 'zgovorni', 'pa', 'to']","[3, 3, 9, 4, 1, 3, 0, 5, 3, 2, 3, 5, 6, 12, 8, 2, 9, 4, 10, 4, 5, 6, 4, 7, 11, 4]"
+"['ja', 'ne', 'vem']","[0, 0, 3]"
+"['o', 'naši', 'današnji', 'gostji', 'slovenki', 'leta', 'pesnici', 'in', 'pisateljici', '[name:personal]', '[name:surname]', 'vemo', 'kje', 'se', 'je', 'rodila', 'kje', 'je', 'hodila', 'v', 'šolo', 'študirala', 'in', 'službovala']","[9, 4, 7, 10, 13, 10, 10, 11, 10, 13, 13, 3, 5, 2, 6, 3, 5, 6, 3, 9, 10, 3, 11, 3]"
+"['koliko', 'knjig', 'je', 'izdala']","[4, 10, 6, 3]"
+"['vemo', 'da', 'ima', 'rada', 'škofjo', 'loko', 'celo', 'njen', 'zmenek', 'v', 'blaževi', 'ulici', 'nam', 'je', 'znan']","[3, 1, 3, 5, 7, 13, 0, 4, 10, 9, 7, 10, 2, 6, 7]"
+"['ne', 'vemo', 'pa', 'tistih', 'drobnih', 'stvari', 'ki', 'kar', 'nekako', 'sodijo', 'v', 'našo', 'oddajo', 'ki', 'se', 'imenuje', 'se', 'res', 'poznamo']","[0, 3, 11, 4, 7, 10, 1, 5, 5, 3, 9, 4, 10, 1, 2, 3, 2, 5, 3]"
+"['kaj', 'ima', 'neža', 'maurer', 'rada', '?']","[2, 3, 13, 13, 5, 8]"
+"['katero', 'drevo', 'ji', 'je', 'najljubše', '?']","[4, 10, 2, 6, 7, 8]"
+"['ne', 'ne', 'ne', 'zapirati', '…', '[gap]', 'ja', 'vem', 'vem', 'dol', 's', 'kleti', 'ne']","[0, 0, 0, 3, 8, 8, 0, 3, 3, 5, 9, 10, 0]"
+"['veš', 'kaj', 'to', 'po', '[gap]', 'po', 'stopnicah', 'ko', 'sem', 'šla', '[gap]', '…', 'ja']","[3, 2, 4, 9, 8, 9, 10, 1, 6, 3, 8, 8, 0]"
+"['ne', 'gledam', 's', 'čim', 'je', 'to', 'likala']","[0, 3, 9, 2, 6, 4, 3]"
+"['eee', 'pre', '[gap]', 'eee', 'seveda', 'moramo', 'najprej', 'narediti', 'našo', 'protokolarno', 'obveznost', 'da', 'eee', '[name:personal]', 'fotografiramo', 'za', 'najino', 'eee', 'eee', 'lu', '[gap]', 'kaj', 'se', 'že', 'temu', 'reče', 'luknja', 'slavnih', '…', 'ne', 'v', 'redu', '?']","[15, 12, 8, 15, 0, 3, 5, 3, 4, 7, 10, 1, 15, 13, 3, 9, 4, 15, 15, 12, 8, 2, 2, 0, 4, 3, 10, 7, 8, 0, 9, 10, 8]"
+"['dajmo', '…', 'luknja', 'slavnih']","[3, 8, 10, 7]"
+"['ja', '…', 'okej', '[audience:laughter]']","[0, 8, 5, 8]"
+"['dokler', 'še', 'v', 'redu', 'izgledaš', 'se', '[gap]', '…', 'ja', 'ja', 'ja', 'evo', '[gap]', '…', 'to', 'a', 'veš', 'to', 'je', 'zanimivo', 'ko', 'se', 'vsi', 'delajo', 'kot', 'da', 'ne', 'gledajo', 'televizije', 'izvoli', '[name:personal]']","[1, 0, 9, 10, 3, 12, 8, 8, 0, 0, 0, 0, 8, 8, 4, 5, 3, 4, 6, 7, 1, 2, 4, 3, 1, 1, 0, 3, 10, 3, 13]"
+"['[gap]', 'ja', 'to', 'boš', 'pa', 'pol', 'j', '[gap]', 'kam', 'greš', 'zdaj', 'glej', 'hočeš', 'da', 'redarje', 'pokličem', 'daj', 'daj', 'daj']","[8, 0, 4, 6, 11, 5, 12, 8, 5, 3, 5, 3, 3, 1, 10, 3, 3, 3, 3]"
+"['kaj', 'pa', 'j', '[gap]', 'spredaj', '…', 'ne', 'čakaj', '[speaker:laughter]']","[2, 11, 12, 8, 5, 8, 0, 3, 8]"
+"['j', '[gap]']","[12, 8]"
+"['daš', 'eee', 'luknjico', 'v', 'glavo']","[3, 15, 10, 9, 10]"
+"['lahko', 'pa', 'tudi', 'obratno']","[5, 11, 0, 5]"
+"['a', 'bo', 'šlo', '?']","[5, 6, 3, 8]"
+"['bo', 'šlo', '?']","[6, 3, 8]"
+['bo'],[3]
+"['kaj', 'pa', 'to', '?']","[2, 11, 4, 8]"
+"['tvoj', 'obražček', 'bo', 'šel', 'tule', 'skozi']","[4, 10, 6, 3, 5, 5]"
+"['obražček', 'daš', '[gap]', 'lahko', 'pa', 'na', 'stopničko', 'stopiš', 'veš', 'tukajle']","[10, 3, 8, 5, 11, 9, 10, 3, 3, 5]"
+['prosim'],[3]
+"['no', 'le', 'daj', '…', 'super', 'ti', 'gre', '…', 'saj', 'ni', 'tako', 'dobro']","[0, 0, 3, 8, 5, 2, 3, 8, 11, 6, 5, 7]"
+"['ja', 'kar', 'stopi', 'ja', 'tako', 'tako', '…', 'ja', 'absolutno', 'še', 'noben', 'ni', 'skoraj', 'nič', '[gap]', 'ja']","[0, 5, 3, 0, 5, 5, 8, 0, 5, 0, 4, 3, 0, 4, 8, 0]"
+"['a', 'je', 'fiksna']","[5, 6, 7]"
+"['vseeno', 'gospod']","[5, 10]"
+"['ja', 'gospod', '[name:surname]', 'pa', 'vendarle', 'ali', 'dopuščate', 'možnost', 'da', 'se', 'je', 'sodnica', 'ki', 'sicer', 'kot', 'vi', 'pravite', 'odloča', 'na', 'podlagi', 'zakona', 'a', 'vseeno', 'tudi', 'subjektivno', 'glede', 'na', 'okoliščine', 'da', 'se', 'je', 'preprosto', 'zmotila', 'in', 'bi', 'lahko', 'recimo', 'nek', 'drug', 'sodnik', 'odločil', 'kako', 'drugače', 'in', 'ga', 'ne', 'bi', 'poslal', 'v', 'hišni', 'pripor', '?']","[0, 10, 13, 11, 11, 5, 3, 10, 1, 2, 6, 10, 1, 0, 1, 2, 3, 3, 9, 10, 10, 11, 5, 0, 5, 5, 9, 10, 1, 2, 6, 5, 3, 11, 6, 5, 3, 4, 7, 10, 3, 5, 5, 11, 2, 0, 6, 3, 9, 7, 10, 8]"
+['[pause]'],[12]
+"['aha', 'eee', 'ja', 'ne', 'mislim', 'naročilo', 'kao', 'bi', 'imeli', 'pa', 'če', 'bi', 'lahko', 'pol', 'to', 'pripisali', 'pa', 'ne', 'vem', '[gap]']","[15, 15, 0, 0, 3, 10, 5, 6, 3, 11, 1, 6, 5, 5, 4, 3, 11, 0, 3, 8]"
+"['a', 'imate', 'čas', '?']","[5, 3, 10, 8]"
+"['aha', 'z', '[name:personal]', 'vse', 'uštimamo']","[15, 9, 13, 4, 3]"
+"['okej', 'dobro']","[5, 5]"
+['[pause]'],[12]
+"['tako', 'ja', 'meter', 'je', 'koliko', 'je', 'meter', 'meter', 'je', 'tam', 'okoli', 'štiriindvajset', 'devetindevetdeset', 'ne', 'ali', 'koliko', 'je']","[5, 0, 10, 3, 4, 3, 10, 10, 3, 5, 5, 14, 14, 0, 11, 4, 3]"
+"['tule', 'nekje', 'ne', 'eee', 'maloprodajna']","[5, 5, 0, 15, 7]"
+['[pause]'],[12]
+['aha'],[15]
+['[pause]'],[12]
+"['tako', 'pol', 'pa', 'še', 'oni', 'od', 'sonyja', 'ne']","[5, 5, 11, 0, 4, 9, 13, 0]"
+['[pause]'],[12]
+"['to', 'so', '[name:organisation]', 'pol', 'so', 'pa', 'še', 'sony', 'variante', 'ne', '?']","[4, 6, 13, 5, 3, 11, 0, 13, 10, 0, 8]"
+"['sony', 'mislim', 'pa', 'da', 'je', 'malo', 'dražji', 'ne', '?']","[13, 3, 11, 1, 6, 4, 7, 0, 8]"
+"['poglejte', 'mi', 'smo', 're', '[gap]', 'mmm', 'mmm', 'narobe', 'me', 'interpretirate']","[3, 2, 6, 12, 8, 15, 15, 5, 2, 3]"
+"['mi', 'nismo', 'nobenega', 'pogoja', 'postavili', 'da', 'bodo', 'po', '[gap]', 'police', 'na', '[gap]', 'naši', 'izdelki', 'verjamem', 'da', 'bodo', 'tudi', 'na', 'policah', 'mercatorja', 'pa', 'kdorkoli', 'lastnik', 'ali', 'mi', 'kaj', 'pogojevali', 'ali', 'ne', 'glede', 'na', 'to', 'da', 'imamo', 'močne', 'blagovne', 'znamke']","[2, 6, 4, 10, 3, 1, 3, 12, 8, 10, 12, 8, 4, 10, 3, 1, 3, 0, 9, 10, 13, 11, 2, 10, 11, 2, 5, 3, 11, 0, 5, 9, 4, 1, 3, 7, 7, 10]"
+['mhm'],[15]
+"['mi', 'smo', 'to', 'predvsem', 'želeli', 'da', 'odpre', 'pot', 'na', 'tujih', 'tržiščih']","[2, 6, 4, 0, 3, 1, 3, 10, 9, 7, 10]"
+"['mhm', 'mnogi', 'danes', 'pravijo', 'da', 'tisto', 'kar', 'je', 'bil', 'pred', 'tremi', 'leti', 'nacionalni', 'interes', 'je', 'danes', 'osebni', 'interes', '[name:personal]', '[name:surname]']","[15, 4, 5, 3, 1, 4, 2, 6, 6, 9, 14, 10, 7, 10, 6, 5, 7, 10, 13, 13]"
+"['no', 'poglejte', 'kar', 'se', 'tega', 'nacionalnega', 'interesa', 'tiče', 'mislim', 'pa', 'mmm', 'da', 'mi', 'res', 'podtikajo', 'meni', 'pa', 'tudi', 'še', 'gospodu', 'turnšku', 'ki', 'je', 'pred', 'mano', 'vodil', 'to', 'podjetje']","[0, 3, 2, 2, 4, 7, 10, 3, 3, 11, 15, 1, 2, 5, 3, 2, 11, 0, 0, 10, 13, 1, 6, 9, 2, 3, 4, 10]"
+"['ja', 'ja', 'ma', 'pazi', 'tam', 'je', 'pa', 'tudi', 'višina', 'notri', 'na', 'tistem', 'viaduktu']","[0, 0, 0, 3, 5, 3, 11, 0, 10, 5, 9, 4, 10]"
+"['ali', 'pa', 'ista', 'mmm', 'zadeva', 'je', 'dol', 'če', 'greš', 'med', 'parmo', 'in', 'la', 'spezio']","[11, 11, 4, 15, 10, 3, 5, 1, 3, 9, 13, 11, 12, 13]"
+"['so', 'take', 'čez', 'cele', 'doline', 'na', 'primer', 'kot', 'da', 'bi', 'se', 'upičili', 'tam', 'z', 'otlice', 'kje', 'mimo', 'stomaža', 'viadukt', 'narediti', 'glih', 'tako']","[6, 4, 9, 7, 10, 9, 10, 1, 1, 6, 2, 3, 5, 9, 13, 5, 9, 13, 10, 3, 5, 5]"
+['[pause]'],[12]
+"['eee', 'iz', 'tega', 'časa', 'so', 'ohranjena', 'še', 'razna', 'železna', 'orodja', 'tudi', 'pri', 'nas', 'grobišča', 'in', 'tudi', 'gradišča', 'tako', 'imenovana', 'na', 'hribih']","[15, 9, 4, 10, 6, 7, 0, 7, 7, 10, 0, 9, 2, 10, 11, 0, 10, 5, 7, 9, 10]"
+"['zdaj', 'če', 'pogledate', 'še', 'bolj', 'natančno', 'ta', 'vzorec', 'na', 'vaški', 'situli', 'mogoče', 'tega', 'pa', 'res', 'niste', 'še', 'nikoli', 'pogledali']","[5, 1, 3, 0, 5, 5, 4, 10, 9, 7, 10, 5, 4, 11, 5, 6, 0, 5, 3]"
+['[pause]'],[12]
+"['bomo', 'videli', 'če', 'bo', 'to', 'potegnilo', 'ja']","[6, 3, 1, 6, 4, 3, 0]"
+['[pause]'],[12]
+"['vidite', 'lahko', 'da', 'je', 'zelo', 'zelo', 'natančno', 'vse', 'nekaj', 'izrisano', 'na', 'tej', 'vaški', 'situli']","[3, 5, 1, 6, 5, 5, 5, 4, 4, 7, 9, 4, 7, 10]"
+"['v', 'bistvu', 'so', 'tudi', 'situle', 'izrisane', 'iz', 'tega', 'sploh', 'sklepajo', 'kaj', 'je', 'to']","[9, 10, 6, 0, 10, 7, 9, 4, 0, 3, 2, 6, 4]"
+"['tale', 'druga', 'vrsta', 'a', 'ne', 'kaže', 'na', 'to', 'kako', 'so', 'tale', 'sedi', 'in', 'ta', 'mu', 'iz', 'ene', 'posode', 'toči', 'pijačo']","[4, 7, 10, 5, 0, 3, 9, 4, 5, 3, 4, 3, 11, 4, 2, 9, 14, 10, 3, 10]"
+"['[speaker:laughter]', 'ja', 'tam', 'je', 'tako', 'vsakič', 'znova', 'ne']","[8, 0, 5, 3, 5, 5, 5, 0]"
+"['vsakič', 'znova', 'je', 'koristno', 'ker', 'vsakič', 'je', 'vse', 'znova', 'ne']","[5, 5, 6, 7, 1, 5, 3, 4, 5, 0]"
+"['ja', 'ker', 'je', 'vsakič', 'znova', 'in', 'ker', 'drugo', 'leto', 'eee', 'past', 'simple', 'bo', 'rabil', 'tega', 'pa', 'najbrž', 'tudi', 'ne', 'bo', 'ne']","[0, 1, 3, 5, 5, 11, 1, 7, 10, 15, 12, 12, 6, 3, 4, 11, 0, 0, 0, 3, 0]"
+"['dajmo', 'pa', 'malo', 'ponavljat', 'čase']","[3, 11, 4, 3, 10]"
+"['ponavljat', 'čase', '?']","[3, 10, 8]"
+"['prav', 'tako', 'kako', 'se', 'napiše', 'nekaj', 'sedaj', 'vedno', 'in', 'te']","[0, 5, 5, 2, 3, 4, 5, 5, 11, 4]"
+"['kaj', 'se', 'ti', 'zdi', '?']","[2, 2, 2, 3, 8]"
+"['mislim', 'da', 'da', 'je', 'bolj', 'bolj', 'lahko', 'ker', 'tudi', 'eee', 'vmes', 'karkoli', 'drugega', 'boš', 'delala', 's', '[gap]', 'jaz', 'imam', 'zmeraj', 'občutek', 'da', 'se', 'nekomu', 'vpičim', 'v', 'sredi', 'dela', 'no', 'ne', 'vem', 'če', 'nisem', 'prav', 'sigurna', 'kaj', 'eee', 'kako', 'on', 'misli', 'narediti', 'ja']","[3, 1, 1, 3, 5, 5, 5, 1, 0, 15, 5, 2, 7, 6, 3, 12, 8, 2, 3, 5, 10, 1, 2, 2, 3, 9, 10, 10, 0, 0, 3, 1, 6, 0, 7, 2, 15, 5, 2, 3, 3, 0]"
+['ja'],[0]
+"['pol', 'bomo', 'mi', 'ponovili', 'tisto', 'kar', 'naj', 'bi', 'oni', 'bili', 'vprašani', 'in', 'ponovili', 'bomo', 'čase']","[5, 6, 2, 3, 4, 2, 0, 6, 2, 6, 7, 11, 3, 6, 10]"
+"['eee', 'poglejte', 'zaposleni', 'so', 'zaskrbljeni', 'za', 'svoja', 'delovna', 'mesta']","[15, 3, 7, 6, 7, 9, 4, 7, 10]"
+"['tudi', 'uprava', 'ni', 'bila', 'najbolj', 'zadovoljna']","[0, 10, 6, 6, 5, 7]"
+"['eee', 'se', 'upravičeno', 'bojijo', '?', 'kaj', 'to', 'pomeni', 'če', 'jih', 'bodo', 'prevzemali', '?']","[15, 2, 5, 3, 8, 2, 4, 3, 1, 2, 6, 3, 8]"
+"['na', 'plaži', 'bo', 'malo', 'več', 'časa', 'a', 'ne', 'kot', 'zdajle']","[9, 10, 3, 4, 4, 10, 5, 0, 1, 5]"
+"['upam', 'da', 'no']","[3, 1, 0]"
+"['sedemnajst', 'do', 'osmih', 'jamelia', 'superstar', 'dobro', 'jutro']","[14, 9, 14, 13, 10, 7, 10]"
+['[pause]'],[12]
+"['triindvajseti', 'april', 'je', 'že', 'samo', 'še', 'en', 'teden', 'pa', 'bomo', 'že', 'kurili', 'kresove']","[7, 10, 6, 0, 0, 0, 14, 10, 11, 6, 0, 3, 10]"
+"['hitro', 'gre', 'čas', 'kaj', '?']","[5, 3, 10, 5, 8]"
+"['the', 'last', 'goodnight', 'pictures', 'of', 'you', 'v', 'nadaljevanju', 'belvijevega', 'jutra']","[12, 12, 12, 12, 12, 12, 9, 10, 7, 10]"
+['[pause]'],[12]
+"['bomo', 'pa', 'danes', 'malo', 'zakurili', 'v', 'pisarnah', 'in', 'tudi', 'v', 'avtomobilih', 'ker', 'ni', 'prav', 'nobene', 'toplote', 'čez', 'dan', 'le', 'malo', 'nad', 'deset', 'stopinj', 'zdajle', 'dežuje', 'pri', 'desetih']","[6, 11, 5, 4, 3, 9, 10, 11, 0, 9, 10, 1, 6, 0, 4, 10, 9, 10, 0, 4, 9, 14, 10, 5, 3, 9, 14]"
+"['pač', 'en', 'tak', 'oblačen', 'četrtek', 'je', 'pred', 'nami', 'nič', 'hudega']","[0, 14, 4, 7, 10, 3, 9, 2, 4, 7]"
+"['bomo', 'že', 'preživeli']","[6, 0, 3]"
+"['danes', 'so', 'sprejeli', 'tudi', 'sklepe', 'da', 'morata', 'tako', 'občina', 'kot', 'ministrstvo', 'za', 'okolje', 'in', 'prostor', 'nemudoma', 'preprečiti', 'nadaljnje', 'odlaganje', 'gum', 'do', 'stalnega', 'spremljanja', 'vplivov', 'na', 'okolje', 'kar', 'so', 'zbrani', 'pospremili', 'z', 'navdušenjem']","[5, 6, 3, 0, 10, 1, 3, 11, 10, 1, 10, 9, 10, 11, 10, 5, 3, 7, 10, 10, 9, 7, 10, 10, 9, 10, 2, 6, 7, 3, 9, 10]"
+"['ja', 'ja']","[0, 0]"
+"['zaupala', 'se', 'je']","[3, 2, 6]"
+"['dvajsetletno', 'hči', 'iz', 'prvega', 'zakona', 'naj', 'bi', 'spolno', 'zlorabljal', 'več', 'let']","[7, 10, 9, 7, 10, 0, 6, 5, 3, 4, 10]"
+"['triestini', 'napolnijo', 'totalno']","[13, 3, 5]"
+"['glej', 'jaz', 'sem', 'imela', 'enkrat', 'smolo', 'ne', 'prav', 'smolo', 'ko', 'smo', 'šli', 'z', 'otroki', 'na', 'nedeljsko', 'kosilo', 'in', 'smo', 'rekli', 'gremo', 'enkrat', 'v', 'rodik', 'ker', 'sem', 'čula', 'da', 'je', 'tam', 'dobro', 'ne']","[3, 2, 6, 3, 5, 10, 0, 0, 10, 1, 6, 3, 9, 10, 9, 7, 10, 11, 6, 3, 3, 5, 9, 13, 1, 6, 3, 1, 3, 5, 5, 0]"
+"['in', 'gremo', 'mi', 'lepo', 'pridemo', 'so', 'bili', 'otroci', 'veš', 'ki', 'ob', 'določeni', 'uri', 'ratajo', 'lačni', 'ne', 'morejo', 'počakati', 'ne']","[11, 3, 2, 5, 3, 6, 3, 10, 3, 1, 9, 7, 10, 3, 7, 0, 3, 3, 0]"
+"['in', 'pridemo', 'mi', 'ke', 'v', 'ta', 'rodik', 'ti', 'gremo', 'v', 'eno', 'gostilno', 'vse', 'polno']","[11, 3, 2, 5, 9, 4, 13, 2, 3, 9, 14, 10, 4, 7]"
+"['gremo', 'v', 'drugo', 'gostilno', 'vse', 'polno', 'ene', 'mize', 'nikjer']","[3, 9, 7, 10, 4, 7, 14, 10, 5]"
+"['v', 'ta', 'tretji', 'gostilni', 'najdemo', 'eee', 'tako', 'še', 'zunaj', 'ne', 'tako', 'eno', 'mizico', 'nismo', 'vedeli', 'ker', 'je', 'bila', 'jesen', 'ali', 'nas', 'bo', 'zeblo', 'ali', 'bo', 'v', 'redu']","[9, 4, 7, 10, 3, 15, 5, 0, 5, 0, 5, 14, 10, 6, 3, 1, 6, 6, 10, 5, 2, 6, 3, 11, 3, 9, 10]"
+"['ma', 'v', 'glavnem', 'tam', 'se', 'mi', 'usedemo', 'ne', 'ker', 'vidimo', 'tam', 'da', 'je', 'še', 'polno', 'prostega', 'smo', 'rekli', 'aha', 'to', 'bomo', 'mi', 'pol', 'počasi', 'ne', 'zaokupirali', 'ne']","[0, 9, 7, 5, 2, 2, 3, 0, 1, 3, 5, 1, 3, 0, 5, 7, 6, 3, 15, 4, 6, 2, 5, 5, 0, 3, 0]"
+"['ti', 'in', 'kaj', 'ugotovimo', 'ne', 'ti', 'triestini', 'pridejo', 'ob', 'enajstih', 'začnejo', 'jesti', 'primo', 'ne', 'tako', 'ali', 'pa', 'antipasto']","[2, 11, 2, 3, 0, 4, 13, 3, 9, 14, 3, 3, 10, 0, 5, 11, 11, 10]"
+"['medaljo', 'za', 'hrabrost', 'je', 'dobil', 'tudi', 'občan', '[name:personal]', '[name:surname]', 'ki', 'je', 'priskočil', 'na', 'pomoč', 'v', 'prometni', 'nesreči', 'in', 'iz', 'gorečega', 'tovornjaka', 'prav', 'tako', 'rešil', 'nezavestnega', 'voznika']","[10, 9, 10, 6, 3, 0, 10, 13, 13, 1, 6, 3, 9, 10, 9, 7, 10, 11, 9, 7, 10, 0, 5, 3, 7, 10]"
+['mmm'],[15]
+"['zdaj', 'pa', 'spij', 'pa', 'mi', 'kokakolo', 'noter', '[gap]', 'če', 'ne', 'no', 'če', 'se', 'hecam']","[5, 11, 3, 11, 2, 10, 5, 8, 1, 0, 0, 1, 2, 3]"
+"['ne', 'daj', '[gap]', 'naj', 'požri', 'naj', 'požre', 'tisto', 'kaj', 'je', '[gap]']","[0, 3, 8, 0, 3, 0, 3, 4, 2, 6, 8]"
+['ne'],[0]
+"['tisti', 'ki', 'je', 'žejen', 'bo', 'spil']","[4, 1, 6, 7, 6, 3]"
+"['no', 'saj', 'imaš', 'še', 'kozarec', '[gap]']","[0, 11, 3, 0, 10, 8]"
+"['naj', 'daj', 'naj', 'požri']","[0, 3, 0, 3]"
+"['pa', 'daj', 'kolo', 'ne', 'tukaj', 'pusti', 'aja', 'saj', '[gap]']","[11, 3, 10, 0, 5, 3, 15, 11, 8]"
+"['daj', 'naj', 'požri', 'boli', 'te', 'kurac']","[3, 0, 3, 3, 2, 10]"
+"['naj', 'požri', 'ja']","[0, 3, 0]"
+"['kaj', 'imaš', 'to']","[2, 3, 4]"
+"['sok', '[audience:laughter]']","[10, 8]"
+"['boš', 'sok', '?']","[3, 10, 8]"
+"['aja', '[gap]']","[15, 8]"
+"['ne', 'ne', 'samo', 'tako', 'je', 'bilo', 'hecno', '[gap]', 'ko', '[gap]']","[0, 0, 0, 5, 6, 6, 7, 8, 1, 8]"
+"['pa', 'če', 'imam']","[11, 1, 3]"
+"['daj', '[name:personal]']","[3, 13]"
+"['[gap]', 'če', 'si', 'ti', '[gap]', 'v', 'kozarec', '[gap]']","[8, 1, 3, 2, 8, 9, 10, 8]"
+"['ja', 'stari', '[gap]', 'na', 'tabletah']","[0, 7, 8, 9, 10]"
+"['na', '[gap]', 'noče', '[gap]', '…', 'ne', 'tule', 'na', '[gap]']","[9, 8, 3, 8, 8, 0, 5, 9, 8]"
+"['kaj', 'tako', 'si', 'da', 'bi', 'dala', 'ona', 'kaj', 'noter', 'ne', 'vem', 'ko', 'ima', '[gap]', 'kaj', 'jaz', 'vem']","[2, 5, 3, 1, 6, 3, 2, 2, 5, 0, 3, 1, 3, 8, 2, 2, 3]"
+['hm'],[15]
+"['kaj', 'ti', 'je', 'še', 'kaj', 'od', 'pikovaca', 'ostalo', '?']","[5, 2, 6, 0, 2, 9, 10, 3, 8]"
+"['ali', 'si', 'celega', 'noter', 'fuknil']","[11, 6, 7, 5, 3]"
+"['ti', 'bom', 'jaz', 'jutri', 'na', '[gap]', 'tule', 'na', 'računalniku']","[2, 3, 2, 5, 9, 8, 5, 9, 10]"
+"['ja', 'pa', 'saj', 'imate', 'na', 'telefonu']","[0, 11, 11, 3, 9, 10]"
+"['no', 'ni', '[gap]', 'že', 'vs', '[gap]']","[0, 3, 8, 0, 12, 8]"
+"['[gap]', 'iščem', 'pa', '[gap]', 'ne', 'te', 'najdem', '[audience:laughter]']","[8, 3, 11, 8, 0, 2, 3, 8]"
+"['muziko', 'pa', 'saj', 'ne', 'nucamo', 'muzike', '[gap]', '…', '[gap]', 'pa', 'kaj', 'boš', 'muziko', 'pos', '[gap]', 'itak', 'je', 'noben', 'ne', 'bo', 'poslušal', '[gap]', 'če', 'naštimaš']","[10, 11, 11, 0, 3, 10, 8, 8, 8, 11, 5, 3, 10, 12, 8, 0, 2, 4, 0, 6, 3, 8, 1, 3]"
+"['[gap]', 'ja', 'mhm']","[8, 0, 15]"
+"['saj', 'v', 'tem', 'je', 'tu', 'štos', 'more', 'biti', 'preračunano']","[11, 9, 4, 3, 5, 10, 3, 6, 7]"
+"['nisi', 'edini', 'veš', 'ki', 'imaš', 'taka', 'vprašanja', '[gap]', '[speaker:laughter]', 'to', 's', '[gap]', '…', 'ja']","[6, 7, 3, 1, 3, 4, 10, 8, 8, 4, 12, 8, 8, 0]"
+"['ravno', 'prav', 'ravno', 'pravšnja', 'eee', 'eee', 'moč', 'mora', 'biti', 'a', 'ne']","[0, 0, 0, 7, 15, 15, 10, 3, 6, 5, 0]"
+"['in', 'so', 'se', 'pač', 'spraševali', 'tudi', 'ti', 'znanstveniki', 'ki', 'so', 'to', 'proizvajali', 'na', 'vseh', 'testih', 'so', 'dali', 'zmeraj', 'vprašanje', 'kaj', 'pa', 'če']","[11, 6, 2, 0, 3, 0, 4, 10, 1, 6, 4, 3, 9, 4, 10, 6, 3, 5, 10, 2, 11, 5]"
+"['in', 'so', 'ugotavljali', '[:voice]', '[:voice]', '[:voice]', 'da', 'so', 'naredili', 'res', 'konstantno', 'magnetno', 'polje', 'ne', 'sme', 'biti', 'ne', 'premočno', 'ker', 'potem', 'kot', 'da', 'bi', 'bil', 'tam', 'na', 'elektro', 'oni', 'magnetni', 'stimulaciji', 'je', 'bil', 'premočni', 'magneti']","[11, 6, 3, 8, 8, 8, 1, 6, 3, 5, 7, 7, 10, 0, 3, 6, 0, 7, 1, 5, 1, 1, 6, 3, 5, 9, 7, 4, 7, 10, 6, 6, 7, 10]"
+"['da', 'si', 'ti', 'nonstop', 'na', 'onemu', 'n', '[gap]', 'je', 'premočno']","[1, 3, 2, 5, 9, 4, 12, 8, 6, 7]"
+"['moraš', 'biti', 'toliko', 'izračunan', 'zato', 'imamo', 'patentirano', 'da', 'noben', 'drugi', 'ne', 'more', 'uporabljati', 'teh']","[3, 6, 4, 7, 11, 3, 7, 1, 4, 7, 0, 3, 3, 4]"
+['mhm'],[15]
+"['sam', 'urbanistični', 'del', 'plus', 'ne', 'vem', 'kaj', 'stroški', 'so', 'že', 'sigurno', 'nad', 'osemsto', 'no']","[7, 7, 10, 5, 0, 3, 2, 10, 3, 0, 5, 9, 14, 0]"
+['mhm'],[15]
+"['enega', 'sem', 'našel', 'ki', 'm', '[gap]', 'ki', 'je', 'pred', 'kratkim', 'na', 'sveti', 'ani', 'nekaj', 'delal', 'tam', 'uredil', 'trg', 'pa', 'to', 'ne']","[14, 6, 3, 1, 12, 8, 1, 6, 9, 7, 9, 7, 13, 4, 3, 5, 3, 10, 11, 4, 0]"
+['mhm'],[15]
+"['in', 'je', 'urbanist']","[11, 6, 10]"
+"['in', 'mi', 'je', 'ponudil', 'petsto', 'evrov']","[11, 2, 6, 3, 14, 10]"
+['[pause]'],[12]
+"['za', 'ta', 'del', 'pa', 'da', 'bi', 'za', 'soglasje', 'pa', 'to', 'eee', 'ker', 'je', 'očitno', 'tam', 'šel', 'brez', 'spremembe', 'da', 'bi', 'lahko', 'v', 'tem', 'trenutku', 'zastonj', 'ponudi', 'to', 'zraven']","[9, 4, 10, 11, 1, 3, 9, 10, 11, 4, 15, 1, 6, 5, 5, 3, 9, 10, 1, 6, 5, 9, 4, 10, 5, 3, 4, 5]"
+"['aha', '…', 'ja', 'ja', '…', 'aha', 'ni', 'kaj', 'ja', 'ja']","[15, 8, 0, 0, 8, 15, 3, 2, 0, 0]"
+"['ker', 'če', 'pa', 'tam', 'ni', 'imel', 'težav', 'ne', '…', 'ker', 'je', 'že', 'zdaj', 've', 'že', 'kako', 'je', 'če', 'je', 'pred', 'kratkim', 'nekaj', 'delal', '…', 'ne']","[1, 1, 11, 5, 6, 3, 10, 0, 8, 1, 3, 0, 5, 3, 0, 5, 3, 1, 6, 9, 7, 4, 3, 8, 0]"
+"['super', '…', 'ja', 'ja', 'ja', 'ja', '…', 'ja', 'ja']","[5, 8, 0, 0, 0, 0, 8, 0, 0]"
+"['pa', 's', 'tem', 'da', 'je', 'včasih', 'bil', 'v', '[name:organisation]', 'v', '[name:organisation]', 'delal', 'ne']","[11, 9, 4, 1, 6, 5, 3, 9, 13, 9, 13, 3, 0]"
+"['super', 'super']","[5, 5]"
+"['in', 'da', 'še', 'vedno', '[gap]']","[11, 1, 0, 5, 8]"
+"['p', '[gap]', 'pozna', 'še', 'to', 'ja']","[12, 8, 3, 0, 4, 0]"
+"['tako', 'da', 'mogoče', 'je', 'to', 'celo', 'zanimivo', 'ne']","[11, 1, 5, 6, 4, 0, 7, 0]"
+['odlično'],[5]
+"['ena', 'bo', 'še', 'pa', 'z', '[gap]', 'pa', '[name:personal]', 'zrihtala', 'ne', 'eno', 'zvezo']","[14, 6, 0, 11, 12, 8, 11, 13, 3, 0, 14, 10]"
+['mhm'],[15]
+"['tist', '[gap]', 'ko', 'jaz', 'nisem', 'pol', 'sem', 'mislil', 'da', 's', '[gap]', 'če', 'je', 'z', 'zavoda', 'da', 'da', 'tisto', 'ne', 'dela', 'nič', 'eee', 'bolj', 'takih', 'm', '[gap]', 'projektov', 'manjših', 'ne']","[12, 8, 1, 2, 3, 5, 6, 3, 1, 12, 8, 1, 3, 9, 10, 1, 1, 4, 0, 3, 5, 15, 5, 4, 12, 8, 10, 7, 0]"
+"['seveda', 'ni']","[0, 3]"
+"['mmm', 'čakaj']","[15, 3]"
+['[pause]'],[12]
+"['veš', 'eee', 'jaz', 'bom', 'pa', 'od', 'srede', 'naprej', 'fraj']","[3, 15, 2, 6, 11, 9, 10, 5, 7]"
+"['zakaj', '?']","[5, 8]"
+"['[name:surname]', 'je', 'zdaj', 'doma']","[13, 3, 5, 5]"
+['[pause]'],[12]
+"['no', '[gap]']","[0, 8]"
+"['no', 'te', 'se', 'pa', 'lahko', 'v', 'sredo', 'dobiva', 'ne', '?']","[0, 5, 2, 11, 5, 9, 10, 3, 0, 8]"
+"['eee', 'ne', 'n', '[gap]', 'eee', 'čakaj', 's', '[gap]', 's', '[gap]', 'saj', 'se', 'bom', 'pa', 'z', 'mamo', 'tudi', 'veš']","[15, 0, 12, 8, 15, 3, 12, 8, 12, 8, 11, 2, 3, 11, 9, 10, 0, 3]"
+['[gap]'],[12]
+"['ja', 'ne', 'vem', 'z', 'njo', 'se', 'boš', 'težko']","[0, 0, 3, 9, 2, 2, 3, 5]"
+"['eee', 'ja', 'no', 'tako', 'se', 'bomo', 'zmenile', 'drugače', 'veš', 'ne', 'tako']","[15, 0, 0, 5, 2, 6, 3, 5, 3, 0, 5]"
+"['zdaj', 'zdaj', 'je', 'pa', 'odvisno', 'kako', 'bo', 'kaj', 'ati', 'delal', 'kje', 'bo', 'kaj']","[5, 5, 6, 11, 7, 5, 6, 5, 10, 3, 5, 3, 2]"
+['ja'],[0]
+['mhm'],[15]
+"['[gap]', 'šle', 'ven']","[8, 3, 5]"
+['ne'],[0]
+"['mmm', 'hm', 'te', 'pa', 'ne', 'bi', 'jaz', 'v', 'sredo']","[15, 15, 5, 11, 0, 3, 2, 9, 10]"
+"['te', 'bi', 'pa', 'petek']","[5, 3, 11, 10]"
+"['a', 'to', 'sicer', 'eee', 'ni', 'praksa', 'drugače', 'drugod', 'po', 'sloveniji', '?']","[5, 4, 0, 15, 6, 10, 5, 5, 9, 13, 8]"
+"['eee', 'gre', 'praktično', 'za', 'drugi', 'primer', 'eee', 'takšnega', 'sodelovanja', 'med', 'lokalno', 'skupnostjo', 'in', 'pa', 'med', 'državno', 'meteorološko', 'eee', 'službo']","[15, 3, 5, 9, 7, 10, 15, 4, 10, 9, 7, 10, 11, 11, 9, 7, 7, 15, 10]"
+"['prvi', 'primer', 'je', 'sotinski', 'breg', 'in', 'to', 'tukaj', 'gre', 'za', 'drugi', 'primer', 'kjer', 'je', 'investitor', 'eee', 'lokalna', 'eem', 'lokalna', 'skupnost', 'in', 'pa', 'seveda', 'j', '[gap]', 'so', 'je', 'postaja', 'postavljena', 'po', 'vseh', 'standardih', 'ki', 'ustrezajo', 'državni', 'meteorološki', 'eee', 'mreži', 'in', 'je', 'zato', 'lahko', 'vključena', 'v', 'eee', 'državno', 'meteorološko', 'mrežo', 'kot', 'enakovredna', 'postaja', 'meteorološkim', 'postajam', 'ki', 'jih', 'sicer', 'postavlja', 'agencija', 'za', 'okolje']","[7, 10, 6, 7, 10, 11, 4, 5, 3, 9, 7, 10, 1, 6, 10, 15, 7, 15, 7, 10, 11, 11, 0, 12, 8, 3, 6, 10, 7, 9, 4, 10, 1, 3, 7, 7, 15, 10, 11, 6, 5, 5, 7, 9, 15, 7, 7, 10, 1, 7, 10, 7, 10, 1, 2, 0, 3, 10, 9, 10]"
+['[gap]'],[12]
+['ja'],[0]
+"['kdo', 'vodi', 'to', '?']","[2, 3, 4, 8]"
+"['tisti', 'ki', 'ima', 'rejski', 'program']","[4, 1, 3, 7, 10]"
+['onadva'],[2]
+['ja'],[0]
+"['to', 'pa', 'ima', 'veterinarska', 'fakulteta', 'ki', 'je', 'določila', 'kdo', 'pa', 'je', 'tam', 'glavni', '[name:personal]', 'pa', '[name:personal]']","[4, 11, 3, 7, 10, 1, 6, 3, 2, 11, 6, 5, 7, 13, 11, 13]"
+"['vsi', 'se', '[name:personal]', 'bojijo', 'kot', 'kristusa']","[4, 2, 13, 3, 1, 13]"
+['mmm'],[15]
+"['[name:personal]', '[name:personal]', 'ga', 'bosta', 'imele']","[13, 13, 2, 6, 3]"
+['[pause]'],[12]
+"['vsi', 'pravijo', 'da', 'tam', 'nič', 'ne', 'more', 'noben', 'zmeniti']","[4, 3, 1, 5, 5, 0, 3, 4, 3]"
+"['kaj', 'da', 'ne', 'more', 'nič', '?']","[5, 1, 0, 3, 5, 8]"
+"['da', 'se', 'noben', 'nič', 'ne', 'more', 'tam', 'zmeniti']","[1, 2, 4, 5, 0, 3, 5, 3]"
+['[pause]'],[12]
+"['ker', 'oni', 'naprej', 'svoje', 'terajo', 'denar', 'držijo']","[1, 2, 5, 4, 3, 10, 3]"
+"['vi', 'p', '[gap]', 'noben', 'jim', 'noče', 'v', 'obraz', 'spustiti']","[2, 12, 8, 4, 2, 3, 9, 10, 3]"
+"['nič', 'jih', 'ne', 'briga', 'kaj', 'rečeš']","[5, 2, 0, 3, 2, 3]"
+"['samo', 'da', 'ne', 'bi', 'kakih', 'štren', 'začeli', 'mešati']","[0, 1, 0, 6, 4, 10, 3, 3]"
+"['tudi', 'vi', 'menite', '…', 'tudi', 'vi', 'menite', 'kot', 'gospod', '[name:surname]', 'da', 'bi', 'lahko', 'predsednik', 'države', 'nekoliko', 'pohitel', '?']","[0, 2, 3, 8, 0, 2, 3, 1, 10, 13, 1, 6, 5, 10, 10, 5, 3, 8]"
+"['no', 'uuu', 'vsi', 'roki', 'so', 'eee', 'vsi', 'roki', 'so', 'praktično', 'bili', 'lovljeni', 'proti', 'koncu', 'in', 't', '[gap]', 'to', 'je', 'po', 'moje', 'eee', 'malo', 'napaka', 'zdaj', 'bistveno', 'pa', 'seveda', 'naš', 'poslovnik', 'in', 'naša', 'zakonodaja', 'je', 'takšna', 'da', 'zahteva', 'približno', 'take', 'roke', 'tako', 'da', 'bistveno', 'se', 'ne', 'da', 'skrajšati']","[0, 15, 4, 10, 6, 15, 4, 10, 6, 5, 6, 7, 9, 10, 11, 12, 8, 4, 6, 9, 4, 15, 4, 10, 5, 5, 11, 0, 4, 10, 11, 4, 10, 6, 4, 1, 3, 5, 4, 10, 11, 1, 5, 2, 0, 3, 3]"
+['ja'],[0]
+['eem'],[15]
+"['sem', 'imel', 'na', 'atija', 'ne']","[6, 3, 9, 10, 0]"
+['mhm'],[15]
+"['in', 'on', 'je', 'imel', 'ta', 'sos', 'ali', 'pa', 'nekaj']","[11, 2, 6, 3, 4, 10, 11, 11, 4]"
+"['pol', 'sem', 'pa', 'j', '[gap]', 'a', 'sem', 'jaz', 'nekaj', 'menjal', 'a', 'je', 'a', 'je', 'ati', 'je', 'imel', 'še', 'takrat', 'pol', 'se', 'je', 'šaltal', 'na', 'na', 'šihten', 'telefon', 'ne']","[5, 3, 11, 12, 8, 5, 6, 2, 4, 3, 5, 6, 5, 6, 10, 6, 3, 0, 5, 5, 2, 6, 3, 9, 9, 7, 10, 0]"
+"['pol', 'sem', 'jaz', 'pol', 'kar', 'naenkrat', 'imel', 'ne', 'vem', 'pet', 'jurjev', 'naročnine']","[5, 6, 2, 5, 5, 5, 3, 0, 3, 14, 10, 10]"
+"['kaj', '[speaker:laughter]', 'a', 'veš', 'nič', 'jasno', 'bilo', 'sploh', 'samo', 'tako', 'šok', 'ne']","[2, 8, 5, 3, 4, 7, 6, 0, 0, 5, 10, 0]"
+"['pol', 'sem', 'pol', 'sem', 'pa', 'dojel', 'kaj', 'je', 'bila', 'poanta']","[5, 6, 5, 6, 11, 3, 2, 6, 6, 10]"
+"['ja', 'ja', 'ja']","[0, 0, 0]"
+['[pause]'],[12]
+"['tako', 'da']","[11, 1]"
+"['ja', 'ja', 'ja', 'to', 'sem', 'jaz', 'naredil', 'samo', 'pol', 'p', '[gap]', 'kot', 'ta', 'petega', 'ne', 'sem', 'se', 'pa', 'z', '[name:personal]', 'menil']","[0, 0, 0, 4, 6, 2, 3, 0, 5, 12, 8, 1, 4, 7, 0, 6, 2, 11, 9, 13, 3]"
+"['pa', 'pravi', '[name:personal]', 'pa', 'daj', 'saj', 'ena', 'številka', 'ti', 'pa', 'še', 'viška', 'hodi', 'ne']","[11, 3, 13, 11, 3, 11, 14, 10, 2, 11, 0, 5, 3, 0]"
+"['rekel', 'ja', 'pravi', 'ja', 'pa', 'saj', 'n', '[gap]', 'pač', 'mojega', 'atija', 'ne', 'moreš', 'dati', 'noter', 'ne']","[3, 0, 3, 0, 11, 11, 12, 8, 0, 4, 10, 0, 3, 3, 5, 0]"
+"['kaj', '?', 'zakaj', 'ne', '?']","[2, 8, 5, 0, 8]"
+"['[name:personal]', 'itak', 'ne', '…', 'a', '?']","[13, 0, 0, 8, 15, 8]"
+"['zato', 'ker', 'ni', 'džabest', 'ali', 'pa', 'ni', 'mobi']","[5, 1, 6, 13, 11, 11, 6, 10]"
+['[pause]'],[12]
+"['aktualno', 'na', 'aktualu']","[7, 9, 13]"
+"['nič', 'osem', 'nič', 'trinajst', 'nič', 'ena', 'je', 'naša', 'brezplačna', 'telefonska', 'številka', 'kaj', 'pravite', '?']","[4, 14, 4, 14, 4, 14, 6, 4, 7, 7, 10, 2, 3, 8]"
+"['se', 'vam', 'zdi', 'dodatni', 'evro', 'za', 'rtv', 'naročnino', 'odveč', '?']","[2, 2, 3, 7, 10, 9, 13, 10, 5, 8]"
+"['sprašujemo', 'vas', 'in', 'vprašali', 'smo', 'tudi', 'mimoidoče']","[3, 2, 11, 3, 6, 0, 7]"
+"['ja', 'se', 'mi', 'zdi', 'v', 'redu']","[0, 2, 2, 3, 9, 10]"
+['aha'],[15]
+"['kakor', 'ja', 'eee', 't', '[gap]', 'tako', 'veš', 'zjutraj', 'ob', 'štirih']","[1, 0, 15, 12, 8, 5, 3, 5, 9, 14]"
+"['do', 'petindvajsetega']","[9, 7]"
+"['ko', 'bo', 'prišel', 'domov', 'pa', 'ti', 'bo', 'stopnice', 'pokozlal']","[1, 6, 3, 5, 11, 2, 6, 10, 3]"
+"['a', 'si', 'nor', '?']","[5, 6, 7, 8]"
+"['a', 'ja', 'tako', 'samo', 'za', 'par', 'ur', 'naprej']","[15, 0, 5, 0, 9, 4, 10, 5]"
+"['drugače', 'štejejo', 'res', 'je']","[5, 3, 5, 3]"
+"['in', 'to', 'leto', 'smo', 'eee', 'eee', 'spoznali', 'da', 'bo', 'leto', 'bivola', 'oziroma', 'kot', 'rečejo', 'temu', 'k', '[gap]', 'pazite', 'kako', 'sem', 'pripravljen', 'kot', 'rečejo', 'temu', 'kitajci', 'gung', 'haj', 'fa', 'čoj']","[11, 4, 10, 6, 15, 15, 3, 1, 6, 10, 10, 11, 1, 3, 4, 12, 8, 3, 5, 6, 7, 1, 3, 4, 13, 12, 12, 12, 12]"
+"['[audience:laughter]', 'čisto', 'zares']","[8, 5, 5]"
+['super'],[5]
+"['gung', 'haj', 'fa', 'čoj']","[12, 12, 12, 12]"
+"['ne', 'to', 'je', 'pač', 'to', 'leto', 'bivola', 'in', 'kaj', 'to', 'točno', 'pomeni']","[0, 4, 6, 0, 4, 10, 10, 11, 2, 4, 5, 3]"
+"['no', 'to', 'je', 'za', 'nas', 'raziskal', '[name:personal]', '[name:surname]']","[0, 4, 6, 9, 2, 3, 13, 13]"
+['[pause]'],[12]
+"['[audience:laughter]', 'ja', 'upajmo', 'da', 'res']","[8, 0, 3, 1, 5]"
+"['bivol', 'pomagaj', 'nam', '!']","[10, 3, 2, 8]"
+"['sicer', 'pa', 'je', 'kar', 'nekaj', 'znanih', 'eee', 'osebnosti', 'recimo', 'bilo', 'rojeno', 'v', 'znamenju', 'bivola']","[11, 11, 6, 5, 4, 7, 15, 10, 3, 6, 7, 9, 10, 10]"
+"['ob', 'baracku', 'Oma', '[gap]', 'obami', 'že', 'omenjenem', 'ne', 'ki', 'ga', 'je', 'omenil', '[name:personal]', 'še', 'napoleon', 'bonaparte', 'recimo']","[9, 13, 12, 8, 13, 0, 7, 0, 1, 2, 6, 3, 13, 0, 13, 13, 3]"
+['mmm'],[15]
+"['margaret', 'thatcher', 'pa', 'tudi', 'žal', 'adolf', 'hitler', 'in', 'sadam', 'hussein', 'ne']","[13, 13, 11, 0, 5, 13, 13, 11, 13, 13, 0]"
+"['tudi', 'onadva', 'sta', 'bila', 'bivola']","[0, 2, 6, 6, 10]"
+"['med', 'igralci', 'george', 'clooney', 'richard', 'geere', 'paul', 'newman', 'charlie', 'chaplin', 'jack', 'nicholson', 'meg', 'ryan', 'meryl', 'streep']","[9, 10, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13]"
+"['tudi', 'princesa', 'diana', 'je', 'bila', 'recimo', 'bivol']","[0, 10, 13, 6, 6, 3, 10]"
+"['med', 'umetniki', 'pa', 'vincent', 'van', 'gogh', 'johann', 'sebastian', 'bach', 'picasso', 'in', 'bruce', 'springsteen']","[9, 10, 11, 13, 12, 13, 13, 13, 13, 13, 11, 13, 13]"
+"['ja', 'ker', 'so', 'to', 'ženske', 'ki', 'so', 'delale', 'na', 'polju', 'in', 'so', 'navajene', 'bolj', 'ne', 'v', 'mestu', 'je', 'mogoče', 'drugače', 'ne']","[0, 1, 6, 4, 10, 1, 6, 3, 9, 10, 11, 6, 7, 5, 0, 9, 10, 3, 5, 5, 0]"
+"['ja', 'veš', 'da', 'dokler', 'še', 'lahko', '[gap]', '…', 'ja', '…', 'mhm', '…', 'delo', 'ja', '…', 'ja']","[0, 3, 1, 1, 0, 5, 8, 8, 0, 8, 15, 8, 10, 0, 8, 0]"
+"['v', 'mestu', 'ja', 'tudi', '…', 'ja', 'ja', 'v', 'mest', '[gap]', '…', 'v', 'mestu', 'imajo', 'tudi', 'ampak', 'v', 'mestu', 'se', 'ljudje', 'še', 'bolj', 'zapirajo', 'ne']","[9, 10, 0, 0, 8, 0, 0, 9, 12, 8, 8, 9, 10, 3, 0, 11, 9, 10, 2, 10, 0, 5, 3, 0]"
+"['ja', 'to', 'bi', 'bilo', 'zanimivo', 'primerjati', 'ja', '…', 'v', 'mestu', 'imajo', 'tudi', 'te', '?']","[0, 4, 6, 6, 7, 3, 0, 8, 9, 10, 3, 0, 4, 8]"
+"['eee', 'ne', 'ne', 'pustijo', 'eee', 'ljudi', 'k', 'sebi', 'ne']","[15, 0, 0, 3, 15, 10, 9, 2, 0]"
+"['n', '[gap]', 'ja', '…', 'mhm']","[12, 8, 0, 8, 15]"
+"['tu', 'pri', 'nas', 'pa', 'to', 'še', 'jaz', 'nisem', 'naletela', 'eee', 'da', 'bi', 'kdo', 'rekel', 'da', 'ne', 'morem', 'ne']","[5, 9, 2, 11, 4, 0, 2, 6, 3, 15, 1, 6, 2, 3, 1, 0, 3, 0]"
+"['ja', 'ja']","[0, 0]"
+"['v', 'glavnem', 'eee', 'skušamo', 'pač', 'pomagati', 'prostovoljstvo', 'je', 'pač', 'tega', 'je', 'vedno', 'več', 'ne']","[9, 7, 15, 3, 0, 3, 10, 3, 0, 4, 3, 5, 4, 0]"
+"['ja', 'ja']","[0, 0]"
+['[gap]'],[12]
+"['znaš', 'kako', 'je', 'lep']","[3, 5, 6, 7]"
+['[gap]'],[12]
+"['znaš', 'kakšnega', 'lepega', 'babeka', 'sem', 'vmes', 'videla', 'na', 'faksu', 'iii']","[3, 4, 7, 10, 6, 5, 3, 9, 10, 15]"
+"['kaj', 'bi', 'imela', 'enega', 'mi', 'ti', 'napravimo']","[5, 6, 3, 14, 2, 2, 3]"
+"['ne', 'ne', 'b', '[gap]', 'imela', '[all:laughter]', 'ne', 'lep', 'je', 'bil', 'resen', 'pa', 'včeraj', 'enega', 'je', 'tu', 'dol', 'visel', 'z', 'ovega', 'kenguruja']","[0, 0, 12, 8, 3, 8, 0, 7, 6, 6, 7, 11, 5, 14, 6, 5, 5, 3, 9, 4, 10]"
+"['[audience:laughter]', 'aja']","[8, 15]"
+"['mislim', 'kaj', 'znaš', 'kako', 'je', '[gap]', 'takšen', 'je', 'bil', 'ej', 'tako', 'je', 'visel', 'samo', 'pa', 'tako', 'vse', '[:voice]']","[3, 2, 3, 5, 3, 8, 4, 6, 6, 15, 5, 6, 3, 0, 11, 5, 5, 8]"
+"['aja', 'ja', 'dobro', '[gap]']","[15, 0, 5, 8]"
+"['to', 'je', '[gap]']","[4, 3, 8]"
+"['ne', 'še', 'prste', 'kazal', '?']","[0, 0, 10, 3, 8]"
+"['ne', 'ne']","[0, 0]"
+"['ne', 'še', '[gap]']","[0, 0, 8]"
+"['to', 'še', 'mali', 'bil', '[gap]']","[4, 0, 7, 6, 8]"
+"['isto', 'ena', 'moja', 'sošolka', 'ona', 'tudi', 'že', 'načrtuje', 'koliko', 'bodo', 'stari', 'ko', 'bodo', 'imeli', 'prvo', 'dete']","[5, 14, 4, 10, 2, 0, 0, 3, 4, 6, 7, 1, 6, 3, 7, 10]"
+"['koliko', 'koliko', 'jaz', 'bom', 'še', 'pa', 'ne', 'načrtovala', 'meni', 'je', 'samo', 'lepi', 'bil', 'tam', '[gap]']","[4, 4, 2, 6, 0, 11, 0, 3, 2, 6, 0, 7, 6, 5, 8]"
+"['šestindvajseti', 'prej', 'ne', 'prej']","[7, 5, 0, 5]"
+"['to', 'se', 'zdaj', 'takšne', 'pogučavljejo', 'brezvezne', '[gap]', 'ne', 'vem', 'ko', 'eh']","[4, 2, 5, 4, 3, 7, 8, 0, 3, 1, 15]"
+"['ja', 'to', 'že', 'pomeni']","[0, 4, 0, 3]"
+"['kar', 'nekaj', '[gap]']","[5, 4, 8]"
+"['ka', 'so', 'stopnjo', 'više', 'kakor', 'ti', '[gap]']","[1, 6, 10, 5, 1, 2, 8]"
+"['a', 'že', '[gap]', 'zmišlajo', 'o', 'koncu', 'kariere', '?']","[5, 0, 8, 12, 9, 10, 10, 8]"
+"['a', 'no', 'to', 'še', 'ena', 'stvar', '[gap]']","[15, 0, 4, 0, 14, 10, 8]"
+"['[all:laughter]', 'razmišljajo', 'ja']","[8, 3, 0]"
+"['o', 'koncu', 'kariere']","[9, 10, 10]"
+"['kaj', 'pa', 'če', 'je', 'to', 'začetek']","[2, 11, 1, 6, 4, 10]"
+"['ka', 'te', 'imaš', 'prej', 'pa', 'te', 'fajn', 'eee', 'si', 'že', 'konec', 's', 'porodniško', 'pa', 'to', 'pa', 'te', 'ideš', 'v', 'službo']","[1, 4, 3, 5, 11, 5, 7, 15, 6, 0, 10, 9, 7, 11, 4, 11, 5, 3, 9, 10]"
+['mhm'],[15]
+"['kar', 'za', 'ušesa', 'jih', 'je', 'te', 'vlačil']","[5, 9, 10, 2, 6, 5, 3]"
+"['da', 'kako', 'je', 'tečen']","[1, 5, 6, 7]"
+"['pol', 'je', 'šel', '[:voice]', 'žegnat', 'eee', 'avtomobile']","[5, 6, 3, 8, 3, 15, 10]"
+"['avtomobile', 'sem', 'mislila', 'če', 'konje']","[10, 6, 3, 1, 10]"
+"['m', 'm', 'ne', 'avto', '[gap]', 'saj', 'avtomob', '[gap]', '[:voice]', 'menda', 'je', 'šel', 'do', 'vsakega', 'avta', 'da', 'ga', 'je', 'požegnal']","[10, 10, 0, 12, 8, 11, 12, 8, 8, 0, 6, 3, 9, 4, 10, 1, 2, 6, 3]"
+"['jezus', 'samo', 'da', 'nekaj', 'zaslužijo']","[13, 0, 1, 4, 3]"
+"['ja', 'no', 'saj', 'tisti', '[gap]']","[0, 0, 11, 4, 8]"
+"['[name:personal]', '[name:surname]', 'je', 'bila', '[gap]']","[13, 13, 6, 3, 8]"
+"['mmm', '?']","[15, 8]"
+"['[name:personal]', '[name:surname]', 'je', 'bila', '?']","[13, 13, 6, 3, 8]"
+"['m', 'm']","[15, 15]"
+['čudno'],[5]
+"['ne', 'je', 'videla', 'jov', 'veš', 'kaj', 'je', 'bilo', 'ljudi']","[0, 6, 3, 15, 3, 5, 6, 3, 10]"
+['[pause]'],[12]
+"['[name:surname]', 'sem', 'videla', '[gap]']","[13, 6, 3, 8]"
+"['ja', '?']","[0, 8]"
+"['aha', 'pa', 'pa', '[name:personal]']","[15, 11, 11, 13]"
+"['[name:personal]', 'sem', 'videla', 'v', 'cerkvi']","[13, 6, 3, 9, 10]"
+"['skupaj', 'sta', 'bila', '?']","[5, 6, 3, 8]"
+"['v', 'ce', '[gap]', '[name:personal]', 'sem', 'videla', 'v', 'cerkvi']","[9, 12, 8, 13, 6, 3, 9, 10]"
+"['povezano', 'je', 'z', 'neko', 'drugo', 'zgodbo', 'če', 'umaknemo', 'ljudi', 'iz', 'drugih', 'operacij', 'jih', 'moramo', 'potem', 'preusmeriti', 'na', 'neko', 'mesto', 'kjer', 'lahko', 'na', 'skoncentriran', 'način', 'eee', 'zasledujemo', 'cilje', 'svoje', 'politike']","[7, 6, 9, 4, 7, 10, 1, 3, 10, 9, 7, 10, 2, 3, 5, 3, 9, 4, 10, 1, 5, 9, 7, 10, 15, 3, 10, 4, 10]"
+['ja'],[0]
+"['umikamo', 'se', 'namreč', 'tudi', 'iz', 'čada']","[3, 2, 11, 0, 9, 13]"
+"['iz', 'afrike']","[9, 13]"
+"['in', 'eee', 'dejstvo', 'je', 'da', 'i', 'v', 'slovenski', 'vojski', 's', 'poklicnimi', 'vojaki', 'ne', 'moremo', 'čakati', 'da', 'jih', 'bomo', 'imeli', 'ves', 'čas', 'doma', 'temveč', 'je', 'prav', 'da', 'jih', 'pošljemo', 'na', 'preizkušnjo', 'v', 'tujino']","[11, 15, 10, 6, 1, 12, 9, 7, 10, 9, 7, 10, 0, 3, 3, 1, 2, 6, 3, 4, 10, 5, 11, 3, 5, 1, 2, 3, 9, 10, 9, 10]"
+"['no', '…', 'no', '…', '[:voice]', 'ja', 'n', '[gap]']","[0, 8, 0, 8, 8, 0, 12, 8]"
+"['ja', 'ni', 'problema', 'glej']","[0, 3, 10, 3]"
+"['v', 'redu']","[9, 10]"
+"['ti', 'kar', 'pridna', 'bodi']","[2, 5, 7, 6]"
+"['ja', 'bom', 'bom']","[0, 3, 3]"
+"['upam', 'da', 'si', 'se', 'kaj', 'naspala', 'vsaj']","[3, 1, 6, 2, 5, 3, 0]"
+"['kaj', 'delaš', 'zdaj', '?']","[2, 3, 5, 8]"
+['[pause]'],[12]
+"['kot', 'petinšestdeset', 'eee', 'petnš', '[gap]', 'eee', 'petnajst', 'stopinj']","[10, 14, 15, 12, 8, 15, 14, 10]"
+['super'],[5]
+"['kaj', 'si', 'zdaj', 'pravkar', 'katero', 'črto', 'boš', 'narisala', '?']","[2, 3, 5, 5, 4, 10, 6, 3, 8]"
+['premico'],[10]
+"['ja', 'ampak', 'tukaj', 'če', 'gledava', 'ta', 'kot', 'kaj', 'bo', 'ta', 'črta', 'glede', 'na', 'ta', 'kot', '?']","[0, 11, 5, 1, 3, 4, 10, 2, 6, 4, 10, 5, 9, 4, 10, 8]"
+"['daljica', '?']","[10, 8]"
+['ne'],[0]
+['ne'],[0]
+['[pause]'],[12]
+"['katera', 'črta', 'razpolavlja', 'kot', '?']","[4, 10, 3, 10, 8]"
+['[pause]'],[12]
+"['eee', 'simetrala']","[15, 10]"
+['tako'],[5]
+['simetrala'],[10]
+['[pause]'],[12]
+"['in', 'to', 'bi', 'zdaj', 'moglo', 'biti', 'petnajst', 'stopinj', 'in', 'da', 'vidimo', 'če', 'je', 'res', 'ali', 'ni']","[11, 4, 6, 5, 3, 6, 14, 10, 11, 1, 3, 1, 3, 5, 11, 3]"
+['[pause]'],[12]
+"['[gap]', 'pa', '[gap]', 'jaz', 'vem', 'da', 'je', 'to', 'petnajst', 'stopinj', '?']","[8, 11, 8, 2, 3, 1, 6, 4, 14, 10, 8]"
+"['hm', '?']","[15, 8]"
+"['kako', 'zdaj', 'zve', '[gap]', 'hehe', 'trinajst']","[5, 5, 12, 8, 15, 14]"
+"['to', 'pomeni', 'da', 'moraš', 'malo', 'bolj', 'natančno', 'risati', 'veš', 'ampak', 'zadeva', 'pa', 'funkcionira', 'dobro']","[4, 3, 1, 3, 4, 5, 5, 3, 3, 11, 10, 11, 3, 5]"
+"['[:voice]', '…', '[gap]', 'stopinji']","[8, 8, 8, 10]"
+"['to', 'je', 'to', '[name:personal]']","[4, 6, 4, 13]"
+"['dve', 'stopinji']","[14, 10]"
+"['dobro', 'ampak', 'saj', 'pravim', 'malo', 'bolj', 'natančno', 'ampak', 'eee', 'sem', 'sigurna', 'da', 'pri', 'testu', 'boš', 'v', 'redu']","[5, 11, 11, 7, 4, 5, 5, 11, 15, 6, 7, 1, 9, 10, 3, 9, 10]"
+['mhm'],[15]
+"['bi', 'zdaj', 'znala', 'to', 'narediti', '?']","[6, 5, 3, 4, 3, 8]"
+['ja'],[0]
+['super'],[5]
+"['zdaj', 'se', 'bo', 'izkazal']","[5, 2, 6, 3]"
+"['škoda', 'ker', 'se', 'ne', 'vidi', 'na', 'sliki', 'ne']","[10, 1, 2, 0, 3, 9, 10, 0]"
+['[gap]'],[12]
+['karavanke'],[13]
+"['joj', 'to', 'pa', 'niso', 'karavanke', 'čakaj', 'počasi', 'počasi']","[15, 4, 11, 6, 13, 3, 5, 5]"
+"['julijske', 'alpe', 'najprej']","[7, 13, 5]"
+"['tako', 'tole', 'so', 'saj', 'ste', 'blizu', 'karavank', 'bili']","[5, 4, 3, 11, 6, 9, 13, 3]"
+"['tole', 'so', 'kaj', '[gap]']","[4, 6, 2, 8]"
+"['kamniško', 'savinjske', '[gap]']","[7, 7, 8]"
+"['pol', 'nad', 'njimi', 'gor', 'majčkeno', 'na', 'meji', 'z', 'avstrijo', 'so']","[5, 9, 2, 5, 5, 9, 10, 9, 13, 3]"
+"['še', 'bolj', 'proti', 'levi', 'ne']","[0, 5, 9, 7, 0]"
+"['[gap]', 'karavanke']","[8, 13]"
+"['[gap]', 'tole', 'so', 'vse', 'karavanke', 'in', 'tukaj', 'je', 'en', 'sicer', 'ne', 'to', 'je', 'že', 'pohorje', 'zdaj', 'pa', '[gap]']","[8, 4, 6, 5, 13, 11, 5, 3, 14, 11, 0, 4, 6, 0, 13, 5, 11, 8]"
+['[pause]'],[12]
+['[name:surname]'],[13]
+['[pause]'],[12]
+"['si', 'že', 'zabeležen']","[6, 0, 7]"
+"['vse', 'slišite', '[audience:laughter]']","[4, 3, 8]"
+['[pause]'],[12]
+"['torej', 'ioni', 'nastajajo', 'iz', 'atomov']","[11, 10, 3, 9, 10]"
+['[pause]'],[12]
+"['kako', 'nastane', 'ion', 'iz', 'atoma', '[name:personal]', '?']","[5, 3, 10, 9, 10, 13, 8]"
+['prosim'],[3]
+"['kako', 'nastane', 'ion', 'iz', 'atoma', '?']","[5, 3, 10, 9, 10, 8]"
+"['ja', 'da', 'odda', '[gap]']","[0, 1, 3, 8]"
+['[pause]'],[12]
+"['če', 'atom', 'odda', 'elektrone', 'nastane']","[1, 10, 3, 10, 3]"
+['kation'],[10]
+"['ion', 'plus', 'ki', 'ga', 'imenujemo', 'kation']","[10, 10, 1, 2, 3, 10]"
+['[pause]'],[12]
+"['kateri', 'atomi', 'tvorijo', 'katione', '[name:personal]', '?']","[4, 10, 3, 10, 13, 8]"
+['[pause]'],[12]
+"['se', 'nisi', 'še', 'zbudila', 'danes']","[2, 6, 0, 3, 5]"
+['[name:personal]'],[13]
+"['elementi', 'prve', 'in', 'druge', 'skupine']","[10, 7, 11, 7, 10]"
+"['prva', 'druga', 'in', 'tretja', 'skupina']","[7, 7, 11, 7, 10]"
+['tretja'],[7]
+"['to', 'se', 'pravi']","[4, 2, 3]"
+['[pause]'],[12]
+"['prva', 'druga', 'tretja', 'skupina']","[7, 10, 7, 10]"
+['[pause]'],[12]
+"['zato', 'poznamo', 'ion', 'ena', 'plus', 'ion', 'dva', 'plus', 'in', 'ion', 'tri', 'plus']","[11, 3, 10, 14, 10, 10, 14, 10, 11, 10, 14, 10]"
+['[pause]'],[12]
+"['kaj', 'ta', 'prvi', 'je', 'plus', '?']","[5, 4, 7, 6, 10, 8]"
+"['kako', 'je', 'bilo', 'to', '?']","[5, 6, 3, 4, 8]"
+"['uh', 'to', 'je', 'bilo', 'grozljivo']","[15, 4, 6, 6, 7]"
+"['moja', 'stoenka', 'rdeča', 'ne', 'je', 'bila', 'v', 'začetku', 'edino', 'prevozno', 'sredstvo', 'alternativa', 'je', 'bila', 'vlak', 'ne']","[4, 10, 7, 0, 6, 6, 9, 10, 7, 7, 10, 10, 6, 6, 10, 0]"
+"['zdaj', 'z', 'vlakom', 'potovati', 'po', 'vseh', 'teh', 'rovtah', 'okoli', 'po', 'evropi', 'si', 'rabil', 'dva', 'dni', 'da', 'si', 'kam', 'prišel', 'ne']","[5, 9, 10, 3, 9, 4, 4, 10, 5, 9, 13, 6, 3, 14, 10, 1, 6, 5, 3, 0]"
+"['in', 's', 'tistim', 's', 'tisto', 'stoenko', 'sva', 'čuda', 'prevozila', 'ne']","[11, 9, 4, 9, 4, 10, 6, 5, 3, 0]"
+"['eee', 'kombi', 'prvi', 'ne', 'je', 'bil', 'pa', 'sploh', 'ena', 'zgodba', 'posebej', 'ne']","[15, 10, 7, 0, 6, 6, 11, 0, 14, 10, 5, 0]"
+"['jaz', 'sem', 'bil', 'vso', 'življenje', 'kar', 'malce', 'iznajdljiv', 'ne']","[2, 6, 6, 4, 10, 5, 4, 7, 0]"
+"['in', 'v', 'tistih', 'časih', 'v', 'jugoslaviji', 'ni', 'bilo', 'dovoljeno', 'uvažati', 'osebnih', 'avtomobilov']","[11, 9, 4, 10, 9, 13, 6, 6, 7, 3, 7, 10]"
+"['in', 'v', 'nekem', 'določenem', 'trenutku', 'so', 'se', 'zakoni', 'nekako', 'sprostili', 'in', 'so', 'rekli', 'aha', 'kamioni', 'se', 'pa', 'lahko', 'uvažajo']","[11, 9, 4, 7, 10, 6, 2, 10, 5, 3, 11, 6, 3, 15, 10, 2, 11, 5, 3]"
+"['meni', 'je', 'takoj', 'proradilo', 'v', 'glavi', '[gap]', 'kamion']","[2, 6, 5, 3, 9, 10, 8, 10]"
+"['pa', 'sem', 'se', 'zanimal', 'a', 'je', 'recimo', 'avto', 'ki', 'nima', 'stranskih', 'šip', 'je', 'to', 'kamion', '[audience:laughter]', 'pa', 'so', 'rekli', 'ja', 'to', 'je', 'tudi', 'lahko', 'kamion']","[11, 6, 2, 3, 5, 3, 3, 10, 1, 3, 7, 10, 6, 4, 10, 8, 11, 6, 3, 0, 4, 6, 0, 5, 10]"
+"['imeli', 'sem', 'vespo', 'prodal', 'sem', 'jo', 'dobil', 'sem', 'tisoč', 'petsto', 'mark', 'ne', 'bom', 'nikoli', 'pozabil']","[3, 6, 10, 3, 6, 2, 3, 6, 14, 14, 10, 0, 6, 5, 3]"
+"['s', 'temi', 'tisoč', 'petsto', 'markami', 'sem', 'se', 'peljal', 'z', 'enim', 'kolegom', '[name:personal]', '[name:surname]', 'iz', 'maribora', 'v', 'nemčijo', 'on', 'je', 'kupil', 'dejansko', 'kamion', 'jaz', 'sem', 'pa', 'iskal', 'enega', 'opel', 'opel', 'karavan', 'brez', 'šip']","[9, 4, 14, 14, 10, 6, 2, 3, 9, 14, 10, 13, 13, 9, 13, 9, 13, 2, 6, 3, 5, 10, 2, 6, 11, 3, 14, 10, 10, 10, 9, 10]"
+"['ampak', 'ker', 'je', 'to', 'v', 'jugoslaviji', 'se', 'hitro', 'razvedelo', 'so', 'naši', 'južni', 'prijatelji', 'že', 'vse', 'ople', 'pokupili']","[11, 1, 6, 4, 9, 13, 2, 5, 3, 6, 4, 7, 10, 0, 4, 10, 3]"
+"['[audience:laughter]', 'jasno', 'ne', 'novo', 'to', 's', '[gap]', 'je', 'bilo', 'vse', 'staro', 'kaj', 'pa', 'dobiš', 'za', 'tavžent', 'petsto', 'mark', 'ne']","[8, 5, 0, 5, 4, 12, 8, 6, 6, 4, 7, 2, 11, 3, 9, 14, 14, 10, 0]"
+"['in', 'pol', 's', '[gap]', 'sem', 'rekel', 'oplov', 'ni', 'več', 'ne', 'pa', 'vidim', 'tam', 'en', 'volkswagen', 'kombi', 'star', 'ne']","[11, 5, 12, 8, 6, 3, 10, 3, 0, 0, 11, 3, 5, 14, 10, 10, 7, 0]"
+"['sem', 'rekel', 'ta', 'bo', 'in', 'sem', 'dal', 'za', 'njega', 'sedemsto', 'mark']","[6, 3, 4, 3, 11, 6, 3, 9, 2, 14, 10]"
+"['in', 'pol', 'me', 'je', 'tistih', 'ostalih', 'sedemsto', 'osemsto', 'nekaj', 'sem', 'malega', 'sem', 'porabil', 'za', 'hrano', 'še', 'žul', '[gap]', 'žulilo']","[11, 5, 2, 6, 4, 7, 14, 14, 4, 6, 7, 6, 3, 9, 10, 0, 12, 8, 3]"
+"['jim', 'dišalo', '[speaker:laughter]']","[2, 3, 8]"
+"['ne', 'daj', 'novo', 'ta', 'mama', 'je', 'bila', 'malo', 'hipi', 'sploh', 'jih', 'ni', '[audience:laughter]', 'kagirala', 'tipo', 'če', 'so', 'se', 'oddaljile']","[0, 3, 7, 4, 10, 6, 6, 4, 10, 0, 2, 6, 8, 3, 0, 1, 6, 2, 3]"
+"['je', 'tekla', 'nazaj', 'za', 'n', '[gap]', 'zadaj', 'za', 'nami', 'smo', 'jo', 'nazaj', 'nesli', '[all:laughter]']","[6, 3, 5, 9, 12, 8, 5, 9, 2, 6, 2, 5, 3, 8]"
+"['in', 'eee', 'nič', 'in', 'pol', 'en', 'smo', 'eee', 'smo', 'smo', 'rekli', 'zdaj', 'se', 'ne', 'obrnemo', 'več', 'gremo', 'hitro', 'domov']","[11, 15, 5, 11, 5, 14, 6, 15, 6, 6, 3, 5, 2, 0, 3, 0, 3, 5, 5]"
+"['smo', 'šli', 'hitro', 'domov', 'in', 'mačka', 'zadaj', 'za', 'nami']","[6, 3, 5, 5, 11, 10, 5, 9, 2]"
+"['zadaj', 'za', 'vami', '[speaker:laughter]']","[5, 9, 2, 8]"
+"['in', 'ne', 'samo', 'da', 'je', 'bila', 'ena', 'so', 'prišle', 'dve', '[gap]']","[11, 0, 0, 1, 6, 6, 14, 6, 3, 14, 8]"
+"['[speaker:laughter]', 'ah']","[8, 15]"
+"['nič', 'in', 'pol', 'smo', 'jim', 'dali', 'malo', 'mlekca', 'in', 'so', 'ostale', 'pri', 'nas', 'do', 'jutra']","[5, 11, 5, 6, 2, 3, 4, 10, 11, 6, 3, 9, 2, 9, 10]"
+"['in', 'bašta', 'so', 'se', 'navezale', 'na', 'nas', 'ne']","[11, 5, 6, 2, 3, 9, 2, 0]"
+"['alora', 'smo', 'rekli', 'bom', 'jih', 'nesemo', 'domov', 'višto', 'ker', 'jaz', 'sem', 'zmeraj', 'imela', 'mačke', 'doma', 'in', 'mene', 'mačke', 'so', 'me', 'sem', 'zmeraj', 'imela', 'samo', 'mačke', 'quindi', 'imam', 'boljši', 'odnos', 'z', 'njimi', 'kakor', 's', 's', 'psi', 'ne', 'anche', 'če', 'psi', 'so', 'mi', 'super', 'zlati']","[0, 6, 3, 3, 2, 3, 5, 10, 1, 2, 6, 5, 3, 10, 5, 11, 2, 10, 6, 2, 6, 5, 3, 0, 10, 12, 3, 7, 10, 9, 2, 1, 9, 9, 10, 0, 12, 1, 10, 6, 2, 5, 7]"
+"['plačilo', 'recimo', 'prvo', 'no', 'da', 'to', 'spravimo']","[10, 3, 5, 0, 1, 4, 3]"
+"['ja', 'da', 'to', 'ne', 'rešimo']","[0, 1, 4, 0, 3]"
+"['ja', 'eee', 'glejte', 'tako', 'imamo', 'ne', 'plačilo', 'za', 'za', 'eee', 'saj', 'seveda', 'so', 'tako', 'poznate', 'verjetno', 'so', 'eee', 'razdeljena', 'na', 'eee', 'splošna', 'in', 'pa', 'strokovna', 'besedila', 'ne']","[0, 15, 3, 5, 3, 0, 10, 9, 9, 15, 11, 0, 3, 5, 3, 5, 6, 15, 7, 9, 15, 7, 11, 11, 7, 10, 0]"
+"['v', 'največje', 'povpraševanje', 'je', 'tako', 'ali', 'tako', 'po', 'teh', 'strokovnih', 'tehničnih', 'besedilih', 'to', 'po', 'teh', 'splošnih', 'tako', 'niti', 'ne', 'pričakujte', 'da', 'bi', 'dobili']","[9, 7, 10, 3, 5, 11, 5, 9, 4, 7, 7, 10, 4, 9, 4, 7, 5, 0, 0, 3, 1, 6, 3]"
+"['eee', 'delo', 'to', 'je', 'zelo', 'malo', 'verjetno', 'da', 'bi', 'bila', 'kaka', 'taka', 'eee', 'recimo', 'proza', 'eee', 'čisto', 'nekaj', 'takega', 'ne']","[15, 10, 4, 6, 5, 4, 7, 1, 6, 6, 4, 4, 15, 3, 10, 15, 5, 4, 4, 0]"
+"['načeloma', 'ni']","[5, 3]"
+"['eee', 'zato', 'pa', 'za', 'st', '[gap]', 'strokovne', 'besedila', 'je', 'pa', 'osem', 'evrov']","[15, 11, 11, 9, 12, 8, 7, 10, 6, 11, 14, 10]"
+"['eee', 'na', 'avtorsko', 'stran', 'ne']","[15, 9, 7, 10, 0]"
+"['[name:personal]', 'dobro', 'jutro']","[13, 7, 10]"
+"['dobro', 'jutro', 'želim']","[7, 10, 3]"
+['povejte'],[3]
+"['mmm', 'ne', 'bom', 'po', '[gap]', 'prispeval', 'svojega', 'podpisa', 'za', 'referendum']","[15, 0, 6, 12, 8, 3, 4, 10, 9, 10]"
+"['ker', '?']","[1, 8]"
+"['ker', 'sem', 'pameten', '[audience:laughter]']","[1, 6, 7, 8]"
+['dobro'],[5]
+"['je', 'pa', 'je', 'pa', 'naša', 'zakonodaja', 'izredno', 'izredno', 'slaba', 'če', 'če', 'pusti', 'peščici', 'bedakov', 'oprostite', 'ne', 'moram', 'drugače', 'reči', 'da', 'lahko', 'troši', 'naš', 'denar', 'za', 'zadeve', 'ki', 'so', 'brez', 'veze']","[3, 11, 6, 11, 4, 10, 5, 5, 7, 1, 1, 3, 10, 10, 3, 0, 3, 5, 3, 1, 5, 3, 4, 10, 9, 10, 1, 6, 9, 10]"
+"['[:voice]', 'tukaj', 'je', 'so', 'stvari', 'eee', 'zelo', 'jasne', 'ne']","[8, 5, 3, 6, 10, 15, 5, 7, 0]"
+"['mi', 'smo', 'kar', 'eee', 'kolega', 'ni', 'povedal', 'v', 'letošnjem', 'letu', 'intenzivirali', 'obnavljanje', 'in', 'eee', 'eee', 'gradnjo', 'na', 'progi', 'in', 'pri', 'tem', 'opravili', 's', '[gap]', 'to', '[gap]', 'opisano', 'povečanje', 'tovornega', 'prometa', 'navkljub']","[2, 6, 2, 15, 10, 6, 3, 9, 7, 10, 3, 10, 11, 15, 15, 10, 9, 10, 11, 9, 4, 3, 12, 8, 12, 8, 7, 10, 7, 10, 9]"
+"['ker', 'eee', 'veste', 'da', 'pač', 'tovorni', 'promet', 'eee', 'eee', 'oziroma', 'eee', 'eee', 'adaptacije', 'na', 'progi', 'delamo', 'pod', 'prometom', 'se', 'pravi', 'oba', 'dva', 'tima', 'tako', 'infrastruktura', 'kot', 'tovorni', 'in', 'potniški', 'promet', 'se', 'morata', 'bistveno', 'natančneje', 'usklajevati', 'zato', 'da', 'sta', 'lahko', 'dosegla', 'to', 'rast']","[1, 15, 3, 1, 0, 7, 10, 15, 15, 11, 15, 15, 10, 9, 10, 3, 9, 10, 2, 3, 4, 14, 10, 11, 10, 1, 7, 11, 7, 10, 2, 3, 5, 5, 3, 5, 1, 6, 5, 3, 4, 10]"
+"['no', 'imamo', 'še', 'kapacitete', 'na', 'posameznih', 'postajah', 'policijskih', 'ne', 'tako', 'da', 'prostora', 'nam', 'ne', 'zmanjka']","[0, 3, 0, 10, 9, 7, 10, 7, 0, 11, 1, 10, 2, 0, 3]"
+"['panika', '[:voice]']","[10, 8]"
+"['eno', 'hišo', 'in', 'eno', 'vilo', 'in', 'ne', 'vem', '[gap]']","[14, 10, 11, 14, 10, 11, 0, 3, 8]"
+"['ja', 'ja']","[0, 0]"
+"['o', 'tako', 'obleko', 'bi', 'jaz', 'imela']","[15, 4, 10, 6, 2, 3]"
+"['tako', 'bi', 'jaz', 'imela']","[4, 6, 2, 3]"
+"['ne', 'kaži', 'nimam', 'pojma']","[0, 3, 3, 10]"
+['[name:personal]'],[13]
+"['[name:personal]', 'je', 'in', '[name:personal]', '…', '[name:personal]', 'mi', 'je', 'prinesla']","[13, 3, 11, 13, 8, 13, 2, 6, 3]"
+"['aja', 'zakaj', 'imaš', 'ti', 'njihove', 'slike', '?']","[15, 5, 3, 2, 4, 10, 8]"
+"['samo', 'bi', 'imela', 'bi', 'imela', 'eee', 'vrvico', 'tako']","[0, 6, 3, 6, 3, 15, 10, 5]"
+"['bi', 'imela', 'štrik']","[6, 3, 10]"
+"['štrik', 'še', 'ja']","[10, 0, 0]"
+"['ja', 'veš', 'pa', 'pa', 'to', 'si', 'tako', 'če', 'bi', 'si', 'eee', 'če', 'bi', 'si', 'tole', 'naredila', 'pa', 'čas', 'razporedila', 'bi', 'bilo', 'pa', 'drugače', 'a', 'ne']","[0, 3, 11, 11, 4, 2, 5, 1, 6, 2, 15, 1, 6, 2, 4, 3, 11, 10, 3, 6, 3, 11, 5, 5, 0]"
+"['in', 'kaj', 'mislite', 'kako', 'kako', 'se', 'počutimo', '?']","[11, 2, 3, 5, 5, 2, 3, 8]"
+"['če', 'naši', 'možje', 'to', 'naredijo']","[1, 4, 10, 4, 3]"
+['[pause]'],[12]
+"['[gap]', 's', 'tem', 'reče', 'nesposobna', 'si', '[speaker:laughter]']","[8, 9, 4, 3, 7, 6, 8]"
+"['okej', 'ja']","[5, 0]"
+"['in', 'nas', 'to', 'zelo', 'zelo', 'jezi', 'ker', 'pa', 'me', 'vemo', 'da', 'smo', 'sposobne', 'a', 'ne', '[speaker:laughter]', 'in', 'dejansko', 'tudi', 'smo', 'ampak', 'si', 'samo', 'želimo', 'da', 'bi', 'nas', 'poslušali', 'slišali', 'da', 'nam', 'je', 'težko', 'nas', 'razumeli', 'in', 'nam', 'po', '[gap]', 's', 'tem', 'pomagali', 'a', 'ne', 'nič', 'ne', 'rabimo', 'nobene', 'konkretne', 'pomoči']","[11, 2, 4, 5, 5, 3, 1, 11, 2, 3, 1, 6, 7, 5, 0, 8, 11, 5, 0, 3, 11, 2, 0, 3, 1, 6, 2, 3, 3, 1, 2, 6, 7, 2, 3, 11, 2, 12, 8, 9, 4, 3, 5, 0, 4, 0, 3, 4, 7, 10]"
+"['in', 'to', 'je', 'tisto', 'kar', 'otrok', 'tudi', 'rabi', 'a', 'ne']","[11, 4, 6, 4, 2, 10, 0, 3, 5, 0]"
+"['ja', 'in', 'pol', 'ga', 'ko', 'ga', 'slišim', 'ko', 'ga', 'poslušam', 'ko', 'ga', 'razumem']","[0, 11, 5, 2, 1, 2, 3, 1, 2, 3, 1, 2, 3]"
+['[pause]'],[12]
+"['ker', 'dokler', 'si', 'doma', 'dokler', 'si', 'v', 'vrtcu', 'si', 'ja', 'je', 'tam', 'eno', 'tako', 'res', 'eno', 'tako', 'otroško', 'bi', 'človek', 'rekel', 'tako', 'nežno']","[1, 1, 3, 5, 1, 3, 9, 10, 3, 0, 3, 5, 14, 4, 5, 14, 4, 7, 6, 10, 3, 4, 7]"
+"['fajn', 'a', 'ne', 'nekako', 'svet', 'se', 'tebi', 'prilagaja']","[5, 5, 0, 5, 10, 2, 2, 3]"
+"['tu', '[gap]', 'ko', 'greš', 'v', 'šolo', 'pa', 'si', 'prvič', 'ocenjen', 'recimo', 'a', 'ne']","[5, 8, 1, 3, 9, 10, 11, 6, 5, 7, 3, 5, 0]"
+"['no', '…', 'pa', 'so', 'pa', 'tudi', 'konkretni', 'ukrepi', 'o', 'katerih', 'smo', 'jih', 'brali', 'v', 'eee', 'napovedi']","[0, 8, 11, 3, 11, 0, 7, 10, 9, 4, 6, 2, 3, 9, 15, 10]"
+"['se', 'strinjam', 'ampak', 'veste', 'v', 'fazi', 'eee', 'dejansko', 'tržnega', 'izobilja', 'tudi', 'v', 'realnem', 'sektorju', 'ki', 'smo', 'bili', 'priča', 'v', 'zadnjih', 'letih', 'eee', 'je', 'eee', 'selekcija', 'med', 'slabimi', 'in', 'dobrimi', 'podjetji', 'selekcija', 'med', 'bolj', 'in', 'manj', 'kompetentnimi', 'poslovneži', 'eee', 'bila', 'slabša', 'je', 'ni', 'bilo']","[2, 3, 11, 3, 9, 10, 15, 5, 7, 10, 0, 9, 7, 10, 1, 6, 6, 10, 9, 7, 10, 15, 6, 15, 10, 9, 7, 11, 7, 10, 10, 9, 5, 11, 4, 7, 10, 15, 6, 7, 6, 6, 3]"
+"['ta', 'sodba', 'mi', 'pomeni', 'da', 'sem', 'končno', 'dokazal', 'tisto', 'kar', 'trdim', 'že', 'tri', 'leta', 'in', 'pol']","[4, 10, 2, 3, 1, 6, 5, 3, 4, 2, 3, 0, 14, 10, 11, 4]"
+"['hvala', 'lepa', '[name:personal]', 'to', 'je', 'vsebina', 'novega', 'svežega', 'dnevnika', 'večer', 'torej', 'no', 'jaz', 'pa', 'sem', 'našel', 'eno', 'zanimivo', 'ko', 'sem', 'malo', 'prelis', '[gap]', 'eee', 'ko', 'sem', 'malo', 'listal', 'po', 'tujih', 'rumenih', 'časnikih', 'in', 'eee', 'tudi', 'po', 'znanstveni', 'publikaciji', 'seveda', 'da', 'ne', 'bo', 'slučajno', 'kake', 'pomote']","[10, 7, 13, 4, 6, 10, 7, 7, 10, 10, 5, 0, 2, 11, 6, 3, 14, 7, 1, 6, 4, 12, 8, 15, 1, 6, 4, 3, 9, 7, 7, 10, 11, 15, 0, 9, 7, 10, 0, 1, 0, 6, 5, 4, 10]"
+"['eee', 'da', 'bi', 'pa', 'lahko', 'to', 'zdaj', 'povedal', 'bo', '[name:personal]', 'najprej', 'bi', 'te', 'prosil', 'da', 'razložiš', 'kaj', 'je', 'testosteron']","[15, 1, 6, 11, 5, 4, 5, 3, 3, 13, 5, 6, 2, 3, 1, 3, 2, 6, 10]"
+"['eee', 'testosteron', 'je', 'hormon']","[15, 10, 6, 10]"
+"['v', 'povprečju', 'moško', 'telo', 'nar', '[gap]', '[gap]', 'di', 'dvajset', 'do', 'trideset', 'procentov', 'več', 'kot', 'eee', 'testosterona', 'kot', 'žensko', 'ampak', 'eee', 'p', '[gap]', 'igra', 'pomembno', 'vlogo', 'v', 'zdravju', 'tako', 'moškega', 'tudi', 'eee', 'žensk']","[9, 10, 7, 10, 12, 8, 8, 12, 14, 9, 14, 10, 4, 1, 15, 10, 1, 7, 11, 15, 12, 8, 3, 7, 10, 9, 10, 5, 10, 0, 15, 10]"
+['ja'],[0]
+"['zakaj', 'pa', '?']","[5, 11, 8]"
+"['no', '?']","[0, 8]"
+"['od', 'eee', 'še', 'to', 'je', 'mogoče', 'zanimivo', 'da', 'se', 'od', 'pubertete', 'naprej', 'se', 'pospešeno', 'izloča']","[9, 15, 0, 4, 6, 5, 7, 1, 2, 9, 10, 5, 2, 5, 3]"
+"['pri', 'moških', 'mimogrede']","[9, 10, 5]"
+['absolutno'],[5]
+"['torej', 'vsi', 'ga', 'imamo', 'moški', 'ga', 'imajo', 'več']","[11, 4, 2, 3, 7, 2, 3, 4]"
+"['ne', '?', '…', 'ja']","[0, 8, 8, 0]"
+"['builderji', 'pa', 'z', 'njim', 'običajno', 'pretiravajo']","[10, 11, 9, 2, 5, 3]"
+['res'],[5]
+"['ker', 'eee', 'je', 'pol', 'kontra', 'efekt', 'ne', 'namesto', 'da', 'bi', '[:voice]', 'ne', 'pa', '[:voice]', 'ne', 'če', 'razumete', '[audience:laughter]']","[1, 15, 6, 5, 10, 10, 0, 9, 1, 3, 8, 0, 11, 8, 0, 1, 3, 8]"
+"['no', 'ampak', 'eee', 'zdaj', 'so', 'znanstveniki', 'dokazali', 'pazite', 'to', 'da', 'testosteronski', 'obliži', 'ki', 'se', 'dajo', 'kot', 'kaže', 'kupiti', 'nisem', 'vedel', 'ne', 'rabim', 'testosteronski', 'obliži', 'spodbudijo', 'željo', 'po', 'seksu', 'pri', 'ženskah']","[0, 11, 15, 5, 6, 10, 3, 3, 4, 1, 7, 10, 1, 2, 3, 1, 3, 3, 6, 3, 0, 3, 7, 10, 3, 10, 9, 10, 9, 10]"
+"['ne', 'če', 'si', 'jih', 'ženske', 'dajejo', 'ne', 'se', 'tako', 'pol', 'počutijo', 'pravijo', 'znanstveniki']","[0, 1, 2, 2, 10, 3, 0, 2, 5, 5, 3, 3, 10]"
+"['to', 'je', 'res']","[4, 3, 5]"
+"['bolj', 'seksi', 'pa', 'tako', 'naprej', 'ne']","[5, 7, 11, 5, 5, 0]"
+"['testosteronski', 'obliži']","[7, 10]"
+"['no', 'seveda', 'pa', 'je', 'tu', 'tudi', 'drugi', 'problem', 'ne', 'in', 'sicer', 'problem', 'za', 'moške']","[0, 0, 11, 3, 5, 0, 7, 10, 0, 11, 11, 10, 9, 10]"
+"['ker', 'ni', 'ne', 'vem', 'kako', 'seksi', 'ko', 'ti', 'naenkrat', 'reče', 'z', 'debelim', 'glasom', 'pridi', 'mali', 'delat']","[1, 6, 0, 3, 5, 7, 1, 2, 5, 3, 9, 7, 10, 3, 7, 3]"
+"['o', 'ja', '[:voice]', 'ne', '[audience:laughter]']","[15, 0, 8, 0, 8]"
+"['[all:laughter]', 'tako', 'da', 'bodite', 'previdni', 'ker', 'd', '[gap]', 'eee']","[8, 11, 1, 6, 7, 1, 12, 8, 15]"
+"['vseeno', 'ne', 'zdrava', 'mera', 'povsod', 'je', 'eee', 'tista', 'prava', 'pot', '[all:laughter]']","[5, 0, 7, 10, 5, 6, 15, 4, 7, 10, 8]"
+"['nima', 'smisla', '[gap]', 'nima', 'posluha', 'ne']","[3, 10, 8, 3, 10, 0]"
+"['pri', 'ustnih', 'harmonikah', 'je', 'to', 'kaj', 'jaz', 'vem', 'dvajset', 'trideset', 'evrov', 'ne']","[9, 7, 10, 3, 4, 2, 2, 3, 14, 14, 10, 0]"
+"['eee', 'druga', 'zadeva', 'je', 'majhen', 'priročen', 'gre', 'kamorkoli', 'hočeš']","[15, 7, 10, 6, 7, 7, 3, 5, 3]"
+"['potem', 'zelo', 'naravno', 'se', 'i', '[gap]', 'eee', 'diha', 'v', 'njega', 'eee', 'v', 'njega', 'to', 'je', 'instrument', 'ki', 'v', 'katerega', 'se', 'ne', 'piha', 'ampak', 'diha']","[5, 5, 5, 2, 12, 8, 15, 3, 9, 2, 15, 9, 2, 4, 6, 10, 1, 9, 4, 2, 0, 3, 11, 3]"
+"['to', 'morate', 'vprašati', 'gospoda', 'ministra']","[4, 3, 3, 10, 10]"
+"['on', 'ima', 'približno', 'sto', 'ljudi', 'v', 'veleposlaništvih', 'po', 'evropi']","[2, 3, 5, 14, 10, 9, 10, 9, 13]"
+"['mislim', 'da', 'je', 'to', 'vprašanje', 'za', 'njega']","[3, 1, 6, 4, 10, 9, 2]"
+"['če', 'mene', 'vprašate', 'vam', 'povem', 'svojo', 'lastno', 'oceno', '…', 'ja']","[1, 2, 3, 2, 3, 4, 7, 10, 8, 0]"
+"['ja', 'vas', 'sem', 'vprašal', 'prosim']","[0, 2, 6, 3, 3]"
+"['torej', 'moja', 'ocena', 'je', 'da', 'je', 'vsaj', 'tretjina', 'držav', 'članic', 'eee', 'na', 'strani', 'slovenije', 'ker', 've', 'da', 'nepripravljene', 'kandidatke', 'ne', 'morejo', 'sprejeti', 'v', 'evropsko', 'unijo']","[11, 4, 10, 6, 1, 3, 0, 10, 10, 10, 15, 9, 10, 13, 1, 3, 1, 7, 10, 0, 3, 3, 9, 7, 10]"
+"['roki', 'ki', 'so', 'bili', 'do', 'zdaj', 'zapisani', 'da', 'se', 'to', 'mora', 'zgoditi', 'do', 'leta', 'dva', 'tisoč', 'devet', 'so', 'nerealni']","[10, 1, 6, 6, 9, 5, 7, 1, 2, 4, 3, 3, 9, 10, 14, 14, 14, 6, 7]"
+"['in', 'eee', 'hrvaška', 'reakcija', 'ki', 'ste', 'jo', 'zdaj', 'videli', 'se', 'mi', 'zdi', 'absolutno', 'napačna']","[11, 15, 7, 10, 1, 6, 2, 5, 3, 2, 2, 3, 5, 7]"
+"['nič', 'ne', 'solimo']","[5, 0, 3]"
+"['jaz', 'bom', 'dal', 'pa', 'še', 'majčkeno', 'timijana']","[2, 6, 3, 11, 0, 5, 10]"
+['[pause]'],[12]
+"['samo', 'toliko', 'da', 'zadiši', 'vino', 'ne']","[0, 4, 1, 3, 10, 0]"
+"['evo', 'vidiš']","[0, 3]"
+"['samo', 'toliko', 'da', 'zadiši']","[0, 4, 1, 3]"
+['čakaj'],[3]
+"['piščanci', 'so', 'pripravljeni', 'zloženi']","[10, 6, 7, 7]"
+"['marinado', 'sva', 'še', 'prej', 'ohladila', 'bog', 'ne', 'daj', 'da', 'date', 'toplo', 'gor']","[10, 6, 0, 5, 3, 10, 0, 3, 1, 3, 7, 5]"
+['mhm'],[15]
+"['no', 'in', 'takole']","[0, 11, 5]"
+"['da', 'se', 'bodo', 'bakterije', 'napajsale']","[1, 2, 6, 10, 3]"
+"['aha', 'in', 'to', 'zelenjavo', 'čez']","[15, 11, 4, 10, 5]"
+"['to', 'pa', 'kar', 'lahko', 'z', 'roko']","[4, 11, 5, 5, 9, 10]"
+"['in', 'to']","[11, 4]"
+"['gre', 'v', 'hladilnik', 'za', 'čez', 'noč']","[3, 9, 10, 9, 9, 10]"
+"['temu', 'bi', 'lahko', 'rekel', 'tudi', 'pijani', 'piščanec']","[4, 6, 5, 3, 0, 7, 10]"
+"['daj', 'v', 'hladilnik']","[3, 9, 10]"
+['[gap]'],[12]
+"['tudi', 'jaz', 'sem', 'šel', 'to', 'v', 'uredbo', 'gledat', 'in', 'notri', 'piše', 'da', 'med', 'usta', '[gap]', 'med', 'enostavne', 'mmm', 'objekte', 'spada', 'tudi', 'bazen', 'ki', 'ne', 'presega', 'tridesetih', 'kvadratnih', 'metrov', 'ne']","[0, 2, 6, 3, 4, 9, 10, 3, 11, 5, 3, 1, 9, 12, 8, 9, 7, 15, 10, 3, 0, 10, 1, 0, 3, 14, 7, 10, 0]"
+['mhm'],[15]
+"['potem', 'moram', 'jaz', 'to', 'skico', 'jim', 'do', 'nnn', 'narisati', 'poslati', 'oni', 'mmm', 'pogledajo', 'požegnajo', 'izdajo', 'ne']","[5, 3, 2, 4, 10, 2, 9, 15, 3, 3, 2, 15, 3, 3, 3, 0]"
+"['eee', 'hkrati', 'se', 'bo', 'pa', 'naredila', 'z', 'eee', 'projekt', 'z', 'izvedbo', 's', 'in', 'bo', 'z', '[gap]', 'eee', 'zajemalo', 'notri', 'eee', 'detajle', 'kako', 'narediti', 'ograjo', 'kako', 'narediti', 'tlake', 'med', 'sabo', 'da', 'bojo', 'višinsko', 'enaki']","[15, 5, 2, 6, 11, 3, 9, 15, 10, 9, 10, 10, 11, 6, 12, 8, 15, 3, 5, 15, 10, 5, 3, 10, 5, 3, 10, 9, 2, 1, 6, 5, 4]"
+['mhm'],[15]
+['eee'],[15]
+['[pause]'],[12]
+"['ker', 'če', 'ne', 'če', 'to', 'pustimo', 'izvajalcu', 'tudi', 'če', 'je', 'oči', 'pa', 'me', 'slučajno', 'takrat', 'ne', 'bo', 'mogel', 'poklicati', 'ali', 'karkoli', 'pa', 'pol', 'gre', 'svojo', 'pot']","[1, 1, 0, 1, 4, 3, 10, 0, 1, 3, 10, 11, 2, 5, 5, 0, 6, 3, 3, 11, 2, 11, 5, 3, 4, 10]"
+"['meni', 'se', 'zdi', 'pa', 'škoda', 'da', 'je']","[2, 2, 3, 11, 10, 1, 3]"
+"['zakaj', 'bi', 'vse', 'naredili', 'v', 'kamnu', 'pa', 'potem', 'na', 'kamen', 'gor', 'z', 'neko', 'stopnico', 'še', 'nek', 'les', 'eee', 'oblikovati', 'ne']","[5, 6, 4, 3, 9, 10, 11, 5, 9, 10, 5, 9, 4, 10, 0, 4, 10, 15, 3, 0]"
+"['mogoče', 'je', 'boljše', 'da', 'naredimo', 'vse', 'nek', '[gap]', 'betonsko', 'neko', 'betonsko', 'podlago']","[7, 6, 7, 1, 3, 4, 12, 8, 7, 4, 7, 10]"
+['mhm'],[15]
+"['potem', 'pa', 'na', 'njo', 'rečemo', 'okej', 'tule', 'se', 'pa', 'zaključi', 'z', 'eee', 'kamnom']","[5, 11, 9, 2, 3, 5, 5, 2, 11, 3, 9, 15, 10]"
+"['in', 'kakor', 'sem', 'jaz', 'revče', 'malo', 'dol', 'šla', 'po', 'tistem', 'ko', 'm', '[gap]', 'm', '[gap]', 'mi', 'je', 'že', 'brodica', 'odpirala', 'ko', 'idem', 'ne', 'na', 'brod', 'tako', 'je', 'meni', 'sta', 'se', 'obe', 'naprej', 'pletenki', 'sunile', 'in', 'ona', 'me', 'je', 'za', 'zadnji', 'potač', 'zgrabila']","[11, 1, 6, 2, 10, 7, 5, 3, 9, 4, 1, 12, 8, 12, 8, 2, 6, 0, 10, 3, 1, 3, 0, 9, 10, 5, 3, 2, 6, 2, 4, 5, 10, 3, 11, 2, 2, 6, 9, 7, 10, 3]"
+"['razumeš', '?']","[3, 8]"
+"['tako', 'kot', 'sem', 'jaz', 'ne', 'z', 'z', 'z', 'vsem', 'vred', 'pa', 'z', 'biciklom', 'noter', 'v', 'muro', 'spadnila']","[5, 1, 6, 2, 0, 9, 9, 9, 4, 5, 11, 9, 10, 5, 9, 13, 3]"
+"['si', 'ti', 'lahko', 'misliš', 'veš', 'ker', 'to', 'otrok', 'ne', 'premišlja', 'ker', 'te', 'teža', 'naprej', 'potegne', 'ne']","[2, 2, 5, 3, 3, 1, 4, 10, 0, 3, 1, 2, 10, 5, 3, 0]"
+"['ja', 'ja', 'ja']","[0, 0, 0]"
+"['ja', 'ja']","[0, 0]"
+"['to', 'to', 'je', 'in', 'še', 'danes', 'jo', 'vidim', 'to', 'brodarico', 'ne', 'in', 'te', 'me', 'ona', 'čez', 'odpeljala', 'in', 'jaz', 'lepo', 'pa', 'skoz', 'šumo', 'dete', 'malo', 'pa', 'p', '[gap]', 'skozi']","[4, 4, 3, 11, 0, 5, 2, 3, 4, 10, 0, 11, 5, 2, 2, 5, 3, 11, 2, 5, 11, 9, 10, 10, 7, 11, 12, 8, 5]"
+"['ampak', 'to', 'trebalo', 'plačati', 'brod', '?']","[11, 4, 3, 3, 10, 8]"
+"['to', 'je', 'bila', 'storitev', 'je', 'pa', 'bila', 'draga', 'mislim', 'ali', 'to', 'ni', 'bilo', 'ka', 'ste', 'tako', 'pogosto', 'uporabljali', 'za', 'vslak', '[gap]', 'vsak', 'drek', 'to', 'ne', 'za']","[4, 6, 6, 10, 6, 11, 6, 7, 3, 11, 4, 6, 6, 1, 6, 5, 5, 3, 9, 12, 8, 4, 10, 4, 0, 9]"
+"['dovre', '[gap]', 'ja', 'ja', '…', 'ne', 'to', 'so', 'se', 'vozili', 'stalno', '[gap]', 'm', '[gap]', 'mislim', 'njivo', 'so', 'imeli', 'na', 'ovi', 'strani', 'ovi', 'pa', 'tu', 'veš', 'ker', 'tu', 'vseeno', '[:voice]', 'njiva', 'z', 'mmm', 'njihova', 'z', 'obeh', 'štajer']","[12, 8, 0, 0, 8, 0, 4, 6, 2, 3, 5, 8, 12, 8, 3, 10, 6, 3, 9, 4, 10, 4, 11, 5, 3, 1, 5, 5, 8, 10, 9, 15, 4, 9, 4, 13]"
+"['ne', 'ne', '…', 'ne', 'ne', '…', 'ne', 'ne', '…', 'ne', 'ampak', 'recimo', 'znaš', 'ka', 'to', 'so', 'njive', 'ja', 'pa', 'to', 'je', 'bilo']","[0, 0, 8, 0, 0, 8, 0, 0, 8, 0, 11, 3, 3, 12, 4, 6, 10, 0, 11, 4, 6, 3]"
+"['prepričani', 'smo', 'da', 'bi', 'lahko', 'z', 'bolj', 'aktivnim', 'pristopom', 'eee', 'imeli', 's', '[gap]', 'zagotovljeno', 'odlaganje', 'vsaj', 'za', 'naslednjih', 'dvajset', 'let']","[7, 6, 1, 6, 5, 9, 5, 7, 10, 15, 3, 12, 8, 7, 10, 0, 9, 7, 14, 10]"
+"['eee', 'ne', 'samo', 'vmes', 'nisem', 'zastopil', 'kaj', 'je', '[name:personal]', '[name:surname]', 'rekel', 'pa', 'sem', 'mislil', 'da', 'je', 'mikrovalovka']","[15, 0, 0, 5, 6, 3, 2, 6, 13, 13, 3, 11, 6, 3, 1, 6, 10]"
+"['pa', 'kakšen', 'mozolj', 'zbrisali', 'na', 'hrbtu']","[11, 4, 10, 3, 9, 10]"
+"['to', 'je', 'pa', 'še', 'najmanj', 'ja', '[all:laughter]']","[4, 3, 11, 0, 5, 0, 8]"
+['[pause]'],[12]
+"['saj', 'z', '[gap]', '[gap]', 'dej', 'pa', 'ja', 'vse', 'obdelajo']","[11, 12, 8, 8, 12, 11, 0, 4, 3]"
+"['zdaj', 'sploh', 'ni', 'več', 'teh', 'slik', 'ki', 'bi']","[5, 0, 3, 0, 4, 10, 1, 3]"
+"['a', 'si', 'videla', 'oni', 'plakat', 'krasen', 'za', 'hazard', '?']","[5, 6, 3, 4, 10, 7, 9, 10, 8]"
+['ne'],[0]
+"['ko', 'bojo', 'imeli']","[1, 6, 3]"
+"['tamle', 'dol', 'stoji', 'na', '[name:address]']","[5, 5, 3, 9, 13]"
+['[:voice]'],[12]
+"['pa', 'tudi', 'pač', 'mislim', 'se', 'da', 'videti', 'na', 'več', 'koncih']","[11, 0, 0, 3, 2, 3, 3, 9, 4, 10]"
+"['ej', 'mislim', 'karikatura', 'oni', 'stari', 'deci', 'mislijo', 'da', 'bojo', 'večno', 'mladi', 'so', 'se', 'dali', 'poretuširati', 'redki', 'lasje', '[audience:laughter]', 'obupni', 'ampak', 'gubice', 'pa', 'nobene']","[15, 3, 10, 4, 7, 10, 3, 1, 6, 5, 7, 6, 2, 3, 3, 7, 10, 8, 7, 11, 10, 11, 4]"
+"['[speaker:laughter]', 'a', 'res', 'so', 'mlajši', '[gap]', 'takrat', 'ko', 'smo', 'bili', 'mi', 'd', '[gap]', 'stari', 'dvanajst', 'ko', 'smo', 'jih', 'poslušali']","[8, 5, 5, 6, 7, 8, 5, 1, 6, 6, 2, 12, 8, 7, 14, 1, 6, 2, 3]"
+"['ne', 'moreš', 'verjeti']","[0, 3, 3]"
+['je'],[2]
+"['ej', 'ne', 'moreš', 'verjeti']","[15, 0, 3, 3]"
+"['jo', 'pa', 'ej', 'sploh', 'ne', 'vem', 'a', 'so', 'se', 'pogledal', 'oni', 'mislim', 'na', 'teh', 'slikah', 'k']","[15, 11, 15, 0, 0, 3, 5, 6, 2, 3, 2, 3, 9, 4, 10, 1]"
+"['najbrž', 'ne', '[gap]']","[0, 0, 8]"
+"['vsak', 'obraz', 'mi', 'bo', 'znan', 'še', 'od', 'slaščičarne', 'saj', 'veš', 'da', 'me', 'še', 'zmeraj', 'preganja']","[4, 10, 2, 6, 7, 0, 9, 10, 11, 3, 1, 2, 0, 5, 3]"
+['[speaker:laughter]'],[12]
+"['res', 'ker', 'itak', 'mislim', 'so', 'tako', 'joj', 'res']","[5, 1, 0, 3, 3, 5, 15, 5]"
+['ojej'],[15]
+"['ja', 'pol', 'enkrat', 'moramo', 'iti', 'še', 'v', 'albanijo', 'to', 'bo', 'pol', 'kot', 'da', 'bi', 'šla', 'delati', 'v', 'bistvu']","[0, 5, 5, 3, 3, 0, 9, 13, 4, 3, 5, 1, 1, 6, 3, 3, 9, 10]"
+"['kot', 'da', 'kot', 'da', 'bi', 'šla', 'na', 'delo', '[speaker:laughter]']","[1, 1, 1, 1, 6, 3, 9, 10, 8]"
+"['eee', 'eem', 'ministrstvo', 'za', 'zunanje', 'zadeve', 'eee', 'v', '[gap]', 'seveda', 'deluje', 'v', 'v', 'okviru', 'svojih', 'pristojnosti']","[15, 15, 10, 9, 7, 10, 15, 12, 8, 0, 3, 9, 9, 10, 4, 10]"
+"['in', 'jaz', 'eee', 'sem', 'na', 'stališču', 'da', 'eee', 'slovenija', 'ima', 'eee', 'zelo', 'jasna', 'stališča']","[11, 2, 15, 3, 9, 10, 1, 15, 13, 3, 15, 5, 7, 10]"
+"['eee', 'nenazadnje', 'eee', 'je', 'bil', 'sprejet', 'v', 'državnem', 'zboru']","[15, 5, 15, 6, 6, 7, 9, 7, 10]"
+"['oziroma', 'je', 'bil', 'obravnavan', 'eee', 'dokument', 'eee', 'že', 'v', 'devetdesetih', 'letih', 'ne', 'govorimo', 'o', 'memorandumu', 'o', 'piranskem', 'zalivu']","[11, 6, 6, 7, 15, 10, 15, 0, 9, 7, 10, 0, 3, 9, 10, 9, 7, 10]"
+"['eee', 'ministrstvo', 'za', 'zunanje', 'zadeve', 'je', 'leta', 'dva', 'tisoč', 'pet', 'če', 'se', 'še', 'spomnite', 'pripravila', 'nabor', 'vseh', 'upravičenj', 'oziroma', 'stališč', 'republike', 'slovenije', 'in', 'jih', 'izdala', 'v', 'tako', 'imenovani', 'beli', 'knjigi']","[15, 10, 9, 7, 10, 6, 10, 14, 14, 14, 1, 2, 0, 3, 3, 10, 4, 10, 11, 10, 10, 13, 11, 2, 3, 9, 5, 7, 7, 10]"
+"['tako', 'da', 'zdaj', 'to', 'vprašanje', 'jaz', 'bi', 'tukaj', 'se', 'navezal', 'na', 'gospoda', '[name:surname]', 'v', 'kolikšni', 'meri', 'se', 'eee', 'recimo', 'sprejem', 'takšnega', 'dokumenta', 'eee', 'eee', 'se', 's', 'sprejemom', 'takšnega', 'dokumenta', 'okrepijo', 'eee', 'stališča', 'republike', 'slovenije', 'ne']","[11, 1, 5, 4, 10, 2, 6, 5, 2, 3, 9, 10, 13, 9, 4, 10, 2, 15, 3, 10, 4, 10, 15, 15, 2, 9, 10, 4, 10, 3, 15, 10, 10, 13, 0]"
+"['eee', 'potekajo', 'pa', 'razprave', 'v', 'tej', 'smeri', 'to', 'to', 'je', 'znano', 'in', 'te', 'priprave', 'potekajo']","[15, 3, 11, 10, 9, 4, 10, 4, 4, 6, 7, 11, 4, 10, 3]"
+"['zdaj', 'eee', 'v', '[gap]', 'kaj', 'več', 'pa', 'je', 'težko', 'reči', 'v', 'tem', 'trenutku', 'ne']","[5, 15, 12, 8, 5, 4, 11, 6, 7, 3, 9, 4, 10, 0]"
+"['gospod', '[name:surname]', 'eee', 'kaj', 'torej', 'če', 'ne', 'pride', 'do', 'eee', 'sprejetja', 'tega', 'sklepa']","[10, 13, 15, 2, 5, 1, 0, 3, 9, 15, 10, 4, 10]"
+"['eee', 'do', 'skupnega', 'dogovora', 'sklepa', 'ki', 'ga', 'predlagate', 'skupaj', 's', 'slovensko', 'ljudsko', 'stranko', 'p', '[gap]', 'ali', 'potem', 'ostane', 'zgolj', 'referendum', '?']","[15, 9, 7, 10, 10, 1, 2, 3, 5, 9, 7, 7, 10, 12, 8, 5, 5, 3, 0, 10, 8]"
+['[pause]'],[12]
+"['o', 'svojem', 'nasledniku', 'vse', 'dobro', 'tudi', 'aktualni', 'minister', 'za', 'finance']","[9, 4, 10, 4, 7, 0, 7, 10, 9, 10]"
+['[pause]'],[12]
+"['mhm', 'to', 'pa', 'zapestnica', 'ful', 'lu', '[gap]', 'luštna']","[15, 4, 11, 10, 5, 12, 8, 7]"
+"['mhm', 'z', 'jantarjem', 'ja']","[15, 9, 10, 0]"
+"['ja', 'ker', 'jaz', 'imam', 'pa', 'tak', 'tudi', 'debelo', 'ono', 'uro', 'jekleno', 'ne', '[gap]']","[0, 1, 2, 3, 11, 4, 0, 7, 4, 10, 7, 0, 8]"
+"['pa', 'tudi', 'ful', 'a', 'to', 'so', 'pa', 'tele']","[11, 0, 5, 5, 4, 6, 11, 4]"
+"['kaj', 'zar', '[gap]', 'in', 'to', 'niso', 'tiste', 'ki', 'kažejo', 'tudi', 'razpoloženje', 'ne']","[12, 12, 8, 11, 4, 6, 4, 1, 3, 0, 10, 0]"
+"['ne', 'ne']","[0, 0]"
+"['to', 'so', 'te', 'pač', 'eee']","[4, 6, 4, 0, 15]"
+"['to', 'so', 'te', 'ja']","[4, 6, 4, 0]"
+"['te', 'te', 'so', 'v', 'glavnem', 'za', 'okras', 'te', 'se', 'ne', 'prodajajo']","[4, 4, 3, 9, 7, 9, 10, 4, 2, 0, 3]"
+"['a', 'res', '?']","[5, 5, 8]"
+"['te', 'so', 'kot', 'dizajn', 'k', 'k', 'postavitvi']","[4, 3, 1, 10, 9, 9, 10]"
+"['se', 'vrne', 'domov', '?', 'se', 'vrne']","[2, 3, 5, 8, 2, 3]"
+['ja'],[0]
+"['samo', 'če', 'so', 'imeli', 'še', 'tam', '[gap]']","[0, 1, 6, 3, 0, 5, 8]"
+"['kdo', 'ga', 'od', 'daleč', 'že', 'zagleda', '[gap]', '[name:personal]', 'prosim']","[2, 2, 9, 5, 0, 3, 8, 13, 3]"
+['ja'],[0]
+"['kdo', 'ga', 'že', 'od', 'daleč', 'zagleda', '?']","[2, 2, 0, 9, 5, 3, 8]"
+['oče'],[10]
+['oče'],[10]
+['oče'],[10]
+"['se', 'ga', 'oče', 'razveseli', 'ali', 'ne', '?']","[2, 2, 10, 3, 11, 0, 8]"
+['ja'],[0]
+"['s', 'čim', 'pokaže', 'da', 'se', 'ga', 'z', '[gap]', 'da', 'se', 'ga', 'razveseli', '?']","[9, 2, 3, 1, 2, 2, 12, 8, 1, 2, 2, 3, 8]"
+"['da', 'priteče', 'in', 'ga', 'objame']","[1, 3, 11, 2, 3]"
+"['objame', 'ga', 'pa', 'ga', 'poljubi']","[3, 2, 11, 2, 3]"
+"['tako', 'teče', 'proti', 'njemu']","[5, 3, 9, 2]"
+"['mi', 'smo', 'sedaj', 'v', 'nekem', 'drugem', 'okolju', 'ne', 'kot', 'smo', 'navajeni']","[2, 3, 5, 9, 4, 7, 10, 0, 1, 6, 7]"
+"['torej', 'zgodba', 'zgodba', 'postavljena', 'na', 'vzhod', 'torej', 'neke', 'druge', 'dežele', 'kjer', 'so', 'ljudje', 'pri', 'vsem', 'delu', 'počasnejši']","[11, 10, 10, 7, 9, 10, 11, 4, 7, 10, 1, 6, 10, 9, 4, 10, 7]"
+"['za', 'njih', 'čas', 'teče', 'drugače', 'kot', 'za', 'nas']","[9, 2, 10, 3, 5, 1, 9, 2]"
+"['če', 'kdo', 'od', 'vas', 'že', 'bil', 'morda', 'v', 'egiptu', '[name:personal]', 'vem', 'da', 'si', 'ti', 'bil', 'ne', 'če', 'je', 'kdo', 'bil', 'morda', 'v', 'turčiji', 'grčiji', 'tuniziji', 'na', 'dopustu', 'veste', 'imajo', 'čas', 'oziroma', 'vzamejo', 'si', 'čas', 'tamkajšnji', 'prebivalci']","[1, 2, 9, 2, 0, 3, 0, 9, 13, 13, 3, 1, 6, 2, 3, 0, 1, 6, 2, 3, 0, 9, 13, 13, 13, 9, 10, 3, 3, 10, 11, 3, 2, 10, 7, 10]"
+"['se', 'vam', 'zdi', 'da', 'je', 'treba', 'to', 'zadevo', 'razčistiti', 'preden', 'greste', 'lahko', 'naprej', 'v', 'reševanje', 'ugleda', 'slovenske', 'policije', '?']","[2, 2, 3, 1, 3, 5, 4, 10, 3, 1, 3, 5, 5, 9, 10, 10, 7, 10, 8]"
+"['res', 'je']","[5, 3]"
+"['ne', 'gre', 'za', 'gre', 'za', 'postopek', 'uraden', 'postopek', 'ki', 'teče', 'in', 'mora', 'biti', 'zaključen']","[0, 3, 9, 3, 9, 10, 7, 10, 1, 3, 11, 3, 6, 7]"
+"['ja', 'ampak', 'a', 'je', 'bom', 'drugače', 'vprašal', 'a', 'je', 'neposeganje', 'v', 'delo', 'policije', 'princip', 'ali', 'izgovor', 'recimo', 'v', 'situacijah', 'v', 'katerih', 'je', 'bolje', 'da', 'se', 'kaj', 'ne', 'razreši', 'da', 'se', 'česa', 'ne', 'razreši', '?']","[0, 11, 5, 3, 6, 5, 3, 5, 6, 10, 9, 10, 10, 10, 11, 10, 3, 9, 10, 9, 4, 3, 5, 1, 2, 2, 0, 3, 1, 2, 2, 0, 3, 8]"
+"['ki', 'je', 'bil', '[gap]', '[name:personal]']","[1, 6, 6, 8, 13]"
+"['kako', '[name:personal]']","[5, 13]"
+"['ja', 'kaj', 'ni', '[name:personal]', 'ta', 'avto', '?']","[0, 5, 6, 13, 4, 10, 8]"
+"['[name:personal]', 'so', 'ga', 'dali']","[13, 6, 2, 3]"
+['aja'],[15]
+"['kaj', 'še', 'to', 'ne', 'veš', '?', '…', 'ojoj', 'ti', 'pa', 'res', 'nič', 'ne', 'veš']","[5, 0, 4, 0, 3, 8, 8, 15, 2, 11, 5, 4, 0, 3]"
+"['[gap]', '…', 'ja', 'to', 'tudi', 'nisem', 'vedela', 'ne']","[8, 8, 0, 4, 0, 6, 3, 0]"
+['ja'],[0]
+"['[gap]', 'jaz', 'sem', 'jo', 'videl', 'ko', 'je', 'p', '[gap]', 'so', 'se', 'pripeljali', 'včeraj', 'ali', 'predvčerajšnjim']","[8, 2, 6, 2, 3, 1, 6, 12, 8, 6, 2, 3, 5, 11, 5]"
+['[gap]'],[12]
+"['z', 'oplom']","[9, 10]"
+"['ja', 'saj', 'bi', 'mogla', 'ona', 'tudi', 'baje', 'takrat', 'no', 'v', 'petek', 'ko', 'smo', 'bile', 'me', 'takrat', 'na', 'koncertu', 'bi', 'mogla', '[name:personal]', 'voziti', 'že', 'kao', 'okrog', 'pa', 'ni', 'še', 'šla', 'vozniške', 'narediti', 'je', 'imela', 'tisto', 'potrdilo', 'samo', 'ne']","[0, 11, 6, 3, 2, 0, 0, 5, 0, 9, 10, 1, 6, 3, 2, 5, 9, 10, 6, 3, 13, 3, 0, 5, 5, 11, 6, 0, 3, 7, 3, 6, 3, 4, 10, 0, 0]"
+"['pa', 'pol', 'ni', '…', 'ja', 'baje', 'da', 'lahko', 'jaz', 'sem', 'se', 'štirinajst', 'dni', 's', 'potrdilom', 'vozila', 'preden', 'sem', 'si', 'šla', 'vozniško', 'narediti']","[11, 5, 3, 8, 0, 0, 1, 5, 2, 6, 2, 14, 10, 9, 10, 3, 1, 6, 2, 3, 7, 3]"
+"['ja', 'saj', 'lahko', 's', 'potrdilom', 'pelješ', 'ne']","[0, 11, 5, 9, 10, 3, 0]"
+"['po', 'pravem', 'se', 'ne', 'bi', 'smeli']","[9, 7, 2, 0, 6, 3]"
+"['se', 'z', '[gap]', 'saj', 'zdaj', 'že', 'kartico', 'dobiš', 'nimaš', 'več', 'onih', 'vozniških', 'klasika', 'ko', 'imamo', 'mi']","[2, 12, 8, 11, 5, 0, 10, 3, 3, 0, 4, 7, 10, 1, 3, 2]"
+"['ne', 'bi', 'ne', '?']","[0, 3, 0, 8]"
+['[gap]'],[12]
+"['eden', 'naj', 'govori', 'ššš', '!']","[14, 0, 3, 15, 8]"
+['[gap]'],[12]
+"['hiša', 'iz', 'ilovice']","[10, 9, 10]"
+"['pa', 'niso', 'muzeji', 'samo', 'tako', 'v', 'naravi', '[gap]']","[11, 3, 10, 0, 5, 9, 10, 8]"
+"['mhm', '…', 'pa', 'še', 'živijo', 'notri', '?']","[15, 8, 11, 0, 3, 5, 8]"
+"['ne', 'je', 'že', '[gap]']","[0, 3, 0, 8]"
+"['aja', 'torej', 'propada', '…', 'propada', '[gap]', 'propada', 'nihče', 'ne', 'živi']","[15, 11, 3, 8, 3, 8, 3, 2, 0, 3]"
+['[gap]'],[12]
+['mhm'],[15]
+"['ja', 'pa', 'cerkvica', 'je', 'tam', 'še', '[gap]']","[0, 11, 10, 3, 5, 0, 8]"
+['[name:personal]'],[13]
+"['tam', 'ko', 'smo', 's', '[gap]', 'ko', 'smo', 'se', 'enkrat', 'z', 'atijem', 'peljali', 'ne', '[gap]']","[5, 1, 6, 12, 8, 1, 6, 2, 5, 9, 10, 3, 0, 8]"
+"['[gap]', 'takšna', 'ena', 'eee', 'z', 'blata', 'hiša', '[gap]']","[8, 4, 14, 15, 9, 10, 10, 8]"
+"['ja', 'pa', 'poleg', '[gap]']","[0, 11, 9, 8]"
+['[gap]'],[12]
+"['tale', 'hiše', 'je', 'kar', 'nekaj', '[gap]', 'značilno', 'ker', 'propadajo']","[4, 10, 6, 5, 4, 8, 5, 1, 3]"
+"['tiste', 'katere', 'so', 'pa', 'uredili', 'pa', 'ponavadi', 'jih', 'niso', 'uredili', 'zato', 'da', 'bi', 'v', 'njih', 'živeli', 'ampak', 'zato', 'da', '[gap]', 'imajo', 'za', 'okras']","[4, 4, 6, 11, 3, 11, 5, 2, 6, 3, 5, 1, 6, 9, 2, 3, 11, 5, 1, 8, 3, 9, 10]"
+"['ne', 'mislim', 'mis', '[gap]', 'ona', 'gospa', 'je', 'bila', 'res', 'bizarna', 'in', 'ta', 'ki', 'je', 's', 'tičem', 'okoli', 'hodil', 'je', 'bil', 'tudi', '[gap]']","[0, 3, 12, 8, 4, 10, 6, 6, 5, 7, 11, 4, 1, 6, 9, 10, 5, 3, 6, 3, 0, 8]"
+"['[speaker:laughter]', 'aja', 'ja', '[speaker:laughter]']","[8, 15, 0, 8]"
+"['zelo', 'vneto']","[5, 5]"
+"['zelo', 'zelo', 'vneto', '[gap]']","[5, 5, 5, 8]"
+"['[gap]', 'daj', '[gap]']","[8, 3, 8]"
+"['čakaj', 'kdo', 'je', 'bil', 'zdaj', 'v', 'tej', 'zgodbi', 'eee', 'vnet', '[name:personal]', 'ali', 'kako', '…', 'ti', 'si', 'bil', 'vnet', 'ali', 'kaj', '?', '…', 'aha']","[3, 2, 6, 6, 5, 9, 4, 10, 15, 7, 13, 11, 5, 8, 2, 6, 6, 7, 11, 2, 8, 8, 15]"
+"['kaj', '?']","[2, 8]"
+['ja'],[0]
+"['kaj', 'sem', 'bil', 'v', '[gap]', 'vnet', 'jaz', 'sem', 'bil', 'vnet', 'ja']","[5, 6, 6, 12, 8, 7, 2, 6, 6, 7, 0]"
+"['[speaker:laughter]', 'vnet', 'ja']","[8, 7, 0]"
+"['sem', 'bral']","[6, 3]"
+"['no', 'in', 'daj', 'mi', 'povej', 'a', 'je', 'eee', 'kako', 'a', 'ka', '[gap]', 'kako', 'je', 'bilo', 'delati', 'kako', 'je', 'delati', 'na', 'majhni', 'nikak', '[gap]', 'torej', 'eee', 'zelo', 'majhni', 'televiziji', 'no']","[0, 11, 3, 2, 3, 5, 3, 15, 5, 5, 12, 8, 5, 6, 3, 3, 5, 3, 3, 9, 7, 12, 8, 11, 15, 5, 7, 10, 0]"
+['[speaker:laughter]'],[12]
+['[speaker:laughter]'],[12]
+"['ja', 'no', 'saj', 'veš', 'sam', 'kako', 'je', 'z', 'začetki', 'ne', 'začneš', 'z', 'majhnim', 'ne']","[0, 0, 11, 3, 7, 5, 3, 9, 10, 0, 3, 9, 7, 0]"
+"['takrat', 'v', 'tistem', 'času', 'je', 'bilo', 'meni', 'v', 'redu', 'ne', '[speaker:laughter]', '…', 'in', 'pol', 'iz', 'majhnega', 'zraste', 'veliko', 'ali', 'pa', 'tudi', 'ne', 'ne']","[5, 9, 4, 10, 6, 3, 2, 9, 10, 0, 8, 8, 11, 5, 9, 7, 3, 7, 11, 11, 0, 0, 0]"
+"['a', 'takole', 'a', 'takole', 'se', 'bomo', 'šli', '?', 'prav', 'v', 'redu', 'takole', 'lahko', 'tudi', 'na', 'grobo', 'dobro']","[5, 5, 5, 5, 2, 6, 3, 8, 0, 9, 10, 5, 5, 0, 9, 5, 5]"
+"['eee', 'ne', 'vem', '[speaker:laughter]']","[15, 0, 3, 8]"
+"['aha', 'aha', 'ja', 'ja', 'ja', 'ja', 'ja']","[15, 15, 0, 0, 0, 0, 0]"
+['ohohoho'],[15]
+['[speaker:laughter]'],[12]
+"['to', 'so', '[gap]', 'ja', 'ja']","[4, 3, 8, 0, 0]"
+"['ali', 'pa', 'je', 'skozi', 'minus']","[11, 11, 6, 5, 10]"
+['[speaker:laughter]'],[12]
+"['ja', '…', 'ja', 'ja', 'je', 'res']","[0, 8, 0, 0, 3, 5]"
+['dobro'],[5]
+['[speaker:laughter]'],[12]
+"['[pause]', '[:voice]']","[12, 8]"
+"['[incident]', 'ti', 'si', 'imela', 'svojo', 'oddajo', 'tam', 'ne', '…', 'ka', '[gap]', 'za', 'kaj', 'za', 'k', '[gap]', 'ka', '[gap]', 'za', 'kaj', 'je', 'šlo', 'v', 'tisti', 'oddaji', '?']","[8, 2, 6, 3, 4, 10, 5, 0, 8, 12, 8, 9, 2, 9, 12, 8, 12, 8, 9, 2, 6, 3, 9, 4, 10, 8]"
+['mhm'],[15]
+"['ja', 'imela', 'sem', 'take', 'goste', 'tako', 'kot', 'imata', 'zdaj', 'vidva', 'tukaj', 'mene']","[0, 3, 6, 4, 10, 5, 1, 3, 5, 2, 5, 2]"
+"['polh', 'ne', 'recimo', 'ta', 'pri', 'temu', 'je', 'zimovanje', 'obvezno', 'ne']","[10, 0, 3, 4, 9, 4, 6, 10, 7, 0]"
+"['pa', 'črtkan', 'je', 'evo', 'krogla', 'ujeta', 'v', '[gap]']","[11, 7, 6, 0, 10, 7, 9, 8]"
+"['[audience:laughter]', 'zadovoljna', '?']","[8, 7, 8]"
+['[pause]'],[12]
+"['si', '?']","[3, 8]"
+"['[audience:laughter]', 'ja', 'zdaj', 'vemo', 'eee', 'višina', 'dva', 'r', 'lahko', 'vemo', 'ne', 'iz', 'tega']","[8, 0, 5, 3, 15, 10, 14, 10, 5, 3, 0, 9, 4]"
+['ja'],[0]
+"['da', 'je', 'to', '[gap]', 'mislim', 'a']","[1, 6, 4, 8, 3, 10]"
+"['r', 'je', 'a', 'krat', '[gap]']","[10, 6, 10, 5, 8]"
+"['ja', 'lahko', 'tako', 'razmišljamo', 'ja']","[0, 5, 5, 3, 0]"
+"['r', 'je', '[gap]', '…', 'ja']","[10, 3, 8, 8, 0]"
+"['tako', 'da', '[gap]', 'postopku', 'smo', 'to', 'včrtali', 'v', 'kocko', 'a', 'ne', 'pa', 'je', 'osnovna', 'ploskev', 'kvadrat']","[11, 1, 8, 10, 6, 4, 3, 9, 10, 5, 0, 11, 6, 7, 10, 10]"
+"['zdaj', 'še', 'središče', 'krogle', 'nariši', 'pri', 'tem', 'polmeru']","[5, 0, 10, 10, 3, 9, 4, 10]"
+['[pause]'],[12]
+"['kaj', 'imamo', 'pa', 'volumen', 'pa', 'prostornino', '[gap]', 'za', 'izračunati', '[gap]']","[5, 3, 11, 10, 11, 10, 8, 9, 3, 8]"
+['prostornino'],[10]
+"['samo', 'prostornino']","[0, 10]"
+['ja'],[0]
+"['tisti', 'je', 'polmer', 'v', 'redu']","[4, 6, 10, 9, 10]"
+"['polmer', 'bo', 'treba', 'izračunati', 'ne']","[10, 3, 5, 3, 0]"
+"['[audience:laughter]', 'kako', 'pa', '?']","[8, 5, 11, 8]"
+"['aja', 'dva', 'r', 'je', 'enako', 'a', 'pa', 'pol', 'izračunaš']","[15, 14, 10, 6, 4, 10, 11, 5, 3]"
+['[gap]'],[12]
+"['kašlja', '[speaker:laughter]']","[3, 8]"
+"['ja', 'zakaj', '?']","[0, 5, 8]"
+['[pause]'],[12]
+"['ja', 'ker', 'je', 'tlele', 'zraven']","[0, 1, 3, 5, 5]"
+['[pause]'],[12]
+"['mislim', 'zraven', 'pod', 'mano']","[3, 5, 9, 2]"
+"['[speaker:laughter]', 'pod', 'tabo']","[8, 9, 2]"
+['[gap]'],[12]
+"['pod', 'mano', 'je', 'ja']","[9, 2, 3, 0]"
+"['jaz', 'sem', 'nad', 'nje', 'jaz', 'sem', 'na', '[gap]', 'nad', 'njo', '[speaker:laughter]']","[2, 3, 9, 2, 2, 3, 12, 8, 9, 2, 8]"
+['[pause]'],[12]
+"['kaj', 'pa', 'sploh', 'delate', 'vi', '?']","[2, 11, 0, 3, 2, 8]"
+['[gap]'],[12]
+"['a', '?']","[15, 8]"
+"['kaj', 'sploh', 'delate', '?']","[2, 0, 3, 8]"
+"['ma', 'tlele', 'sem', 'tole', 'slamo', 'postavil', 'balo', 'tlele', 'sem', 'premaknil']","[0, 5, 6, 4, 10, 3, 10, 5, 6, 3]"
+['[pause]'],[12]
+"['stari', 'ati', 'ne', 'more', 'sam', 'pa', 'sem', 'jaz']","[7, 10, 0, 3, 7, 11, 3, 2]"
+['[pause]'],[12]
+"['samo', 'špago', 'sem', 'mogel', 'omotati', 'pa', 'take']","[0, 10, 6, 3, 3, 11, 4]"
+"['uh', 'eem', 'kaj', 'tvoja', 'mama', 'bo', 'tlele', 'do', 'ponedeljka', '?']","[15, 15, 5, 4, 10, 3, 5, 9, 10, 8]"
+"['aha', 'ja', 'z', 'mano', 'bo', 'šla', 'nazaj']","[15, 0, 9, 2, 6, 3, 5]"
+"['kaj', 'nima', 'on', 'službe', '?']","[5, 3, 2, 10, 8]"
+['[gap]'],[12]
+['ne'],[0]
+['[pause]'],[12]
+"['zakaj', 'če', 'je', 'praznik', 'jutri', 'ali', 'pojutrišnjem']","[5, 1, 6, 10, 5, 11, 5]"
+"['aja', 'točno']","[15, 5]"
+"['ima', 'frej']","[3, 5]"
+"['da', 'bi', 'to', 'izvedeli', 'obiščemo', 'prvega', 'delovnega', 'inšpektorja', 'v', 'državi', 'ki', 'nam', 'pove', 'da', 'pri', 'delavcih', 'domačih', 'in', 'tujih', 'vsako', 'leto', 'odkrijejo', 'nekaj', 'sto', 'kršitev', 'delovnih', 'pravic', 'največ', 'prav', 'na', 'gradbiščih']","[1, 6, 4, 3, 3, 7, 7, 10, 9, 10, 1, 2, 3, 1, 9, 10, 7, 11, 7, 4, 10, 3, 4, 14, 10, 7, 10, 4, 0, 9, 10]"
+['[pause]'],[12]
+"['sosed', 'ima', 'tam', 'par', 'sodov', 'tega', '[gap]']","[10, 3, 5, 4, 10, 4, 8]"
+['[pause]'],[12]
+"['[audience:laughter]', 'vrč', 'pa']","[8, 10, 11]"
+"['[:voice]', 'a', 'sok', 'je', 'meni', 'dober', 'ne', 'v', 'bistvu', 'iz', 'jabolk', 'mi', 'je', 'ful', 'všeč']","[8, 15, 10, 6, 2, 7, 0, 9, 10, 9, 10, 2, 3, 5, 5]"
+"['samo', 'pravijo', 'pa', 'da', '[gap]', 'najbolj', '[gap]', 'teče']","[0, 3, 11, 1, 8, 5, 8, 3]"
+"['če', 'sedi', 'pred', 'bajto', '[gap]']","[1, 3, 9, 10, 8]"
+"['pa', 'že', 'pride', 'plot', 'standardno', '[gap]', 'se', 'pet', 'minut', 'meniva', 'kaj', 'bova', 'spila', 'kaj', '[speaker:laughter]', 'jabolčnik', '[all:laughter]']","[11, 0, 3, 10, 5, 8, 2, 14, 10, 3, 5, 6, 3, 2, 8, 10, 8]"
+['[pause]'],[12]
+"['ja', 'dober', 'jabolčnik', 'je', 'iz']","[0, 7, 10, 3, 9]"
+['[pause]'],[12]
+"['samo', 'ni', 'tukla', 'ni', 'jabolčnik']","[0, 6, 10, 6, 10]"
+"['n', '[gap]', 'ja', 'ja', 'ja', 'to', 'mmm']","[12, 8, 0, 0, 0, 4, 15]"
+"['tukla', 'je', 'vodo', 'vlijejo', 'na', 'tropine', 'gor', 'pa', 'stisnejo', '[gap]', 'to', 'je', 'tukla']","[10, 6, 10, 3, 9, 10, 5, 11, 3, 8, 4, 6, 10]"
+['[pause]'],[12]
+"['pa', 'potem', 'pijejo']","[11, 5, 3]"
+"['ne', 'kako', 'rečejo', 'je', 'jabol', '[gap]', 'pa', 'saj', 'je', 'jabolčnik']","[0, 5, 3, 6, 12, 8, 11, 11, 6, 10]"
+"['ja', 'pri', 'nas', 'pravimo', 'mošt']","[0, 9, 2, 3, 10]"
+"['mošt', 'je', 'moš', '[gap]', 'mislim']","[10, 6, 12, 8, 3]"
+"['preve', '[gap]', 'preveč', 'izkušenega']","[12, 8, 4, 7]"
+"['ej', 'res', 'ej', '[audience:laughter]']","[15, 5, 15, 8]"
+"['glej', 'po', 'zdaj', 'po', 'tej', 'ta', 'novi', 'diplomi', 'pač', 'se', 'kao', 'pogovarjaš', 'tako', 'deset', 'minut', 'je', 'nekje', 'zagovor', 'deset', 'petnajst', 'no', 'nekaj', 'tako', 'vse', 'skupaj', 'ne']","[3, 9, 5, 9, 4, 4, 7, 10, 0, 2, 5, 3, 5, 14, 10, 6, 5, 10, 14, 14, 0, 4, 5, 4, 5, 0]"
+"['ja', 'ja', '…', 'ja', 'ja', 'ja']","[0, 0, 8, 0, 0, 0]"
+"['ti', 'ma', '[gap]', 'okej', 'razen', 'pač', 'tvojo', 'predstavitev', 'deset', 'do', 'petnajst', 'pol', 'pa', 'še', 'pogovora', 'toliko', 'ne']","[2, 12, 8, 5, 11, 0, 4, 10, 14, 9, 14, 5, 11, 0, 10, 4, 0]"
+['mhm'],[15]
+"['mid', '[gap]', 'on', 'je', 'mene', 'pol', 'ure', 'spraševal']","[12, 8, 2, 6, 2, 4, 10, 3]"
+"['pa', 'lahko', 'ti', 'teoretično', 'tu', 'padeš', 'mislim', 'lahko', 'oni', 'reče', 'kolega', 'pač', 'ne']","[11, 5, 2, 5, 5, 3, 3, 5, 4, 3, 10, 0, 0]"
+"['zag', '[gap]', 'zagovora', 'ne', 'zaradi', 'tega', 'ker', 'je', 'samo', 'dvajset', 'procentov']","[12, 8, 10, 0, 9, 4, 1, 6, 0, 14, 10]"
+"['aha', 'aha']","[15, 15]"
+"['ocena', 'je', 'osemdeset', 'dvajset', 'ne']","[10, 6, 14, 14, 0]"
+"['aha', 'aha', 'aha']","[15, 15, 15]"
+"['tako', 'da', 'že', 'osemdeset', 'narediš', 'ne', 'lahko', 'ti', 'pa', 'pač', 'zavrnejo', 'diplomo', 'ne', 'pač', 'rečejo', 'ne', 'vem', 'plagiat', 'preveč', 'ste', 'ne', 'vem', 'niste', 'uporabljali', 'ne']","[11, 1, 0, 14, 3, 0, 5, 2, 11, 0, 3, 10, 0, 0, 3, 0, 3, 10, 4, 3, 0, 3, 6, 3, 0]"
+"['eee', '[speaker:laughter]', 'eem', 'plačujem', 'pa', 'tudi', 'čisto', 'običajne', 'ja', 'tako', 'da', 'ene', 'in', 'druge', '[speaker:laughter]']","[15, 8, 15, 3, 11, 0, 5, 7, 0, 11, 1, 14, 11, 7, 8]"
+"['skratka', 'ne', 'bojte', 'se', 'poslati', 'vaše', 'položnice', 'torej', 'samo', 'še', 'ta', 'teden', 'na', 'dvesto', 'devetdeset', 'devetindevetdeset', 'sedemindevetdeset']","[5, 0, 3, 2, 3, 4, 10, 11, 0, 0, 4, 10, 9, 14, 14, 14, 14]"
+"['jaz', 'pa', 'zdaj', 'tule', 'gledam', 'eno', 'položnico', 'in', 'mi', 'je', 'prav', 'zanimivo', 'prizidek', 'si', 'želi', '[name:personal]', 'pa', 'me', 'zanima', 'če', 'zato', 'da', 'se', 'loči', 'od', 'tašče']","[2, 11, 5, 5, 3, 14, 10, 11, 2, 6, 0, 7, 10, 2, 3, 13, 11, 2, 3, 1, 5, 1, 2, 3, 9, 10]"
+['mhm'],[15]
+['[pause]'],[12]
+"['dobro', 'jutro']","[7, 10]"
+['jutro'],[10]
+"['sem', 'zbudila', '[name:personal]', '?']","[6, 3, 13, 8]"
+"['ja', 'malce', '[speaker:laughter]']","[0, 4, 8]"
+"['[speaker:laughter]', 'tukaj', '[name:personal]', '[name:surname]', 'radio', 'center']","[8, 5, 13, 13, 10, 10]"
+"['o', 'pozdravljeni', 'pozdravljeni']","[15, 7, 7]"
+"['[speaker:laughter]', 'a', 'ni', 'treba', 'v', 'službo', '?']","[8, 5, 3, 5, 9, 10, 8]"
+"['a', 'je', 'je', 'treba', 'treba']","[15, 3, 3, 5, 5]"
+"['samo', 'kasneje', 'verjetno', 'ne']","[0, 5, 5, 0]"
+"['ja', 'ja', 'majčkeno', 'kasneje', '…', 'ja', 'ja', 'kar', 'kar']","[0, 0, 5, 5, 8, 0, 0, 5, 5]"
+"['[speaker:laughter]', 'ampak', 'glede', 'na', 'to', 'da', 'eee', 'držim', 'pesti', 'da', 'bi', 'bila', 'izžrebana', 'tudi', 'vaša', 'položnica', 'bi', 'vas', 'kar', 'zdaj', 'za', 'kakšno', 'minutko', 'zmotila', 'prav', '?', '[speaker:laughter]']","[8, 11, 5, 9, 4, 1, 15, 3, 10, 1, 6, 6, 7, 0, 4, 10, 6, 2, 5, 5, 9, 4, 10, 3, 0, 8, 8]"
+"['tri', 'tisoč', 'sedemsto', 'dvajset', 'evrov', 'piše', '…', 'in', 'sicer', 'eee', 'to', 'je', 'račun', 'za', 'izdelavo', 'projekta', 'za', 'prizidek', 'k', 'stanovanjski', 'hiši']","[14, 14, 14, 14, 10, 3, 8, 11, 11, 15, 4, 6, 10, 9, 10, 10, 9, 10, 9, 7, 10]"
+"['ja', '…', 'ja', 'ja']","[0, 8, 0, 0]"
+"['ja', 'strošek', 'arhitekta', 'v', 'bistvu', '…', 'ja', 'ja', 'to', 'je', 'pač', 'eee', 'da', 'da', 'izdela', 'pač', 'ta', 'projekt', 'vse']","[0, 10, 10, 9, 10, 8, 0, 0, 4, 3, 0, 15, 1, 1, 3, 0, 4, 10, 4]"
+"['ja', 'no', 'to', 'je', 'pa', 'dobra', 'novica', 'tako', 'da', '[speaker:laughter]', '[gap]', 'da', 'ne', 'bo', 'dolga', 'seansa', 'ja', 'ker', 'imamo', 'pol', 'saj', 'veš', 'tisto', '[gap]', 'in', 'tako', 'naprej', 'ja']","[0, 0, 4, 6, 11, 7, 10, 11, 1, 8, 8, 1, 0, 6, 7, 10, 0, 1, 3, 5, 11, 3, 4, 8, 11, 5, 5, 0]"
+['[pause]'],[12]
+"['no', 'je', 'pa', 'je', 'pa', 'pol', 'se', 'spremenilo', 'tako', 'da', 'da', 'je', 'pa', 'prišlo', 'na', 'to', 'kar', 's', '[gap]', 'kaj', 'in', 'danes', 'živimo', 'ne']","[0, 6, 11, 6, 11, 5, 2, 3, 11, 1, 1, 6, 11, 3, 9, 4, 2, 12, 8, 2, 11, 5, 3, 0]"
+"['kdo', 'je', 'imel', 'denar', 'je', 'preživel', 'kdo', 'ga', 'ni', 'imel', 'je', 'bil', 'revež', 'tako', 'kot', 'je', 'in', 'danes', 'ne']","[2, 6, 3, 10, 6, 3, 2, 2, 6, 3, 6, 6, 10, 5, 1, 3, 11, 5, 0]"
+"['ako', 'ako', 'imaš', 'imaš', 'ako', 'nimaš', 'pa', 'si', 'revež']","[1, 1, 3, 3, 1, 3, 11, 6, 10]"
+"['tako', 'življenje', 'je', 'bilo', 'prej', 'in', 'in', 'sedaj', 'je']","[4, 10, 6, 3, 5, 11, 11, 5, 3]"
+"['edino', 'to', 'da', 'se', 'nisi', 'bal', 'da', 'te', 'bo', 'kdo', 'počil', 'kje']","[5, 4, 1, 2, 6, 3, 1, 2, 6, 2, 3, 5]"
+"['[gap]', 'za', 'vse', 'skupno', 'je', 'pa', 'ekonomika', 'tista', 'ki', 'vam', 'to', 'določa']","[8, 9, 4, 7, 6, 11, 10, 4, 1, 2, 4, 3]"
+"['ja', 'ja', 'ja', 'zdaj', 'eee', 'kako', 'pa', 'je', 'z', 'eem', 'm', '[gap]', 'slišal', 'sem', 'da', 'je', 'tudi', 'eee', 'zdaj', 'zadnje', 'čase', 'do', '[gap]', 'dosti', 'popularno', 'ogrevanje', 'na', 'biomaso']","[0, 0, 0, 5, 15, 5, 11, 3, 9, 15, 12, 8, 3, 6, 1, 6, 0, 15, 5, 7, 10, 12, 8, 4, 7, 10, 9, 10]"
+"['eee', 'je', 'je', 'to', 'v', 'bistvu', 'eee', 'tudi', 'eee', 'v', 'potrebno', 'imeti', 'dosti', 'izolirano', 'hišo', 'ali', 'je', 'to', 'bolj', 'podobno', 'klasiki', 'ne', 'vem', 'olju', 'drva', 'drva', 'v', 'bistvu', 'ogrevanje', 'na', 'drva']","[15, 3, 3, 4, 9, 10, 15, 0, 15, 9, 5, 3, 4, 7, 10, 11, 6, 4, 5, 7, 10, 0, 3, 10, 10, 10, 9, 10, 10, 9, 10]"
+"['ja', '[gap]', '…', 'ja', 'razumem', 'ja']","[0, 8, 8, 0, 3, 0]"
+"['ne', 'vem', 'z', 'biomaso', 'je', 'tako', 'biomaso', 'imate', 'vi', 'zdaj', 'tri', 'vrste', 'bi', 'rekel', 'tri', 'vrste', 'ali', 'imate', 'klasična', 'polena']","[0, 3, 9, 10, 3, 5, 10, 3, 2, 5, 14, 10, 6, 3, 14, 10, 11, 3, 7, 10]"
+['mhm'],[15]
+"['j', '[gap]', 'ali', 'imate', 'eee', 'eee', 'sekanca', 'ali', 'imate', 'eee', 'pelete', 'ne']","[12, 8, 11, 3, 15, 15, 10, 11, 3, 15, 10, 0]"
+['mhm'],[15]
+"['zdaj', 'če', 'greva', 'klasična', 'polena', 'reči', 'potem', 'je', 'takoj', 'potem', 'je', 'to', 'peč', 'kjer', 'se', 'zdaj', 'te', 'ki', 'so', 'novejše', 'so', 'take', 'da', 'v', 'bistvu', 'eee', 'da', 'v', 'bistvu', 'imate', 'dve', 'neke', 'vrste', 'spodnji', 'kurišči', 'kjer', 'u', '[gap]', 'uplinjate', 'to', 'ta', 'les', 'in', 'potem', 'se', 'v', 'bistvu', '[gap]', 'ti', 'plini', 'izgoreva']","[5, 1, 3, 7, 10, 3, 5, 3, 5, 5, 6, 4, 10, 1, 2, 5, 4, 1, 6, 7, 6, 4, 1, 9, 10, 15, 1, 9, 10, 3, 14, 4, 10, 7, 10, 1, 12, 8, 3, 4, 4, 10, 11, 5, 2, 9, 10, 8, 4, 10, 3]"
+"['se', 'pravi', 'da', 'je', 'to', 'so', 'zelo', 'učinkovite', 'peči', 'na', 'polena', 'ki', 'imajo', 'ki', 'mmm', 'recimo', 'temu', 'najnovejšo', 'tehnologijo']","[2, 3, 1, 3, 4, 6, 5, 7, 10, 9, 10, 1, 3, 1, 15, 3, 4, 7, 10]"
+['mhm'],[15]
+"['zdaj', 'eee', 'ne', 'in', 'ta', '[gap]', 'so', 'imeli', 'kurišče', 'drugačno', 'zdaj', 'je', 'to', 'kurišče', 'drugačno']","[5, 15, 0, 11, 4, 8, 6, 3, 10, 7, 5, 6, 4, 10, 7]"
+"['je', 'tudi', 'vso', 'j', '[gap]', 'vse', 'je', 'tudi', 'regulirano', 'temperaturno', 'imate', 'vse', 'o', '[gap]', 'vse', 'senzorje', 'zgoraj', 'in', 'potem', 'tudi', 'o', '[gap]', 'potreben', 'izpih', 'zraka', 'tako', 'da', 'vam', 'regulira', 'eee', 'tudi', 'lahko', 'temperaturo', 'tako', '[gap]', 'tako', 'da', 'vam', 'plamen', 'regulira', 'glede', 'na', 'to', 'koliko', 'rabite', 'energije', 'ne']","[3, 0, 4, 12, 8, 4, 6, 0, 7, 5, 3, 4, 12, 8, 4, 10, 5, 11, 5, 0, 12, 8, 7, 10, 10, 11, 1, 2, 3, 15, 0, 5, 10, 5, 8, 11, 1, 2, 10, 3, 5, 9, 4, 4, 3, 10, 0]"
+"['brez', 'drugega', 'dramaturga', 'tako', 'da', 'pozorni', 'še', 'posebej', 'bodite', 'na', '[name:personal]', 'ker', 'bo', 'drugi', 'del', 'v', 'd', 'dramaturga', 'v', 'smislu', 'da', 'te', 'stvari', 'kar', 'bomo', 'eee', 'poskušali', 'v', 'likih', 'ustvarjati', 'bomo', 't', '[gap]', 'skoz', 'govor', 'in', 'bo', '[name:personal]', 'mogla', 'malo', 'večkrat', 'posr', '[gap]', 'pomagati', 'na', 'tej', 'poti', 'da', 'to', 'dejansko', 'dobimo']","[9, 7, 10, 11, 1, 7, 0, 5, 6, 9, 13, 1, 6, 7, 10, 10, 10, 10, 9, 10, 1, 4, 10, 2, 6, 15, 3, 9, 10, 3, 3, 12, 8, 9, 10, 11, 6, 13, 3, 4, 5, 12, 8, 3, 9, 4, 10, 1, 4, 5, 3]"
+['[pause]'],[12]
+"['pa', 'ne', 'pozabite', 'da', 'eee', 'jaz', 'nekatere', 'štajerščine', 'in', 'take', 'zadeve', 'ne', 'slišim', 'tako', 'da', 'bo', 'imela', 'večja', 'pooblastila', '[audience:laughter]']","[11, 0, 3, 1, 15, 2, 4, 10, 11, 4, 10, 0, 3, 11, 1, 6, 3, 7, 10, 8]"
+"['ona', 'gospa', 'reče', '[gap]', '[all:laughter]']","[4, 10, 3, 8, 8]"
+"['ja', 'saj']","[0, 11]"
+"['no', 'saj', 'ne', 'malo', 'se', 'hecam', 'ampak', 'dejansko', 'bomo', 'bomo', 'tokrat', 'v', 'tem', 'projektu', 'malo', 'bolj', 'sodelovali', 'eem', 'v', 'smislu', 'ne', 'samo', 'lektorsko', 'pa', 'akcentov', 'in', 'eem', 'logike', 'stavka', 'ampak', 'bomo', 'probali', 'te', 'like', 'tako', 'ko', 'je', 'eee', '[name:personal]', 'zdaj', 'že', 'malo', 'nastavil', 'bomo', 'probali', 'skoz', 'jezik', 'in', 'način', 'govora', '[speaker:laughter]']","[0, 11, 0, 4, 2, 3, 11, 5, 6, 6, 5, 9, 4, 10, 4, 5, 3, 15, 9, 10, 0, 0, 5, 11, 10, 11, 15, 10, 10, 11, 6, 3, 4, 10, 5, 1, 6, 15, 13, 5, 0, 4, 3, 6, 3, 9, 10, 11, 10, 10, 8]"
+"['in', '[name:personal]', 'in', 'jaz', 'smo', 'že', 'že', 'delale', 'en', 'projekt', 'in', 'smo', 'ful', 'lepo', 'delale', 'na', 'točno', 'na', 'ta', 'način', 'da', 'smo', 'da', 'smo', 'eee', 'že', '[gap]', 'govora', 'iskali', 'eem', 'odnose', 'pa', 'osebe', 'in', 'se', 'mi', 'zdi', 'da', 'bodite', 'pozorni', 'pa', 'sprejemajte', 'pomoč', 'in', 'in', 'sugestije', 'eem']","[11, 13, 11, 2, 6, 0, 0, 3, 14, 10, 11, 6, 5, 5, 3, 9, 5, 9, 4, 10, 1, 6, 1, 6, 15, 0, 8, 10, 3, 15, 10, 11, 10, 11, 2, 2, 3, 1, 6, 7, 11, 3, 10, 11, 11, 10, 15]"
+"['pa', '[name:personal]', 'prosim', 'povej', 'zdaj', 'kam', 'kaj', 'se', 'je', 'zgodilo', 'pol', 'naprej', 'od', 'od', 'tega', 'ko', 'sem', 'ti', 'dala', 'tekst', '[audience:laughter]', 'do', 'tu']","[11, 13, 3, 3, 5, 5, 2, 2, 6, 3, 5, 5, 9, 9, 4, 1, 6, 2, 3, 10, 8, 9, 5]"
